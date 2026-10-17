@@ -1,0 +1,52 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-020",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.776543,
+    "longitude": 90.241771
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 34.7,
+    "width_m": 20.6,
+    "aspect_ratio": 1.68,
+    "area_sqm": 714.8,
+    "estimated_capacity": 15725
+  },
+  "audit_metrics": {
+    "confidence": 0.399,
+    "estimated_length_m": 34.7,
+    "estimated_width_m": 20.6,
+    "distance_to_receptor_m": 2135.3,
+    "nearest_receptor": "Govt. Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.789908,
+      "longitude": 90.226689
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-020_patch.jpg",
+  "audit_timestamp": "2026-10-16T01:20:26.301106+00:00",
+  "audit_date_formatted": "16 Oct 2026, 07:20:26",
+  "status": "REQUIRES_HUMAN_VERIFICATION",
+  "human_verification": {
+    "status": "FALSE_POSITIVE",
+    "flagged_at": "2026-10-16T07:21:15.379614",
+    "flagged_by": "DoE_Inspector"
+  }
+}

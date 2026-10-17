@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-TGM-023",
+  "region": "Tangail",
+  "coordinates": {
+    "latitude": 24.080962,
+    "longitude": 90.121417
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 105.8,
+    "width_m": 100.3,
+    "aspect_ratio": 1.05,
+    "area_sqm": 10611.7,
+    "estimated_capacity": 233457
+  },
+  "audit_metrics": {
+    "confidence": 0.646,
+    "estimated_length_m": 105.8,
+    "estimated_width_m": 100.3,
+    "distance_to_receptor_m": 1749.0,
+    "nearest_receptor": "Labcare Diagnostic And Hospital, Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.096538,
+      "longitude": 90.118661
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-TGM-023_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:45:07.946190+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:45:07",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

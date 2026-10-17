@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVN-093",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.831287,
+    "longitude": 90.239737
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 83.3,
+    "width_m": 56.8,
+    "aspect_ratio": 1.47,
+    "area_sqm": 4731.4,
+    "estimated_capacity": 104090
+  },
+  "audit_metrics": {
+    "confidence": 0.436,
+    "estimated_length_m": 83.3,
+    "estimated_width_m": 56.8,
+    "distance_to_receptor_m": 1164.5,
+    "nearest_receptor": "Savar Upazilla Health Complex",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.838665,
+      "longitude": 90.247872
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVN-093_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:44.936686+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:44",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

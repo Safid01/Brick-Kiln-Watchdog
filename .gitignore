@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and environment
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Temporary satellite scenes (can be re-downloaded by satellite_fetcher)
+cache/*.jpg
+!cache/.gitkeep
+
+# IDE and OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Active Learning scratch / temporary exports
+*.tmp

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZK-001",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 24.06208,
+    "longitude": 90.206748
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 98.6,
+    "width_m": 83.0,
+    "aspect_ratio": 1.19,
+    "area_sqm": 8183.8,
+    "estimated_capacity": 180043
+  },
+  "audit_metrics": {
+    "confidence": 0.708,
+    "estimated_length_m": 98.6,
+    "estimated_width_m": 83.0,
+    "distance_to_receptor_m": 546.1,
+    "nearest_receptor": "Sreefaltoli Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 24.066432,
+      "longitude": 90.209265
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZK-001_patch.jpg",
+  "audit_timestamp": "2026-10-17T16:01:25.733892+00:00",
+  "audit_date_formatted": "17 Oct 2026, 22:01:25",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

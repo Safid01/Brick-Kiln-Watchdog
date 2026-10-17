@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KSC-005",
+  "region": "Kishoreganj",
+  "coordinates": {
+    "latitude": 24.445285,
+    "longitude": 90.832556
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 94.3,
+    "width_m": 69.9,
+    "aspect_ratio": 1.35,
+    "area_sqm": 6591.6,
+    "estimated_capacity": 145015
+  },
+  "audit_metrics": {
+    "confidence": 0.681,
+    "estimated_length_m": 94.3,
+    "estimated_width_m": 69.9,
+    "distance_to_receptor_m": 35027.9,
+    "nearest_receptor": "Noruttampur Community Clinic Road",
+    "receptor_type": "clinic",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.176514,
+      "longitude": 90.650874
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KSC-005_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:54:27.358904+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:54:27",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

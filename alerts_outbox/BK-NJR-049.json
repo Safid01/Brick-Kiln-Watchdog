@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-049",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.782354,
+    "longitude": 90.524492
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 96.1,
+    "width_m": 78.5,
+    "aspect_ratio": 1.22,
+    "area_sqm": 7543.8,
+    "estimated_capacity": 165963
+  },
+  "audit_metrics": {
+    "confidence": 0.453,
+    "estimated_length_m": 96.1,
+    "estimated_width_m": 78.5,
+    "distance_to_receptor_m": 1748.2,
+    "nearest_receptor": "\u0997\u0999\u09cd\u0997\u09be\u09a8\u0997\u09b0 \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.768406,
+      "longitude": 90.51648
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-049_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:44:36.388661+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:44:36",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

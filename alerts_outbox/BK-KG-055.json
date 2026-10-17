@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KG-055",
+  "region": "Keraniganj",
+  "coordinates": {
+    "latitude": 23.624623,
+    "longitude": 90.416994
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 69.0,
+    "width_m": 51.0,
+    "aspect_ratio": 1.35,
+    "area_sqm": 3519.0,
+    "estimated_capacity": 77418
+  },
+  "audit_metrics": {
+    "confidence": 0.465,
+    "estimated_length_m": 69.0,
+    "estimated_width_m": 51.0,
+    "distance_to_receptor_m": 2505.4,
+    "nearest_receptor": "Zazira High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.633381,
+      "longitude": 90.43962
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KG-055_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:01.927459+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

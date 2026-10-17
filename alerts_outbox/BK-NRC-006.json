@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRC-006",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 23.918622,
+    "longitude": 90.738217
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 110.1,
+    "width_m": 97.9,
+    "aspect_ratio": 1.12,
+    "area_sqm": 10778.8,
+    "estimated_capacity": 237133
+  },
+  "audit_metrics": {
+    "confidence": 0.713,
+    "estimated_length_m": 110.1,
+    "estimated_width_m": 97.9,
+    "distance_to_receptor_m": 3997.2,
+    "nearest_receptor": "Abdul Kadir Mollah City College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.925539,
+      "longitude": 90.699695
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRC-006_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:47:14.486731+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:47:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

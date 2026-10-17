@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-060",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.894217,
+    "longitude": 90.212919
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 98.2,
+    "width_m": 70.9,
+    "aspect_ratio": 1.39,
+    "area_sqm": 6962.4,
+    "estimated_capacity": 153172
+  },
+  "audit_metrics": {
+    "confidence": 0.555,
+    "estimated_length_m": 98.2,
+    "estimated_width_m": 70.9,
+    "distance_to_receptor_m": 1111.4,
+    "nearest_receptor": "Khatra Government Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.902333,
+      "longitude": 90.206511
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-060_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:42:17.362990+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:42:17",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

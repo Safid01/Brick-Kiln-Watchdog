@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKC-059",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.817199,
+    "longitude": 90.043126
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 99.8,
+    "width_m": 81.3,
+    "aspect_ratio": 1.23,
+    "area_sqm": 8113.7,
+    "estimated_capacity": 178501
+  },
+  "audit_metrics": {
+    "confidence": 0.322,
+    "estimated_length_m": 99.8,
+    "estimated_width_m": 81.3,
+    "distance_to_receptor_m": 378.4,
+    "nearest_receptor": "Mitora General Hospital And Diagnostic Center, Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.816888,
+      "longitude": 90.046822
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKC-059_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:50:46.022200+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:50:46",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

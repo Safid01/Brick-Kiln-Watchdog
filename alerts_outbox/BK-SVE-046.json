@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-046",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.765663,
+    "longitude": 90.325007
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 97.4,
+    "width_m": 83.0,
+    "aspect_ratio": 1.17,
+    "area_sqm": 8084.2,
+    "estimated_capacity": 177852
+  },
+  "audit_metrics": {
+    "confidence": 0.48,
+    "estimated_length_m": 97.4,
+    "estimated_width_m": 83.0,
+    "distance_to_receptor_m": 1598.1,
+    "nearest_receptor": "\u0986\u09ac\u09c1 \u09b9\u09c1\u09b0\u09be\u0987\u09b0\u09be \u09ae\u09be\u09a6\u09b0\u09be\u09b8\u09be",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.778854,
+      "longitude": 90.331344
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-046_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:27.392236+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:27",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

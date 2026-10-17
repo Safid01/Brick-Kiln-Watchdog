@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNG-054",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.603194,
+    "longitude": 90.587108
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 101.5,
+    "width_m": 79.9,
+    "aspect_ratio": 1.27,
+    "area_sqm": 8109.9,
+    "estimated_capacity": 178417
+  },
+  "audit_metrics": {
+    "confidence": 0.257,
+    "estimated_length_m": 101.5,
+    "estimated_width_m": 79.9,
+    "distance_to_receptor_m": 1787.5,
+    "nearest_receptor": "TAHERPUR HAZI LAL MIAH SCHOOL",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.618846,
+      "longitude": 90.582862
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNG-054_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:52:16.262986+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:52:16",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

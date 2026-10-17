@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNS-071",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.615296,
+    "longitude": 90.332705
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 101.3,
+    "width_m": 74.2,
+    "aspect_ratio": 1.37,
+    "area_sqm": 7516.5,
+    "estimated_capacity": 165363
+  },
+  "audit_metrics": {
+    "confidence": 0.301,
+    "estimated_length_m": 101.3,
+    "estimated_width_m": 74.2,
+    "distance_to_receptor_m": 67.5,
+    "nearest_receptor": "Basumoti General Hospital, General hospital, Dhaka - Mawa Hwy, Dhaka",
+    "receptor_type": "hospital",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.614768,
+      "longitude": 90.332374
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNS-071_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:53:12.136797+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:53:12",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

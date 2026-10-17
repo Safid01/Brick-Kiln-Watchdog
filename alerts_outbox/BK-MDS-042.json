@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MDS-042",
+  "region": "Madaripur",
+  "coordinates": {
+    "latitude": 23.462854,
+    "longitude": 90.117156
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 133.7,
+    "width_m": 87.3,
+    "aspect_ratio": 1.53,
+    "area_sqm": 11672.0,
+    "estimated_capacity": 256784
+  },
+  "audit_metrics": {
+    "confidence": 0.225,
+    "estimated_length_m": 133.7,
+    "estimated_width_m": 87.3,
+    "distance_to_receptor_m": 10083.1,
+    "nearest_receptor": "Moksudpur Shamsuddin Sikder High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.545233,
+      "longitude": 90.159035
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MDS-042_patch.jpg",
+  "audit_timestamp": "2026-10-17T12:05:18.659524+00:00",
+  "audit_date_formatted": "17 Oct 2026, 18:05:18",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

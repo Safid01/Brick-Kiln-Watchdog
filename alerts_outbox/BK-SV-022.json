@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-022",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.792061,
+    "longitude": 90.263414
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 72.9,
+    "width_m": 34.0,
+    "aspect_ratio": 2.14,
+    "area_sqm": 2478.6,
+    "estimated_capacity": 54529
+  },
+  "audit_metrics": {
+    "confidence": 0.388,
+    "estimated_length_m": 72.9,
+    "estimated_width_m": 34.0,
+    "distance_to_receptor_m": 559.6,
+    "nearest_receptor": "Hemayetpur General Hospital, Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.792088,
+      "longitude": 90.257926
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-022_patch.jpg",
+  "audit_timestamp": "2026-10-16T01:21:36.137980+00:00",
+  "audit_date_formatted": "16 Oct 2026, 07:21:36",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

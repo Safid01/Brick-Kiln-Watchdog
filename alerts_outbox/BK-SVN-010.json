@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVN-010",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.826475,
+    "longitude": 90.263593
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 71.5,
+    "width_m": 35.8,
+    "aspect_ratio": 2.0,
+    "area_sqm": 2559.7,
+    "estimated_capacity": 56313
+  },
+  "audit_metrics": {
+    "confidence": 0.356,
+    "estimated_length_m": 71.5,
+    "estimated_width_m": 35.8,
+    "distance_to_receptor_m": 668.3,
+    "nearest_receptor": "Noorani Talimul Quran Hafezia Madrasa, Religious school",
+    "receptor_type": "school",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.822368,
+      "longitude": 90.258794
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVN-010_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:45.020196+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

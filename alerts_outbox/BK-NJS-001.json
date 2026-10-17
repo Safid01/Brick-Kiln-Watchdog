@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJS-001",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.630654,
+    "longitude": 90.619639
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 86.9,
+    "width_m": 81.4,
+    "aspect_ratio": 1.07,
+    "area_sqm": 7073.7,
+    "estimated_capacity": 155621
+  },
+  "audit_metrics": {
+    "confidence": 0.678,
+    "estimated_length_m": 86.9,
+    "estimated_width_m": 81.4,
+    "distance_to_receptor_m": 1837.6,
+    "nearest_receptor": "Sugondha highway restaurant",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.630835,
+      "longitude": 90.601638
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJS-001_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:44:11.157925+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:44:11",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KSB-015",
+  "region": "Kishoreganj",
+  "coordinates": {
+    "latitude": 24.061492,
+    "longitude": 90.976579
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 45.9,
+    "width_m": 45.0,
+    "aspect_ratio": 1.02,
+    "area_sqm": 2065.5,
+    "estimated_capacity": 45441
+  },
+  "audit_metrics": {
+    "confidence": 0.68,
+    "estimated_length_m": 45.9,
+    "estimated_width_m": 45.0,
+    "distance_to_receptor_m": 30025.6,
+    "nearest_receptor": "Monohardi Pailot High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.144823,
+      "longitude": 90.695616
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KSB-015_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:53:32.908508+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:53:32",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNP-055",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.532306,
+    "longitude": 90.515707
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 45.2,
+    "width_m": 32.0,
+    "aspect_ratio": 1.41,
+    "area_sqm": 1446.4,
+    "estimated_capacity": 31820
+  },
+  "audit_metrics": {
+    "confidence": 0.256,
+    "estimated_length_m": 45.2,
+    "estimated_width_m": 32.0,
+    "distance_to_receptor_m": 1745.4,
+    "nearest_receptor": "Ramshing Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.53049,
+      "longitude": 90.498735
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNP-055_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:54:30.542564+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:54:30",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

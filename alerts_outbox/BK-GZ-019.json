@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZ-019",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 23.970998,
+    "longitude": 90.297004
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 81.5,
+    "width_m": 24.1,
+    "aspect_ratio": 3.38,
+    "area_sqm": 1964.2,
+    "estimated_capacity": 43212
+  },
+  "audit_metrics": {
+    "confidence": 0.354,
+    "estimated_length_m": 81.5,
+    "estimated_width_m": 24.1,
+    "distance_to_receptor_m": 1140.7,
+    "nearest_receptor": "Kashem Sajeda Pre Cadet High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.965597,
+      "longitude": 90.287468
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZ-019_patch.jpg",
+  "audit_timestamp": "2026-10-16T01:21:45.462161+00:00",
+  "audit_date_formatted": "16 Oct 2026, 07:21:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

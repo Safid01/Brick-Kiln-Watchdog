@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KG-075",
+  "region": "Keraniganj",
+  "coordinates": {
+    "latitude": 23.640882,
+    "longitude": 90.411215
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 148.7,
+    "width_m": 134.7,
+    "aspect_ratio": 1.1,
+    "area_sqm": 20029.9,
+    "estimated_capacity": 440657
+  },
+  "audit_metrics": {
+    "confidence": 0.281,
+    "estimated_length_m": 148.7,
+    "estimated_width_m": 134.7,
+    "distance_to_receptor_m": 1697.5,
+    "nearest_receptor": "Jagannath University New Campus",
+    "receptor_type": "university",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.653359,
+      "longitude": 90.401566
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KG-075_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:40:32.707301+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:40:32",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

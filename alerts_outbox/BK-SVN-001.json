@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVN-001",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.818138,
+    "longitude": 90.270613
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 96.8,
+    "width_m": 83.5,
+    "aspect_ratio": 1.16,
+    "area_sqm": 8082.8,
+    "estimated_capacity": 177821
+  },
+  "audit_metrics": {
+    "confidence": 0.758,
+    "estimated_length_m": 96.8,
+    "estimated_width_m": 83.5,
+    "distance_to_receptor_m": 1191.7,
+    "nearest_receptor": "Banktown Agrani High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.820168,
+      "longitude": 90.259135
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVN-001_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:44.718883+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:44",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

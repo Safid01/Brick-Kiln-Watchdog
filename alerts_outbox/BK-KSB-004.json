@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KSB-004",
+  "region": "Kishoreganj",
+  "coordinates": {
+    "latitude": 24.082403,
+    "longitude": 90.944418
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 98.9,
+    "width_m": 87.4,
+    "aspect_ratio": 1.13,
+    "area_sqm": 8643.9,
+    "estimated_capacity": 190165
+  },
+  "audit_metrics": {
+    "confidence": 0.766,
+    "estimated_length_m": 98.9,
+    "estimated_width_m": 87.4,
+    "distance_to_receptor_m": 26227.0,
+    "nearest_receptor": "Monohardi Pailot High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.144823,
+      "longitude": 90.695616
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KSB-004_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:53:32.503271+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:53:32",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

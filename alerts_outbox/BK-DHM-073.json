@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-073",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.881201,
+    "longitude": 90.152264
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 104.0,
+    "width_m": 82.6,
+    "aspect_ratio": 1.26,
+    "area_sqm": 8590.4,
+    "estimated_capacity": 188988
+  },
+  "audit_metrics": {
+    "confidence": 0.478,
+    "estimated_length_m": 104.0,
+    "estimated_width_m": 82.6,
+    "distance_to_receptor_m": 4170.3,
+    "nearest_receptor": "Sutipara Govt. Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.916783,
+      "longitude": 90.138954
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-073_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:42:18.261525+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:42:18",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

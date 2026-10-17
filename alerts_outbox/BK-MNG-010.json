@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNG-010",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.534783,
+    "longitude": 90.676597
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 122.2,
+    "width_m": 120.5,
+    "aspect_ratio": 1.01,
+    "area_sqm": 14725.1,
+    "estimated_capacity": 323952
+  },
+  "audit_metrics": {
+    "confidence": 0.562,
+    "estimated_length_m": 122.2,
+    "estimated_width_m": 120.5,
+    "distance_to_receptor_m": 950.4,
+    "nearest_receptor": "\u09e8\u09ed \u09a8\u0982 \u09a6\u0995\u09cd\u09b7\u09bf\u09a8 \u0995\u09be\u09a8\u09cd\u09a6\u09bf \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df",
+    "receptor_type": "school",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.532202,
+      "longitude": 90.685471
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNG-010_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:50:21.375469+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:50:21",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-TGM-051",
+  "region": "Tangail",
+  "coordinates": {
+    "latitude": 24.088774,
+    "longitude": 90.115964
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 91.5,
+    "width_m": 72.4,
+    "aspect_ratio": 1.26,
+    "area_sqm": 6624.6,
+    "estimated_capacity": 145741
+  },
+  "audit_metrics": {
+    "confidence": 0.327,
+    "estimated_length_m": 91.5,
+    "estimated_width_m": 72.4,
+    "distance_to_receptor_m": 900.1,
+    "nearest_receptor": "Dewhata Alhaj Jonab Ali Bahumukhi High School",
+    "receptor_type": "school",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 24.096836,
+      "longitude": 90.117022
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-TGM-051_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:45:25.982769+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:45:25",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

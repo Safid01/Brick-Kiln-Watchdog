@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNS-003",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.624545,
+    "longitude": 90.389534
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 108.9,
+    "width_m": 104.6,
+    "aspect_ratio": 1.04,
+    "area_sqm": 11390.9,
+    "estimated_capacity": 250599
+  },
+  "audit_metrics": {
+    "confidence": 0.813,
+    "estimated_length_m": 108.9,
+    "estimated_width_m": 104.6,
+    "distance_to_receptor_m": 3420.9,
+    "nearest_receptor": "Jagannath University New Campus",
+    "receptor_type": "university",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.653359,
+      "longitude": 90.401566
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNS-003_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:50:49.840216+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:50:49",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

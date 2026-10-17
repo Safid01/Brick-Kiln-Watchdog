@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZ-122",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 23.960364,
+    "longitude": 90.309309
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 107.1,
+    "width_m": 70.4,
+    "aspect_ratio": 1.52,
+    "area_sqm": 7539.8,
+    "estimated_capacity": 165875
+  },
+  "audit_metrics": {
+    "confidence": 0.222,
+    "estimated_length_m": 107.1,
+    "estimated_width_m": 70.4,
+    "distance_to_receptor_m": 731.0,
+    "nearest_receptor": "Baghbari Madrasha",
+    "receptor_type": "college",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.957661,
+      "longitude": 90.315857
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZ-122_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:42:19.871035+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:42:19",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

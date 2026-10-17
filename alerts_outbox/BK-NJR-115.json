@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-115",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.751948,
+    "longitude": 90.544962
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 122.5,
+    "width_m": 98.9,
+    "aspect_ratio": 1.24,
+    "area_sqm": 12115.2,
+    "estimated_capacity": 266534
+  },
+  "audit_metrics": {
+    "confidence": 0.215,
+    "estimated_length_m": 122.5,
+    "estimated_width_m": 98.9,
+    "distance_to_receptor_m": 844.6,
+    "nearest_receptor": "Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.746088,
+      "longitude": 90.539666
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-115_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:44:51.727113+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:44:51",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

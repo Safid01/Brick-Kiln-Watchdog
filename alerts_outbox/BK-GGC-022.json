@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GGC-022",
+  "region": "Gopalganj",
+  "coordinates": {
+    "latitude": 23.037853,
+    "longitude": 89.803698
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 72.6,
+    "width_m": 58.4,
+    "aspect_ratio": 1.24,
+    "area_sqm": 4239.8,
+    "estimated_capacity": 93275
+  },
+  "audit_metrics": {
+    "confidence": 0.417,
+    "estimated_length_m": 72.6,
+    "estimated_width_m": 58.4,
+    "distance_to_receptor_m": 61934.1,
+    "nearest_receptor": "Char Bhadrasan Pilot High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.564471,
+      "longitude": 90.005929
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GGC-022_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:55:00.398051+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:55:00",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

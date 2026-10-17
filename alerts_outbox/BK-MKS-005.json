@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKS-005",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.791369,
+    "longitude": 90.120892
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 115.6,
+    "width_m": 115.5,
+    "aspect_ratio": 1.0,
+    "area_sqm": 13351.8,
+    "estimated_capacity": 293739
+  },
+  "audit_metrics": {
+    "confidence": 0.722,
+    "estimated_length_m": 115.6,
+    "estimated_width_m": 115.5,
+    "distance_to_receptor_m": 2186.9,
+    "nearest_receptor": "Matrchaya Kinder Garden, Kindergarten",
+    "receptor_type": "kindergarten",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.811071,
+      "longitude": 90.11971
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKS-005_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:48:28.830613+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:48:28",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

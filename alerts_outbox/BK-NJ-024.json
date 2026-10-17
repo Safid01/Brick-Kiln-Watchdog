@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJ-024",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.654366,
+    "longitude": 90.546167
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 80.1,
+    "width_m": 44.0,
+    "aspect_ratio": 1.82,
+    "area_sqm": 3524.4,
+    "estimated_capacity": 77536
+  },
+  "audit_metrics": {
+    "confidence": 0.357,
+    "estimated_length_m": 80.1,
+    "estimated_width_m": 44.0,
+    "distance_to_receptor_m": 3049.4,
+    "nearest_receptor": "Godnail High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.654523,
+      "longitude": 90.51629
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJ-024_patch.jpg",
+  "audit_timestamp": "2026-10-16T01:21:54.405884+00:00",
+  "audit_date_formatted": "16 Oct 2026, 07:21:54",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

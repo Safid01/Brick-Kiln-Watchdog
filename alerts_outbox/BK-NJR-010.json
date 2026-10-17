@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-010",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.794417,
+    "longitude": 90.579464
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 102.4,
+    "width_m": 90.9,
+    "aspect_ratio": 1.13,
+    "area_sqm": 9308.2,
+    "estimated_capacity": 204780
+  },
+  "audit_metrics": {
+    "confidence": 0.684,
+    "estimated_length_m": 102.4,
+    "estimated_width_m": 90.9,
+    "distance_to_receptor_m": 1530.6,
+    "nearest_receptor": "Al Rafi Hospital Ltd.",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.78511,
+      "longitude": 90.56837
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-010_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:44:35.683641+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:44:35",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,56 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KG-084",
+  "region": "Keraniganj",
+  "district": "Dhaka",
+  "coordinates": {
+    "latitude": 23.661319,
+    "longitude": 90.373819
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "is_active": true,
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility",
+    "plume_opacity_pct": 0,
+    "thermal_signature": "ACTIVE_THERMAL_CORE"
+  },
+  "dimensions": {
+    "length_m": 88.5,
+    "width_m": 46.2,
+    "aspect_ratio": 1.92,
+    "area_sqm": 4088.7,
+    "estimated_capacity": 89951
+  },
+  "audit_metrics": {
+    "confidence": 0.99,
+    "estimated_length_m": 88.5,
+    "estimated_width_m": 46.2,
+    "distance_to_receptor_m": 372.7,
+    "nearest_receptor": "T.K. SCHOOL OF INTELLIGENCE, Dhaka - Mawa Hwy, Dhaka",
+    "receptor_type": "school",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.661799,
+      "longitude": 90.377434
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KG-084_patch.jpg",
+  "audit_timestamp": "2026-10-17T13:55:41.814906+00:00",
+  "audit_date_formatted": "17 Oct 2026, 13:55:41",
+  "status": "REQUIRES_HUMAN_VERIFICATION",
+  "human_verification": {
+    "status": "FALSE_POSITIVE",
+    "flagged_at": "2026-10-17T19:55:46.997693",
+    "flagged_by": "DoE_Inspector"
+  }
+}

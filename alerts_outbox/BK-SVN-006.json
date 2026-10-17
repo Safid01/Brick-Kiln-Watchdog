@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVN-006",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.817051,
+    "longitude": 90.245557
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 110.7,
+    "width_m": 103.5,
+    "aspect_ratio": 1.07,
+    "area_sqm": 11457.5,
+    "estimated_capacity": 252065
+  },
+  "audit_metrics": {
+    "confidence": 0.542,
+    "estimated_length_m": 110.7,
+    "estimated_width_m": 103.5,
+    "distance_to_receptor_m": 1291.8,
+    "nearest_receptor": "Afnan Hospital & Diagnostic Ltd. \u0986\u09ab\u09a8\u09be\u09a8 \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2 \u098f\u09a8\u09cd\u09a1 \u09a1\u09be\u09af\u09bc\u09be\u0997\u09a8\u09b8\u09cd\u099f\u09bf\u0995 \u09b2\u09bf\u0983",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.811759,
+      "longitude": 90.256846
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVN-006_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:44.864278+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:44",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

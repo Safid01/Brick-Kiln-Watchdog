@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-099",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.791688,
+    "longitude": 90.524765
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 74.2,
+    "width_m": 34.3,
+    "aspect_ratio": 2.16,
+    "area_sqm": 2545.1,
+    "estimated_capacity": 55992
+  },
+  "audit_metrics": {
+    "confidence": 0.259,
+    "estimated_length_m": 74.2,
+    "estimated_width_m": 34.3,
+    "distance_to_receptor_m": 2144.1,
+    "nearest_receptor": "Aysha memorial model school",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.797588,
+      "longitude": 90.544795
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-099_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:44:50.618128+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:44:50",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

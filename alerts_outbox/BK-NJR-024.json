@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-024",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.775756,
+    "longitude": 90.581561
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 96.7,
+    "width_m": 70.1,
+    "aspect_ratio": 1.38,
+    "area_sqm": 6778.7,
+    "estimated_capacity": 149131
+  },
+  "audit_metrics": {
+    "confidence": 0.609,
+    "estimated_length_m": 96.7,
+    "estimated_width_m": 70.1,
+    "distance_to_receptor_m": 1698.0,
+    "nearest_receptor": "Al Rafi Hospital Ltd.",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.78511,
+      "longitude": 90.56837
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-024_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:44:36.013929+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:44:36",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

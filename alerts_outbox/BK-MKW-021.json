@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKW-021",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.866979,
+    "longitude": 89.843034
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 127.0,
+    "width_m": 91.8,
+    "aspect_ratio": 1.38,
+    "area_sqm": 11658.6,
+    "estimated_capacity": 256489
+  },
+  "audit_metrics": {
+    "confidence": 0.46,
+    "estimated_length_m": 127.0,
+    "estimated_width_m": 91.8,
+    "distance_to_receptor_m": 16050.1,
+    "nearest_receptor": "Holy Flower Cadet Academy, School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.857173,
+      "longitude": 90.000114
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKW-021_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:49:43.865148+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:49:43",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

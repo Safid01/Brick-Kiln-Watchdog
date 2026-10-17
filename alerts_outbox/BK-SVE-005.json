@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-005",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.803198,
+    "longitude": 90.31402
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 116.0,
+    "width_m": 114.8,
+    "aspect_ratio": 1.01,
+    "area_sqm": 13316.8,
+    "estimated_capacity": 292969
+  },
+  "audit_metrics": {
+    "confidence": 0.733,
+    "estimated_length_m": 116.0,
+    "estimated_width_m": 114.8,
+    "distance_to_receptor_m": 1909.1,
+    "nearest_receptor": "Kasemul Uloom Al Islamia Dhaka Bangladesh, School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.78894,
+      "longitude": 90.324529
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-005_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:25.429137+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:25",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

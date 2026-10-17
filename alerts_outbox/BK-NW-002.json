@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NW-002",
+  "region": "Nawabganj",
+  "coordinates": {
+    "latitude": 23.681346,
+    "longitude": 90.169819
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 95.3,
+    "width_m": 64.5,
+    "aspect_ratio": 1.48,
+    "area_sqm": 6146.8,
+    "estimated_capacity": 135229
+  },
+  "audit_metrics": {
+    "confidence": 0.654,
+    "estimated_length_m": 95.3,
+    "estimated_width_m": 64.5,
+    "distance_to_receptor_m": 2275.7,
+    "nearest_receptor": "Dohar Nababgonj University College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.663682,
+      "longitude": 90.15845
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NW-002_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:36.917827+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:36",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

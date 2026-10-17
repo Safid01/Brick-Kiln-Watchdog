@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-073",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.819924,
+    "longitude": 90.512143
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 69.3,
+    "width_m": 64.0,
+    "aspect_ratio": 1.08,
+    "area_sqm": 4435.2,
+    "estimated_capacity": 97574
+  },
+  "audit_metrics": {
+    "confidence": 0.361,
+    "estimated_length_m": 69.3,
+    "estimated_width_m": 64.0,
+    "distance_to_receptor_m": 230.6,
+    "nearest_receptor": "Adamjee Public School",
+    "receptor_type": "school",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.820205,
+      "longitude": 90.509901
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-073_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:44:36.767818+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:44:36",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

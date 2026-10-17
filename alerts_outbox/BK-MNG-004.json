@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNG-004",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.593987,
+    "longitude": 90.617556
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 100.6,
+    "width_m": 87.0,
+    "aspect_ratio": 1.16,
+    "area_sqm": 8752.2,
+    "estimated_capacity": 192548
+  },
+  "audit_metrics": {
+    "confidence": 0.664,
+    "estimated_length_m": 100.6,
+    "estimated_width_m": 87.0,
+    "distance_to_receptor_m": 2250.4,
+    "nearest_receptor": "Meghna Shilpa Nagari School & College Play Ground",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.61401,
+      "longitude": 90.613849
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNG-004_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:50:21.169943+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:50:21",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

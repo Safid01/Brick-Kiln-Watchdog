@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-055",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.810059,
+    "longitude": 90.331568
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 96.5,
+    "width_m": 79.0,
+    "aspect_ratio": 1.22,
+    "area_sqm": 7623.5,
+    "estimated_capacity": 167717
+  },
+  "audit_metrics": {
+    "confidence": 0.371,
+    "estimated_length_m": 96.5,
+    "estimated_width_m": 79.0,
+    "distance_to_receptor_m": 1012.1,
+    "nearest_receptor": "ALPHA BANGLA HIGH SCHOOL, Middle school",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.809544,
+      "longitude": 90.341479
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-055_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:27.793018+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:27",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

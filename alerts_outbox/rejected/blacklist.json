@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "description": "Permanent spatial exclusion registry for rejected false alarms. Candidates within exclusion_radius_m are skipped during scans.",
+  "exclusion_radius_m": 65.0,
+  "total_excluded_sites": 9,
+  "updated_at": "2026-10-17T15:02:41.045110+00:00",
+  "sites": [
+    {
+      "kiln_id": "BK-NW-010",
+      "latitude": 23.672491,
+      "longitude": 90.193726,
+      "flagged_at": "2026-10-11T19:57:52.023936",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-NW-010.json",
+      "reason": "Human inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-SV-020",
+      "latitude": 23.776543,
+      "longitude": 90.241771,
+      "flagged_at": "2026-10-16T01:21:15.390130+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-SV-020.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-SV-012",
+      "latitude": 23.775923,
+      "longitude": 90.242797,
+      "flagged_at": "2026-10-16T01:21:24.131984+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-SV-012.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-RB-001",
+      "latitude": 23.792884,
+      "longitude": 88.838196,
+      "flagged_at": "2026-10-17T13:43:18.119016+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-RB-001.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-KG-084",
+      "latitude": 23.661319,
+      "longitude": 90.373819,
+      "flagged_at": "2026-10-17T13:55:47.007989+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-KG-084.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-FPB-030",
+      "latitude": 23.396586,
+      "longitude": 90.01708,
+      "flagged_at": "2026-10-17T14:37:58.318777+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-FPB-030.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-FPC-088",
+      "latitude": 23.569688,
+      "longitude": 89.883844,
+      "flagged_at": "2026-10-17T14:39:54.308815+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-FPC-088.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-FPC-117",
+      "latitude": 23.560072,
+      "longitude": 89.860987,
+      "flagged_at": "2026-10-17T14:40:08.685119+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-FPC-117.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-NW-038",
+      "latitude": 23.727053,
+      "longitude": 90.142849,
+      "flagged_at": "2026-10-17T15:02:41.045110+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-NW-038.json",
+      "reason": "Inspector marked False Positive"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KG-050",
+  "region": "Keraniganj",
+  "coordinates": {
+    "latitude": 23.62043,
+    "longitude": 90.380867
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 46.3,
+    "width_m": 26.4,
+    "aspect_ratio": 1.75,
+    "area_sqm": 1222.3,
+    "estimated_capacity": 26890
+  },
+  "audit_metrics": {
+    "confidence": 0.435,
+    "estimated_length_m": 46.3,
+    "estimated_width_m": 26.4,
+    "distance_to_receptor_m": 3749.1,
+    "nearest_receptor": "Bikrampur Adarsha College, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.631715,
+      "longitude": 90.346248
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KG-050_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:01.960059+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

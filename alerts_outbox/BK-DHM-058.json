@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-058",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.901179,
+    "longitude": 90.225782
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 77.9,
+    "width_m": 55.1,
+    "aspect_ratio": 1.41,
+    "area_sqm": 4292.3,
+    "estimated_capacity": 94430
+  },
+  "audit_metrics": {
+    "confidence": 0.56,
+    "estimated_length_m": 77.9,
+    "estimated_width_m": 55.1,
+    "distance_to_receptor_m": 767.5,
+    "nearest_receptor": "Dhamrai Diabetes Hospital, Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.90546,
+      "longitude": 90.219862
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-058_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:42:17.273571+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:42:17",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

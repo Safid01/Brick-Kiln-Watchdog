@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MDC-019",
+  "region": "Madaripur",
+  "coordinates": {
+    "latitude": 23.189106,
+    "longitude": 90.239597
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 97.0,
+    "width_m": 77.5,
+    "aspect_ratio": 1.25,
+    "area_sqm": 7517.5,
+    "estimated_capacity": 165385
+  },
+  "audit_metrics": {
+    "confidence": 0.683,
+    "estimated_length_m": 97.0,
+    "estimated_width_m": 77.5,
+    "distance_to_receptor_m": 35015.3,
+    "nearest_receptor": "Shamaspur High School & College, Dhaka-Mawa Highway, Mawa",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.503683,
+      "longitude": 90.271892
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MDC-019_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:56:45.242319+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:56:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

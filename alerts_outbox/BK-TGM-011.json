@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-TGM-011",
+  "region": "Tangail",
+  "coordinates": {
+    "latitude": 24.106469,
+    "longitude": 90.141987
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 118.3,
+    "width_m": 117.8,
+    "aspect_ratio": 1.0,
+    "area_sqm": 13935.7,
+    "estimated_capacity": 306585
+  },
+  "audit_metrics": {
+    "confidence": 0.7,
+    "estimated_length_m": 118.3,
+    "estimated_width_m": 117.8,
+    "distance_to_receptor_m": 1500.1,
+    "nearest_receptor": "Gorai High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.096836,
+      "longitude": 90.152345
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-TGM-011_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:45:07.210940+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:45:07",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

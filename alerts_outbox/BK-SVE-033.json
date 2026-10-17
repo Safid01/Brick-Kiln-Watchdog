@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-033",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.813976,
+    "longitude": 90.303286
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 92.7,
+    "width_m": 78.4,
+    "aspect_ratio": 1.18,
+    "area_sqm": 7267.7,
+    "estimated_capacity": 159889
+  },
+  "audit_metrics": {
+    "confidence": 0.624,
+    "estimated_length_m": 92.7,
+    "estimated_width_m": 78.4,
+    "distance_to_receptor_m": 1770.7,
+    "nearest_receptor": "Konda High School Play Ground",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.802647,
+      "longitude": 90.291038
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-033_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:26.791663+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

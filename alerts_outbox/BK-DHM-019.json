@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-019",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.907087,
+    "longitude": 90.145199
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 94.2,
+    "width_m": 77.8,
+    "aspect_ratio": 1.21,
+    "area_sqm": 7328.8,
+    "estimated_capacity": 161233
+  },
+  "audit_metrics": {
+    "confidence": 0.666,
+    "estimated_length_m": 94.2,
+    "estimated_width_m": 77.8,
+    "distance_to_receptor_m": 1248.9,
+    "nearest_receptor": "Sutipara Govt. Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.916783,
+      "longitude": 90.138954
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-019_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:42:14.739029+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:42:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

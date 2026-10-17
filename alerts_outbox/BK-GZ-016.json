@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZ-016",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 23.995902,
+    "longitude": 90.331072
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 79.6,
+    "width_m": 59.0,
+    "aspect_ratio": 1.35,
+    "area_sqm": 4696.4,
+    "estimated_capacity": 103320
+  },
+  "audit_metrics": {
+    "confidence": 0.389,
+    "estimated_length_m": 79.6,
+    "estimated_width_m": 59.0,
+    "distance_to_receptor_m": 904.0,
+    "nearest_receptor": "Kuddus Nagar High School",
+    "receptor_type": "school",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 24.003023,
+      "longitude": 90.32674
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZ-016_patch.jpg",
+  "audit_timestamp": "2026-10-16T01:21:45.336443+00:00",
+  "audit_date_formatted": "16 Oct 2026, 07:21:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

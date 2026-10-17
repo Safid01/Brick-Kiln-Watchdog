@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKC-002",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.894465,
+    "longitude": 90.054792
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 94.5,
+    "width_m": 76.7,
+    "aspect_ratio": 1.23,
+    "area_sqm": 7248.2,
+    "estimated_capacity": 159460
+  },
+  "audit_metrics": {
+    "confidence": 0.702,
+    "estimated_length_m": 94.5,
+    "estimated_width_m": 76.7,
+    "distance_to_receptor_m": 1396.4,
+    "nearest_receptor": "\u09b0\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u098f\u09a8\u09cd\u09a1 \u09a1\u09be\u09af\u09bc\u09be\u0997\u09a8\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.907064,
+      "longitude": 90.05486
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKC-002_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:49:04.783077+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:49:04",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

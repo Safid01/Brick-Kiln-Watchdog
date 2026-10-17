@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVN-160",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.858636,
+    "longitude": 90.279806
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 112.7,
+    "width_m": 106.0,
+    "aspect_ratio": 1.06,
+    "area_sqm": 11946.2,
+    "estimated_capacity": 262816
+  },
+  "audit_metrics": {
+    "confidence": 0.266,
+    "estimated_length_m": 112.7,
+    "estimated_width_m": 106.0,
+    "distance_to_receptor_m": 1440.4,
+    "nearest_receptor": "C R P",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.85625,
+      "longitude": 90.265914
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVN-160_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:40:11.698278+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:40:11",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

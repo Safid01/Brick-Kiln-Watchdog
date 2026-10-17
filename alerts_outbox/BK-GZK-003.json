@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZK-003",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 24.034741,
+    "longitude": 90.193648
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 96.6,
+    "width_m": 69.3,
+    "aspect_ratio": 1.39,
+    "area_sqm": 6694.4,
+    "estimated_capacity": 147276
+  },
+  "audit_metrics": {
+    "confidence": 0.695,
+    "estimated_length_m": 96.6,
+    "estimated_width_m": 69.3,
+    "distance_to_receptor_m": 3855.1,
+    "nearest_receptor": "Sreefaltoli Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.066432,
+      "longitude": 90.209265
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZK-003_patch.jpg",
+  "audit_timestamp": "2026-10-17T16:01:25.846107+00:00",
+  "audit_date_formatted": "17 Oct 2026, 22:01:25",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

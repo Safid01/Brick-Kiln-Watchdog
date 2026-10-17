@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-010",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.941912,
+    "longitude": 90.21268
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 100.9,
+    "width_m": 85.2,
+    "aspect_ratio": 1.18,
+    "area_sqm": 8596.7,
+    "estimated_capacity": 189127
+  },
+  "audit_metrics": {
+    "confidence": 0.693,
+    "estimated_length_m": 100.9,
+    "estimated_width_m": 85.2,
+    "distance_to_receptor_m": 2574.9,
+    "nearest_receptor": "Dhamrai Girls High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.918881,
+      "longitude": 90.21602
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-010_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:42:14.091791+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:42:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

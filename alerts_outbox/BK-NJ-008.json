@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJ-008",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.651073,
+    "longitude": 90.544675
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 118.9,
+    "width_m": 114.1,
+    "aspect_ratio": 1.04,
+    "area_sqm": 13566.5,
+    "estimated_capacity": 298463
+  },
+  "audit_metrics": {
+    "confidence": 0.695,
+    "estimated_length_m": 118.9,
+    "estimated_width_m": 114.1,
+    "distance_to_receptor_m": 2922.2,
+    "nearest_receptor": "Godnail High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.654523,
+      "longitude": 90.51629
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJ-008_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:43:44.757135+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:43:44",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

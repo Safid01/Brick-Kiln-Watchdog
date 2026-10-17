@@ -1,0 +1,12 @@
+# deploy.sh replaces __DOMAIN__ with your domain (HTTPS is automatic via Let's Encrypt)
+# or with ":80" when no domain is given (plain HTTP, testing only).
+__DOMAIN__ {
+	encode gzip
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy same-origin
+		X-Frame-Options DENY
+	}
+	# Only Next.js is exposed. The Python backend stays on 127.0.0.1:8000.
+	reverse_proxy 127.0.0.1:3000
+}

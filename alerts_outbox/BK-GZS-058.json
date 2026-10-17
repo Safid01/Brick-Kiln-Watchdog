@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZS-058",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 24.154512,
+    "longitude": 90.445405
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 82.6,
+    "width_m": 62.6,
+    "aspect_ratio": 1.32,
+    "area_sqm": 5170.8,
+    "estimated_capacity": 113757
+  },
+  "audit_metrics": {
+    "confidence": 0.233,
+    "estimated_length_m": 82.6,
+    "estimated_width_m": 62.6,
+    "distance_to_receptor_m": 3087.4,
+    "nearest_receptor": "Muktijoddha Degree College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.144301,
+      "longitude": 90.417153
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZS-058_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:43:24.522926+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:43:24",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GGC-013",
+  "region": "Gopalganj",
+  "coordinates": {
+    "latitude": 23.003064,
+    "longitude": 89.779458
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 101.4,
+    "width_m": 91.4,
+    "aspect_ratio": 1.11,
+    "area_sqm": 9268.0,
+    "estimated_capacity": 203896
+  },
+  "audit_metrics": {
+    "confidence": 0.493,
+    "estimated_length_m": 101.4,
+    "estimated_width_m": 91.4,
+    "distance_to_receptor_m": 66407.8,
+    "nearest_receptor": "Char Bhadrasan Pilot High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.564471,
+      "longitude": 90.005929
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GGC-013_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:55:00.213838+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:55:00",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNS-092",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.643607,
+    "longitude": 90.361841
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 135.9,
+    "width_m": 48.0,
+    "aspect_ratio": 2.83,
+    "area_sqm": 6523.2,
+    "estimated_capacity": 143510
+  },
+  "audit_metrics": {
+    "confidence": 0.206,
+    "estimated_length_m": 135.9,
+    "estimated_width_m": 48.0,
+    "distance_to_receptor_m": 1435.1,
+    "nearest_receptor": "Char Kundlia Government Primary School, Dhaka - Barisal High",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.641049,
+      "longitude": 90.34806
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNS-092_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:53:14.324264+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:53:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

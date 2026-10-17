@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZK-061",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 24.074208,
+    "longitude": 90.227817
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 88.3,
+    "width_m": 35.9,
+    "aspect_ratio": 2.46,
+    "area_sqm": 3170.0,
+    "estimated_capacity": 69740
+  },
+  "audit_metrics": {
+    "confidence": 0.204,
+    "estimated_length_m": 88.3,
+    "estimated_width_m": 35.9,
+    "distance_to_receptor_m": 740.2,
+    "nearest_receptor": "\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0 \u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2 \u0987\u0989\u09a8\u09bf\u09ad\u09be\u09b0\u09cd\u09b8\u09bf\u099f\u09bf",
+    "receptor_type": "university",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 24.07178,
+      "longitude": 90.22104
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZK-061_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:42:51.601627+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:42:51",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJ-052",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.604857,
+    "longitude": 90.525527
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 90.9,
+    "width_m": 72.1,
+    "aspect_ratio": 1.26,
+    "area_sqm": 6553.9,
+    "estimated_capacity": 144185
+  },
+  "audit_metrics": {
+    "confidence": 0.416,
+    "estimated_length_m": 90.9,
+    "estimated_width_m": 72.1,
+    "distance_to_receptor_m": 1145.2,
+    "nearest_receptor": "Sonakanda High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.603796,
+      "longitude": 90.51437
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJ-052_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:43:45.246263+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:43:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

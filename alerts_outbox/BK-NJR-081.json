@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-081",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.766402,
+    "longitude": 90.546391
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 77.5,
+    "width_m": 36.4,
+    "aspect_ratio": 2.13,
+    "area_sqm": 2821.0,
+    "estimated_capacity": 62062
+  },
+  "audit_metrics": {
+    "confidence": 0.327,
+    "estimated_length_m": 77.5,
+    "estimated_width_m": 36.4,
+    "distance_to_receptor_m": 2352.9,
+    "nearest_receptor": "Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.746088,
+      "longitude": 90.539666
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-081_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:44:49.371259+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:44:49",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

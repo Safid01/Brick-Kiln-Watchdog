@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-029",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.789702,
+    "longitude": 90.250104
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 107.4,
+    "width_m": 84.3,
+    "aspect_ratio": 1.27,
+    "area_sqm": 9053.8,
+    "estimated_capacity": 199183
+  },
+  "audit_metrics": {
+    "confidence": 0.373,
+    "estimated_length_m": 107.4,
+    "estimated_width_m": 84.3,
+    "distance_to_receptor_m": 840.3,
+    "nearest_receptor": "Hemayetpur General Hospital, Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.792088,
+      "longitude": 90.257926
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-029_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:39:58.904175+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:39:58",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

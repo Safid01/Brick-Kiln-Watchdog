@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKC-003",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.898821,
+    "longitude": 90.081942
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 105.6,
+    "width_m": 91.1,
+    "aspect_ratio": 1.16,
+    "area_sqm": 9620.2,
+    "estimated_capacity": 211644
+  },
+  "audit_metrics": {
+    "confidence": 0.697,
+    "estimated_length_m": 105.6,
+    "estimated_width_m": 91.1,
+    "distance_to_receptor_m": 2030.2,
+    "nearest_receptor": "Barobaria Gonoshasthaya Kendro, Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.911075,
+      "longitude": 90.067133
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKC-003_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:49:04.856227+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:49:04",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

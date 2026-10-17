@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NW-007",
+  "region": "Nawabganj",
+  "coordinates": {
+    "latitude": 23.737118,
+    "longitude": 90.205098
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 103.6,
+    "width_m": 94.2,
+    "aspect_ratio": 1.1,
+    "area_sqm": 9759.1,
+    "estimated_capacity": 214700
+  },
+  "audit_metrics": {
+    "confidence": 0.685,
+    "estimated_length_m": 103.6,
+    "estimated_width_m": 94.2,
+    "distance_to_receptor_m": 6251.0,
+    "nearest_receptor": "Govt. Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.789908,
+      "longitude": 90.226689
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NW-007_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:36.844745+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:36",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

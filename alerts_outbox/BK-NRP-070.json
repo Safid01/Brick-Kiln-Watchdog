@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRP-070",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 23.923172,
+    "longitude": 90.644503
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 103.6,
+    "width_m": 91.6,
+    "aspect_ratio": 1.13,
+    "area_sqm": 9489.8,
+    "estimated_capacity": 208775
+  },
+  "audit_metrics": {
+    "confidence": 0.28,
+    "estimated_length_m": 103.6,
+    "estimated_width_m": 91.6,
+    "distance_to_receptor_m": 2010.5,
+    "nearest_receptor": "BHATPARA N.C.GUPTA HIGH SCHOOL",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.911845,
+      "longitude": 90.659925
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRP-070_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:47:35.925787+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:47:35",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

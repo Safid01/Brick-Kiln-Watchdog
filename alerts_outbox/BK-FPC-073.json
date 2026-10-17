@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-FPC-073",
+  "region": "Faridpur",
+  "coordinates": {
+    "latitude": 23.631077,
+    "longitude": 89.857346
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 69.3,
+    "width_m": 67.7,
+    "aspect_ratio": 1.02,
+    "area_sqm": 4691.6,
+    "estimated_capacity": 103215
+  },
+  "audit_metrics": {
+    "confidence": 0.417,
+    "estimated_length_m": 69.3,
+    "estimated_width_m": 67.7,
+    "distance_to_receptor_m": 16622.7,
+    "nearest_receptor": "Char Bhadrasan Government College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.565851,
+      "longitude": 90.00388
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-FPC-073_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:51:54.245827+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:51:54",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

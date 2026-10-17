@@ -1,0 +1,20 @@
+[Unit]
+Description=Brick Kiln Watchdog - Python backend (FastAPI)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=__USER__
+# The backend reads/writes alerts_outbox/, evidence/, weights/, cache/ relative to this directory.
+WorkingDirectory=__DIR__
+# Bound to localhost on purpose: the backend has no login of its own.
+ExecStart=__DIR__/.venv/bin/uvicorn web_server:app --host 127.0.0.1 --port 8000
+Restart=always
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+# Optional Telegram alerts:
+# Environment=TELEGRAM_BOT_TOKEN=...
+# Environment=TELEGRAM_CHAT_ID=...
+
+[Install]
+WantedBy=multi-user.target

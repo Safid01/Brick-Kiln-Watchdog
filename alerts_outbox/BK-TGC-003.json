@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-TGC-003",
+  "region": "Tangail",
+  "coordinates": {
+    "latitude": 24.288876,
+    "longitude": 89.903003
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 99.6,
+    "width_m": 69.1,
+    "aspect_ratio": 1.44,
+    "area_sqm": 6882.4,
+    "estimated_capacity": 151412
+  },
+  "audit_metrics": {
+    "confidence": 0.737,
+    "estimated_length_m": 99.6,
+    "estimated_width_m": 69.1,
+    "distance_to_receptor_m": 19651.6,
+    "nearest_receptor": "Jamurki N.S.A.G High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.148588,
+      "longitude": 90.021195
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-TGC-003_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:45:45.427346+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:45:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

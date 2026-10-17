@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-FPB-021",
+  "region": "Faridpur",
+  "coordinates": {
+    "latitude": 23.368797,
+    "longitude": 89.944525
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 46.6,
+    "width_m": 41.0,
+    "aspect_ratio": 1.14,
+    "area_sqm": 1910.6,
+    "estimated_capacity": 42033
+  },
+  "audit_metrics": {
+    "confidence": 0.318,
+    "estimated_length_m": 46.6,
+    "estimated_width_m": 41.0,
+    "distance_to_receptor_m": 22578.4,
+    "nearest_receptor": "Char Bhadrasan Pilot High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.564471,
+      "longitude": 90.005929
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-FPB-021_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:57:09.306084+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:57:09",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

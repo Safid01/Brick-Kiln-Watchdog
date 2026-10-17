@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRP-085",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 23.920796,
+    "longitude": 90.629827
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 46.7,
+    "width_m": 32.0,
+    "aspect_ratio": 1.46,
+    "area_sqm": 1494.4,
+    "estimated_capacity": 32876
+  },
+  "audit_metrics": {
+    "confidence": 0.229,
+    "estimated_length_m": 46.7,
+    "estimated_width_m": 32.0,
+    "distance_to_receptor_m": 1516.4,
+    "nearest_receptor": "Bangladesh Jute Mills Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.929085,
+      "longitude": 90.617979
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRP-085_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:47:37.071004+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:47:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

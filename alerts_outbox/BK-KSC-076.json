@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KSC-076",
+  "region": "Kishoreganj",
+  "coordinates": {
+    "latitude": 24.408858,
+    "longitude": 90.740963
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 100.3,
+    "width_m": 89.2,
+    "aspect_ratio": 1.12,
+    "area_sqm": 8946.8,
+    "estimated_capacity": 196829
+  },
+  "audit_metrics": {
+    "confidence": 0.338,
+    "estimated_length_m": 100.3,
+    "estimated_width_m": 89.2,
+    "distance_to_receptor_m": 27319.3,
+    "nearest_receptor": "Noruttampur Community Clinic Road",
+    "receptor_type": "clinic",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.176514,
+      "longitude": 90.650874
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KSC-076_patch.jpg",
+  "audit_timestamp": "2026-10-17T12:01:24.978112+00:00",
+  "audit_date_formatted": "17 Oct 2026, 18:01:24",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

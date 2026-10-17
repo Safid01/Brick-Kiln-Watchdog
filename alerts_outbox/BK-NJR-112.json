@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-112",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.758015,
+    "longitude": 90.579671
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 82.4,
+    "width_m": 65.9,
+    "aspect_ratio": 1.25,
+    "area_sqm": 5430.2,
+    "estimated_capacity": 119464
+  },
+  "audit_metrics": {
+    "confidence": 0.223,
+    "estimated_length_m": 82.4,
+    "estimated_width_m": 65.9,
+    "distance_to_receptor_m": 2671.6,
+    "nearest_receptor": "SONARGAON IDEAL HIGH SCHOOL,SONARGAON",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.73478,
+      "longitude": 90.586676
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-112_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:44:51.531991+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:44:51",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

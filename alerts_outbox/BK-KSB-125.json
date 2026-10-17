@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KSB-125",
+  "region": "Kishoreganj",
+  "coordinates": {
+    "latitude": 24.054527,
+    "longitude": 90.984217
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 71.1,
+    "width_m": 54.4,
+    "aspect_ratio": 1.31,
+    "area_sqm": 3867.8,
+    "estimated_capacity": 85091
+  },
+  "audit_metrics": {
+    "confidence": 0.486,
+    "estimated_length_m": 71.1,
+    "estimated_width_m": 54.4,
+    "distance_to_receptor_m": 31006.6,
+    "nearest_receptor": "Monohardi Pailot High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.144823,
+      "longitude": 90.695616
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KSB-125_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:53:33.676062+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:53:33",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

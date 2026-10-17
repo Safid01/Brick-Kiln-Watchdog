@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-145",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.943113,
+    "longitude": 90.214668
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 87.5,
+    "width_m": 69.9,
+    "aspect_ratio": 1.25,
+    "area_sqm": 6116.3,
+    "estimated_capacity": 134558
+  },
+  "audit_metrics": {
+    "confidence": 0.224,
+    "estimated_length_m": 87.5,
+    "estimated_width_m": 69.9,
+    "distance_to_receptor_m": 2688.9,
+    "nearest_receptor": "Dhamrai Girls High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.918881,
+      "longitude": 90.21602
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-145_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:41:58.515196+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:41:58",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

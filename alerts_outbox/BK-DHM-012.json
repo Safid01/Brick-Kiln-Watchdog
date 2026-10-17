@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-012",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.942458,
+    "longitude": 90.193406
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 108.7,
+    "width_m": 92.2,
+    "aspect_ratio": 1.18,
+    "area_sqm": 10022.1,
+    "estimated_capacity": 220486
+  },
+  "audit_metrics": {
+    "confidence": 0.683,
+    "estimated_length_m": 108.7,
+    "estimated_width_m": 92.2,
+    "distance_to_receptor_m": 3307.3,
+    "nearest_receptor": "\u09a6\u09c0\u0998\u09b2\u0997\u09cd\u09b0\u09be\u09ae \u0997\u09ad\u09b0\u09cd\u09a8\u09ae\u09c7\u09a8\u09cd\u099f \u09aa\u09cd\u09b0\u09be\u0987\u09ae\u09be\u09b0\u09c0 \u09b8\u09cd\u0995\u09c1\u09b2",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.971232,
+      "longitude": 90.184796
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-012_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:42:14.242809+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:42:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

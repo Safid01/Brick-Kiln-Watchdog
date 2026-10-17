@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KG-059",
+  "region": "Keraniganj",
+  "coordinates": {
+    "latitude": 23.661272,
+    "longitude": 90.372798
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 45.7,
+    "width_m": 28.3,
+    "aspect_ratio": 1.61,
+    "area_sqm": 1293.3,
+    "estimated_capacity": 28452
+  },
+  "audit_metrics": {
+    "confidence": 0.367,
+    "estimated_length_m": 45.7,
+    "estimated_width_m": 28.3,
+    "distance_to_receptor_m": 455.3,
+    "nearest_receptor": "Municipal trot RA Primary School, Kadompur Bridge, Dhaka - Khulna Hwy, Kalakandi",
+    "receptor_type": "school",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.657739,
+      "longitude": 90.370521
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KG-059_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:01.990280+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

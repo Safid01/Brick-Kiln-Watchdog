@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJ-048",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.635626,
+    "longitude": 90.573532
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 104.4,
+    "width_m": 83.7,
+    "aspect_ratio": 1.25,
+    "area_sqm": 8738.3,
+    "estimated_capacity": 192242
+  },
+  "audit_metrics": {
+    "confidence": 0.442,
+    "estimated_length_m": 104.4,
+    "estimated_width_m": 83.7,
+    "distance_to_receptor_m": 1359.6,
+    "nearest_receptor": "Chowdhurygaon Primary School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.623359,
+      "longitude": 90.573884
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJ-048_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:43:45.213694+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:43:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

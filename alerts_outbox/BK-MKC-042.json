@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKC-042",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.8259,
+    "longitude": 90.005192
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 109.3,
+    "width_m": 83.5,
+    "aspect_ratio": 1.31,
+    "area_sqm": 9126.5,
+    "estimated_capacity": 200783
+  },
+  "audit_metrics": {
+    "confidence": 0.376,
+    "estimated_length_m": 109.3,
+    "estimated_width_m": 83.5,
+    "distance_to_receptor_m": 1874.8,
+    "nearest_receptor": "The Granada Academy (TGA), School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.841688,
+      "longitude": 90.01179
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKC-042_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:49:05.433888+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:49:05",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRP-091",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 23.961352,
+    "longitude": 90.686334
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 95.6,
+    "width_m": 63.4,
+    "aspect_ratio": 1.51,
+    "area_sqm": 6061.0,
+    "estimated_capacity": 133342
+  },
+  "audit_metrics": {
+    "confidence": 0.219,
+    "estimated_length_m": 95.6,
+    "estimated_width_m": 63.4,
+    "distance_to_receptor_m": 2320.9,
+    "nearest_receptor": "Unnamed Facility",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.966627,
+      "longitude": 90.664272
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRP-091_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:47:37.545091+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:47:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-090",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.799815,
+    "longitude": 90.516206
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 72.2,
+    "width_m": 60.3,
+    "aspect_ratio": 1.2,
+    "area_sqm": 4353.7,
+    "estimated_capacity": 95781
+  },
+  "audit_metrics": {
+    "confidence": 0.296,
+    "estimated_length_m": 72.2,
+    "estimated_width_m": 60.3,
+    "distance_to_receptor_m": 2241.1,
+    "nearest_receptor": "Jolshiri Public School and College",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.811333,
+      "longitude": 90.498136
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-090_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:44:49.992777+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:44:49",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

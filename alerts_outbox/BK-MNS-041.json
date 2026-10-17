@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNS-041",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.637691,
+    "longitude": 90.335016
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 102.5,
+    "width_m": 86.8,
+    "aspect_ratio": 1.18,
+    "area_sqm": 8897.0,
+    "estimated_capacity": 195734
+  },
+  "audit_metrics": {
+    "confidence": 0.668,
+    "estimated_length_m": 102.5,
+    "estimated_width_m": 86.8,
+    "distance_to_receptor_m": 1243.1,
+    "nearest_receptor": "Baroborta Government Primary School, Baroborta Road, Sirajdikhan Sirajdikhan, Kuchiamora",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.631591,
+      "longitude": 90.345235
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNS-041_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:50:52.032143+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:50:52",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

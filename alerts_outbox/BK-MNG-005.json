@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNG-005",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.582944,
+    "longitude": 90.639567
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 82.8,
+    "width_m": 77.2,
+    "aspect_ratio": 1.07,
+    "area_sqm": 6392.2,
+    "estimated_capacity": 140628
+  },
+  "audit_metrics": {
+    "confidence": 0.638,
+    "estimated_length_m": 82.8,
+    "estimated_width_m": 77.2,
+    "distance_to_receptor_m": 136.1,
+    "nearest_receptor": "Gazaria General Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.581807,
+      "longitude": 90.639062
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNG-005_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:50:21.239022+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:50:21",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

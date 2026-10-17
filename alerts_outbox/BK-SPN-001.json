@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SPN-001",
+  "region": "Shariatpur",
+  "coordinates": {
+    "latitude": 23.278838,
+    "longitude": 90.389112
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 99.2,
+    "width_m": 81.4,
+    "aspect_ratio": 1.22,
+    "area_sqm": 8074.9,
+    "estimated_capacity": 177647
+  },
+  "audit_metrics": {
+    "confidence": 0.7,
+    "estimated_length_m": 99.2,
+    "estimated_width_m": 81.4,
+    "distance_to_receptor_m": 26868.7,
+    "nearest_receptor": "Tongibari govt. primary school",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.510657,
+      "longitude": 90.466219
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SPN-001_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:58:59.819486+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:58:59",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

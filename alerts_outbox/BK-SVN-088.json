@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVN-088",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.821122,
+    "longitude": 90.244441
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 99.9,
+    "width_m": 82.0,
+    "aspect_ratio": 1.22,
+    "area_sqm": 8191.8,
+    "estimated_capacity": 180219
+  },
+  "audit_metrics": {
+    "confidence": 0.452,
+    "estimated_length_m": 99.9,
+    "estimated_width_m": 82.0,
+    "distance_to_receptor_m": 1240.2,
+    "nearest_receptor": "Rodela Model High School, School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.826503,
+      "longitude": 90.255108
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVN-088_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:44.900871+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:44",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

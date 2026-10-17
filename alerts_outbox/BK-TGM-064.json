@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-TGM-064",
+  "region": "Tangail",
+  "coordinates": {
+    "latitude": 24.092339,
+    "longitude": 90.104118
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 72.1,
+    "width_m": 51.1,
+    "aspect_ratio": 1.41,
+    "area_sqm": 3684.3,
+    "estimated_capacity": 81054
+  },
+  "audit_metrics": {
+    "confidence": 0.242,
+    "estimated_length_m": 72.1,
+    "estimated_width_m": 51.1,
+    "distance_to_receptor_m": 983.1,
+    "nearest_receptor": "Mirzapur Womens College, College",
+    "receptor_type": "college",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 24.10109,
+      "longitude": 90.105694
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-TGM-064_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:45:26.828336+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:45:26",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

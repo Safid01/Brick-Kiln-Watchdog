@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-119",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.799313,
+    "longitude": 90.290517
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 88.9,
+    "width_m": 65.2,
+    "aspect_ratio": 1.36,
+    "area_sqm": 5796.3,
+    "estimated_capacity": 127518
+  },
+  "audit_metrics": {
+    "confidence": 0.244,
+    "estimated_length_m": 88.9,
+    "estimated_width_m": 65.2,
+    "distance_to_receptor_m": 255.8,
+    "nearest_receptor": "Dhaka Public School and College",
+    "receptor_type": "college",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.80162,
+      "longitude": 90.29043
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-119_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:39:48.131793+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:39:48",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

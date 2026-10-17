@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KG-036",
+  "region": "Keraniganj",
+  "coordinates": {
+    "latitude": 23.629748,
+    "longitude": 90.421786
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 108.6,
+    "width_m": 92.1,
+    "aspect_ratio": 1.18,
+    "area_sqm": 10002.1,
+    "estimated_capacity": 220046
+  },
+  "audit_metrics": {
+    "confidence": 0.691,
+    "estimated_length_m": 108.6,
+    "estimated_width_m": 92.1,
+    "distance_to_receptor_m": 1864.6,
+    "nearest_receptor": "Zazira High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.633381,
+      "longitude": 90.43962
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KG-036_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:01.380516+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

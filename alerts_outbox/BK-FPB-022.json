@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-FPB-022",
+  "region": "Faridpur",
+  "coordinates": {
+    "latitude": 23.398494,
+    "longitude": 89.99271
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 111.8,
+    "width_m": 93.8,
+    "aspect_ratio": 1.19,
+    "area_sqm": 10486.8,
+    "estimated_capacity": 230709
+  },
+  "audit_metrics": {
+    "confidence": 0.316,
+    "estimated_length_m": 111.8,
+    "estimated_width_m": 93.8,
+    "distance_to_receptor_m": 18445.6,
+    "nearest_receptor": "Char Bhadrasan Pilot High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.564471,
+      "longitude": 90.005929
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-FPB-022_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:57:09.387746+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:57:09",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

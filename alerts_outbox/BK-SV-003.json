@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-003",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.794045,
+    "longitude": 90.285432
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 94.1,
+    "width_m": 69.6,
+    "aspect_ratio": 1.35,
+    "area_sqm": 6549.4,
+    "estimated_capacity": 144086
+  },
+  "audit_metrics": {
+    "confidence": 0.676,
+    "estimated_length_m": 94.1,
+    "estimated_width_m": 69.6,
+    "distance_to_receptor_m": 248.0,
+    "nearest_receptor": "Bangabandhu Homoeopathy University",
+    "receptor_type": "university",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.795793,
+      "longitude": 90.286952
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-003_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:39:58.427142+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:39:58",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

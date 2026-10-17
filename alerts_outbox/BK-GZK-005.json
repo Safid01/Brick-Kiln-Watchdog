@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZK-005",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 24.099509,
+    "longitude": 90.195849
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 97.5,
+    "width_m": 76.1,
+    "aspect_ratio": 1.28,
+    "area_sqm": 7419.7,
+    "estimated_capacity": 163233
+  },
+  "audit_metrics": {
+    "confidence": 0.687,
+    "estimated_length_m": 97.5,
+    "estimated_width_m": 76.1,
+    "distance_to_receptor_m": 1169.6,
+    "nearest_receptor": "51 No Tan Sutrapur Government Primary School \u09eb\u09e7\u09a8\u0982 \u099f\u09be\u09a8 \u09b8\u09c2\u09a4\u09cd\u09b0\u09be\u09aa\u09c1\u09b0 \u09b8\u09b0\u0995\u09be\u09b0\u09c0 \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.089046,
+      "longitude": 90.197347
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZK-005_patch.jpg",
+  "audit_timestamp": "2026-10-17T16:01:25.901439+00:00",
+  "audit_date_formatted": "17 Oct 2026, 22:01:25",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

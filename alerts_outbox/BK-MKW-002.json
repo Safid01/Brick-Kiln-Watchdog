@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKW-002",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.840622,
+    "longitude": 89.807145
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 92.9,
+    "width_m": 73.9,
+    "aspect_ratio": 1.26,
+    "area_sqm": 6865.3,
+    "estimated_capacity": 151036
+  },
+  "audit_metrics": {
+    "confidence": 0.673,
+    "estimated_length_m": 92.9,
+    "estimated_width_m": 73.9,
+    "distance_to_receptor_m": 19716.4,
+    "nearest_receptor": "Collectorate Public School, Manikganj",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.851096,
+      "longitude": 90.000188
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKW-002_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:49:43.574306+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:49:43",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

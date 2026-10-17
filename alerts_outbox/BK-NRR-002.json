@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRR-002",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 24.007457,
+    "longitude": 90.864758
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 84.5,
+    "width_m": 73.4,
+    "aspect_ratio": 1.15,
+    "area_sqm": 6202.3,
+    "estimated_capacity": 136450
+  },
+  "audit_metrics": {
+    "confidence": 0.686,
+    "estimated_length_m": 84.5,
+    "estimated_width_m": 73.4,
+    "distance_to_receptor_m": 19097.7,
+    "nearest_receptor": "Abdul Kadir Mollah City College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.925539,
+      "longitude": 90.699695
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRR-002_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:47:48.742769+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:47:48",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

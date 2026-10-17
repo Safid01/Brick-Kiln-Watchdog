@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNG-047",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.590105,
+    "longitude": 90.664165
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 149.0,
+    "width_m": 103.7,
+    "aspect_ratio": 1.44,
+    "area_sqm": 15451.3,
+    "estimated_capacity": 339928
+  },
+  "audit_metrics": {
+    "confidence": 0.321,
+    "estimated_length_m": 149.0,
+    "estimated_width_m": 103.7,
+    "distance_to_receptor_m": 2723.0,
+    "nearest_receptor": "Gazaria General Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.581807,
+      "longitude": 90.639062
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNG-047_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:52:15.789077+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:52:15",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

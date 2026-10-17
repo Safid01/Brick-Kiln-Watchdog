@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NW-064",
+  "region": "Nawabganj",
+  "coordinates": {
+    "latitude": 23.653245,
+    "longitude": 90.213454
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 49.1,
+    "width_m": 31.2,
+    "aspect_ratio": 1.57,
+    "area_sqm": 1531.9,
+    "estimated_capacity": 33701
+  },
+  "audit_metrics": {
+    "confidence": 0.219,
+    "estimated_length_m": 49.1,
+    "estimated_width_m": 31.2,
+    "distance_to_receptor_m": 3012.2,
+    "nearest_receptor": "Unnamed Facility",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.626855,
+      "longitude": 90.206386
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NW-064_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:41:14.691464+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:41:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

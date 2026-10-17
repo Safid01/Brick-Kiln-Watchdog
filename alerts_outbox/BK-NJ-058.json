@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJ-058",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.613466,
+    "longitude": 90.550216
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 69.5,
+    "width_m": 56.8,
+    "aspect_ratio": 1.22,
+    "area_sqm": 3947.6,
+    "estimated_capacity": 86847
+  },
+  "audit_metrics": {
+    "confidence": 0.379,
+    "estimated_length_m": 69.5,
+    "estimated_width_m": 56.8,
+    "distance_to_receptor_m": 1125.5,
+    "nearest_receptor": "HOSSAINPUR S P UNION HIGH SCHOOL",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.613195,
+      "longitude": 90.561236
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJ-058_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:43:45.309371+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:43:45",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

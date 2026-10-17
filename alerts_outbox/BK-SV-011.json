@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-011",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.798307,
+    "longitude": 90.307327
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 68.1,
+    "width_m": 58.3,
+    "aspect_ratio": 1.17,
+    "area_sqm": 3970.2,
+    "estimated_capacity": 87344
+  },
+  "audit_metrics": {
+    "confidence": 0.649,
+    "estimated_length_m": 68.1,
+    "estimated_width_m": 58.3,
+    "distance_to_receptor_m": 1729.1,
+    "nearest_receptor": "Konda High School Play Ground",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.802647,
+      "longitude": 90.291038
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-011_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:39:58.513701+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:39:58",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

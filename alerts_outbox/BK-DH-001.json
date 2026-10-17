@@ -1,0 +1,56 @@
+{
+  "event": "COMPLIANT_KILN_MONITORING",
+  "kiln_id": "BK-DH-001",
+  "region": "Dhaka",
+  "district": "Dhaka",
+  "coordinates": {
+    "latitude": 23.617858,
+    "longitude": 90.443128
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "is_active": true,
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility",
+    "plume_opacity_pct": 0,
+    "thermal_signature": "ACTIVE_THERMAL_CORE"
+  },
+  "dimensions": {
+    "length_m": 88.5,
+    "width_m": 46.2,
+    "aspect_ratio": 1.92,
+    "area_sqm": 4088.7,
+    "estimated_capacity": 89951
+  },
+  "audit_metrics": {
+    "confidence": 0.99,
+    "estimated_length_m": 88.5,
+    "estimated_width_m": 46.2,
+    "distance_to_receptor_m": 1756.9,
+    "nearest_receptor": "Zazira High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.633381,
+      "longitude": 90.43962
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DH-001_patch.jpg",
+  "audit_timestamp": "2026-10-17T13:55:25.221794+00:00",
+  "audit_date_formatted": "17 Oct 2026, 13:55:25",
+  "status": "REQUIRES_HUMAN_VERIFICATION",
+  "human_verification": {
+    "status": "CONFIRMED_KILN",
+    "verified_at": "2026-10-17T13:55:25.221794+00:00",
+    "verified_by": "Inspector (User Map Placement)"
+  }
+}

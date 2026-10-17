@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KG-014",
+  "region": "Keraniganj",
+  "coordinates": {
+    "latitude": 23.619866,
+    "longitude": 90.408778
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 99.0,
+    "width_m": 95.4,
+    "aspect_ratio": 1.04,
+    "area_sqm": 9444.6,
+    "estimated_capacity": 207781
+  },
+  "audit_metrics": {
+    "confidence": 0.787,
+    "estimated_length_m": 99.0,
+    "estimated_width_m": 95.4,
+    "distance_to_receptor_m": 3486.6,
+    "nearest_receptor": "Zazira High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.633381,
+      "longitude": 90.43962
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KG-014_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:00.689112+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:00",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

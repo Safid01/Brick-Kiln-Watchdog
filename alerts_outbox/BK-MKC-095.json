@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKC-095",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.870326,
+    "longitude": 89.982944
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 97.6,
+    "width_m": 74.2,
+    "aspect_ratio": 1.32,
+    "area_sqm": 7241.9,
+    "estimated_capacity": 159321
+  },
+  "audit_metrics": {
+    "confidence": 0.223,
+    "estimated_length_m": 97.6,
+    "estimated_width_m": 74.2,
+    "distance_to_receptor_m": 1787.1,
+    "nearest_receptor": "Sadar Hospital Mainbuilding",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.869685,
+      "longitude": 90.000462
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKC-095_patch.jpg",
+  "audit_timestamp": "2026-10-17T11:50:48.834094+00:00",
+  "audit_date_formatted": "17 Oct 2026, 17:50:48",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MNS-060",
+  "region": "Munshiganj",
+  "coordinates": {
+    "latitude": 23.613699,
+    "longitude": 90.368412
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 105.9,
+    "width_m": 75.6,
+    "aspect_ratio": 1.4,
+    "area_sqm": 8006.0,
+    "estimated_capacity": 176132
+  },
+  "audit_metrics": {
+    "confidence": 0.428,
+    "estimated_length_m": 105.9,
+    "estimated_width_m": 75.6,
+    "distance_to_receptor_m": 3017.6,
+    "nearest_receptor": "Bikrampur Adarsha College, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.631715,
+      "longitude": 90.346248
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MNS-060_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:50:52.546169+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:50:52",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

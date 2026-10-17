@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZK-012",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 24.058992,
+    "longitude": 90.210851
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 105.4,
+    "width_m": 77.5,
+    "aspect_ratio": 1.36,
+    "area_sqm": 8168.5,
+    "estimated_capacity": 179707
+  },
+  "audit_metrics": {
+    "confidence": 0.619,
+    "estimated_length_m": 105.4,
+    "estimated_width_m": 77.5,
+    "distance_to_receptor_m": 840.3,
+    "nearest_receptor": "Sreefaltoli Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 24.066432,
+      "longitude": 90.209265
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZK-012_patch.jpg",
+  "audit_timestamp": "2026-10-17T16:01:26.124024+00:00",
+  "audit_date_formatted": "17 Oct 2026, 22:01:26",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

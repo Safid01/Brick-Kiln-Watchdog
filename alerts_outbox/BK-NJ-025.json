@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJ-025",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.652637,
+    "longitude": 90.581412
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 93.7,
+    "width_m": 35.2,
+    "aspect_ratio": 2.66,
+    "area_sqm": 3298.2,
+    "estimated_capacity": 72560
+  },
+  "audit_metrics": {
+    "confidence": 0.342,
+    "estimated_length_m": 93.7,
+    "estimated_width_m": 35.2,
+    "distance_to_receptor_m": 1808.4,
+    "nearest_receptor": "Sonargaon Mohammadia Madrasha & Orphanage \u09b8\u09cb\u09a8\u09be\u09b0\u0997\u09be\u0981\u0993 \u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6\u09c0\u09af\u09bc\u09be \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be \u0993 \u098f\u09a4\u09bf\u09ae\u0996\u09be\u09a8\u09be\u09af\u09bc",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.640574,
+      "longitude": 90.593348
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJ-025_patch.jpg",
+  "audit_timestamp": "2026-10-16T01:21:54.444683+00:00",
+  "audit_date_formatted": "16 Oct 2026, 07:21:54",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NW-009",
+  "region": "Nawabganj",
+  "coordinates": {
+    "latitude": 23.666035,
+    "longitude": 90.226937
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 102.8,
+    "width_m": 91.4,
+    "aspect_ratio": 1.12,
+    "area_sqm": 9395.9,
+    "estimated_capacity": 206709
+  },
+  "audit_metrics": {
+    "confidence": 0.502,
+    "estimated_length_m": 102.8,
+    "estimated_width_m": 91.4,
+    "distance_to_receptor_m": 3886.5,
+    "nearest_receptor": "Kharshur High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.638324,
+      "longitude": 90.250274
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NW-009_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:41:37.709810+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:41:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KSC-117",
+  "region": "Kishoreganj",
+  "coordinates": {
+    "latitude": 24.447013,
+    "longitude": 90.813909
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 117.2,
+    "width_m": 88.3,
+    "aspect_ratio": 1.33,
+    "area_sqm": 10348.8,
+    "estimated_capacity": 227673
+  },
+  "audit_metrics": {
+    "confidence": 0.212,
+    "estimated_length_m": 117.2,
+    "estimated_width_m": 88.3,
+    "distance_to_receptor_m": 34236.5,
+    "nearest_receptor": "Noruttampur Community Clinic Road",
+    "receptor_type": "clinic",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.176514,
+      "longitude": 90.650874
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KSC-117_patch.jpg",
+  "audit_timestamp": "2026-10-17T12:01:29.751015+00:00",
+  "audit_date_formatted": "17 Oct 2026, 18:01:29",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

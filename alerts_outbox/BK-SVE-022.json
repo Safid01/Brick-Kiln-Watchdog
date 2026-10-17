@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-022",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.793222,
+    "longitude": 90.310483
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 106.5,
+    "width_m": 101.2,
+    "aspect_ratio": 1.05,
+    "area_sqm": 10777.8,
+    "estimated_capacity": 237111
+  },
+  "audit_metrics": {
+    "confidence": 0.673,
+    "estimated_length_m": 106.5,
+    "estimated_width_m": 101.2,
+    "distance_to_receptor_m": 1358.4,
+    "nearest_receptor": "Tejgaon Nurani Mardasah, Amin Bazar Branch \u09a4\u09c7\u099c\u0997\u09be\u0981\u0993 \u09a8\u09c2\u09b0\u09be\u09a8\u09c0 \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.782974,
+      "longitude": 90.317792
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-022_patch.jpg",
+  "audit_timestamp": "2026-10-17T15:40:26.295242+00:00",
+  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}
