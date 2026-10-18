@@ -156,7 +156,7 @@ Brick Kiln Watchdog/
 Open a terminal in the project root:
 
 ```powershell
-# Using the existing virtual environment on N: drive:
+# Using the existing virtual environment on N: drive: (Example)
 & "N:\.venv\Scripts\python.exe" web_server.py
 ```
 
@@ -170,6 +170,7 @@ Open a terminal in the project root:
 Open a **second terminal** in the `frontend/` directory:
 
 ```powershell
+#Example
 cd "N:\Brick Kiln Watchdog\frontend"
 
 # Install dependencies (if not already installed):
