@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MDS-006",
+  "region": "Madaripur",
+  "coordinates": {
+    "latitude": 23.445182,
+    "longitude": 90.153776
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 147.4,
+    "width_m": 123.5,
+    "aspect_ratio": 1.19,
+    "area_sqm": 18203.9,
+    "estimated_capacity": 400485
+  },
+  "audit_metrics": {
+    "confidence": 0.402,
+    "estimated_length_m": 147.4,
+    "estimated_width_m": 123.5,
+    "distance_to_receptor_m": 10662.5,
+    "nearest_receptor": "Padma Govt. University College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.540107,
+      "longitude": 90.170791
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MDS-006_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:22:43.321550+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:22:43",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

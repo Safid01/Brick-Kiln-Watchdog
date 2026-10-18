@@ -3,34 +3,34 @@
   "kiln_id": "BK-KSB-005",
   "region": "Kishoreganj",
   "coordinates": {
-    "latitude": 24.054259,
+    "latitude": 24.054279,
     "longitude": 91.03027
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.8,
-    "width_m": 86.8,
-    "aspect_ratio": 1.2,
-    "area_sqm": 9009.8,
-    "estimated_capacity": 198215
+    "length_m": 104.3,
+    "width_m": 75.8,
+    "aspect_ratio": 1.38,
+    "area_sqm": 7905.9,
+    "estimated_capacity": 173929
   },
   "audit_metrics": {
-    "confidence": 0.763,
-    "estimated_length_m": 103.8,
-    "estimated_width_m": 86.8,
-    "distance_to_receptor_m": 35479.6,
+    "confidence": 0.759,
+    "estimated_length_m": 104.3,
+    "estimated_width_m": 75.8,
+    "distance_to_receptor_m": 35479.0,
     "nearest_receptor": "Monohardi Pailot High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSB-005_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:53:32.560870+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:53:32",
+  "audit_timestamp": "2026-10-18T14:19:48.162147+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:19:48",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

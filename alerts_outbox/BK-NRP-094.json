@@ -3,8 +3,8 @@
   "kiln_id": "BK-NRP-094",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.946157,
-    "longitude": 90.61553
+    "latitude": 23.946223,
+    "longitude": 90.615624
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 106.3,
-    "width_m": 60.1,
-    "aspect_ratio": 1.77,
-    "area_sqm": 6388.6,
-    "estimated_capacity": 140549
+    "length_m": 119.0,
+    "width_m": 79.1,
+    "aspect_ratio": 1.5,
+    "area_sqm": 9412.9,
+    "estimated_capacity": 207083
   },
   "audit_metrics": {
-    "confidence": 0.217,
-    "estimated_length_m": 106.3,
-    "estimated_width_m": 60.1,
-    "distance_to_receptor_m": 1335.1,
+    "confidence": 0.555,
+    "estimated_length_m": 119.0,
+    "estimated_width_m": 79.1,
+    "distance_to_receptor_m": 1347.1,
     "nearest_receptor": "Mulgaon Madrasa",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRP-094_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:47:37.771907+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:47:37",
+  "audit_timestamp": "2026-10-18T14:12:51.562341+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:51",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-NRP-005",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.98568,
-    "longitude": 90.676495
+    "latitude": 23.985662,
+    "longitude": 90.676515
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 113.6,
-    "width_m": 94.7,
-    "aspect_ratio": 1.2,
-    "area_sqm": 10757.9,
-    "estimated_capacity": 236673
+    "length_m": 109.1,
+    "width_m": 78.8,
+    "aspect_ratio": 1.38,
+    "area_sqm": 8597.1,
+    "estimated_capacity": 189136
   },
   "audit_metrics": {
-    "confidence": 0.707,
-    "estimated_length_m": 113.6,
-    "estimated_width_m": 94.7,
-    "distance_to_receptor_m": 2209.6,
+    "confidence": 0.788,
+    "estimated_length_m": 109.1,
+    "estimated_width_m": 78.8,
+    "distance_to_receptor_m": 2212.0,
     "nearest_receptor": "Sultanpur T M High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRP-005_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:46:45.831724+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:46:45",
+  "audit_timestamp": "2026-10-18T14:12:50.841633+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:50",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

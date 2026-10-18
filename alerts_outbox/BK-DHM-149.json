@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-149",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.943743,
-    "longitude": 90.241225
+    "latitude": 23.943718,
+    "longitude": 90.241243
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.5,
-    "width_m": 96.5,
-    "aspect_ratio": 1.02,
-    "area_sqm": 9505.2,
-    "estimated_capacity": 209114
+    "length_m": 95.1,
+    "width_m": 92.5,
+    "aspect_ratio": 1.03,
+    "area_sqm": 8796.8,
+    "estimated_capacity": 193529
   },
   "audit_metrics": {
-    "confidence": 0.209,
-    "estimated_length_m": 98.5,
-    "estimated_width_m": 96.5,
-    "distance_to_receptor_m": 2851.3,
+    "confidence": 0.516,
+    "estimated_length_m": 95.1,
+    "estimated_width_m": 92.5,
+    "distance_to_receptor_m": 2848.2,
     "nearest_receptor": "Gonoshasthaya Vocational And Technical Training Institute, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-149_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:41:58.828677+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:41:58",
+  "audit_timestamp": "2026-10-18T14:08:21.790243+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

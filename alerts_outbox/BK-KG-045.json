@@ -3,34 +3,34 @@
   "kiln_id": "BK-KG-045",
   "region": "Keraniganj",
   "coordinates": {
-    "latitude": 23.670846,
-    "longitude": 90.369263
+    "latitude": 23.670821,
+    "longitude": 90.369269
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 104.9,
-    "width_m": 89.1,
-    "aspect_ratio": 1.18,
-    "area_sqm": 9346.6,
-    "estimated_capacity": 205625
+    "length_m": 104.7,
+    "width_m": 81.4,
+    "aspect_ratio": 1.29,
+    "area_sqm": 8522.6,
+    "estimated_capacity": 187497
   },
   "audit_metrics": {
-    "confidence": 0.625,
-    "estimated_length_m": 104.9,
-    "estimated_width_m": 89.1,
-    "distance_to_receptor_m": 1266.3,
+    "confidence": 0.629,
+    "estimated_length_m": 104.7,
+    "estimated_width_m": 81.4,
+    "distance_to_receptor_m": 1264.1,
     "nearest_receptor": "Jahanara general hospital, Molla tower, Abdullahpur south, Kalakandi",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KG-045_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:01.672680+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "audit_timestamp": "2026-10-18T14:07:11.648284+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:11",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

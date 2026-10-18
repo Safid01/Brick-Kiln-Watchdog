@@ -3,34 +3,34 @@
   "kiln_id": "BK-SV-001",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.818138,
+    "latitude": 23.818168,
     "longitude": 90.270613
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.8,
-    "width_m": 81.8,
-    "aspect_ratio": 1.17,
-    "area_sqm": 7836.4,
-    "estimated_capacity": 172400
+    "length_m": 86.9,
+    "width_m": 67.7,
+    "aspect_ratio": 1.28,
+    "area_sqm": 5883.1,
+    "estimated_capacity": 129428
   },
   "audit_metrics": {
-    "confidence": 0.754,
-    "estimated_length_m": 95.8,
-    "estimated_width_m": 81.8,
-    "distance_to_receptor_m": 1191.6,
+    "confidence": 0.793,
+    "estimated_length_m": 86.9,
+    "estimated_width_m": 67.7,
+    "distance_to_receptor_m": 1191.0,
     "nearest_receptor": "Banktown Agrani High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SV-001_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:39:58.304654+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:39:58",
+  "audit_timestamp": "2026-10-18T14:06:17.335755+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:17",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

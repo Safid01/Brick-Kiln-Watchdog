@@ -4,15 +4,15 @@
   "region": "Savar",
   "coordinates": {
     "latitude": 23.802302,
-    "longitude": 90.319948
+    "longitude": 90.319914
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 115.4,
-    "width_m": 112.2,
-    "aspect_ratio": 1.03,
-    "area_sqm": 12947.9,
-    "estimated_capacity": 284853
+    "length_m": 103.1,
+    "width_m": 72.6,
+    "aspect_ratio": 1.42,
+    "area_sqm": 7485.1,
+    "estimated_capacity": 164672
   },
   "audit_metrics": {
-    "confidence": 0.687,
-    "estimated_length_m": 115.4,
-    "estimated_width_m": 112.2,
-    "distance_to_receptor_m": 1552.7,
+    "confidence": 0.739,
+    "estimated_length_m": 103.1,
+    "estimated_width_m": 72.6,
+    "distance_to_receptor_m": 1553.7,
     "nearest_receptor": "Kasemul Uloom Al Islamia Dhaka Bangladesh, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-019_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.126862+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:35.954305+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

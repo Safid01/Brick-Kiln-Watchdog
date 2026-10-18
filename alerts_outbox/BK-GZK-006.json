@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZK-006",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 24.064055,
+    "longitude": 90.232038
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 156.2,
+    "width_m": 127.8,
+    "aspect_ratio": 1.22,
+    "area_sqm": 19962.4,
+    "estimated_capacity": 439172
+  },
+  "audit_metrics": {
+    "confidence": 0.574,
+    "estimated_length_m": 156.2,
+    "estimated_width_m": 127.8,
+    "distance_to_receptor_m": 471.9,
+    "nearest_receptor": "Beximco Media Complex, Technical school",
+    "receptor_type": "school",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 24.061445,
+      "longitude": 90.228374
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZK-006_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:09:03.693408+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:03",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

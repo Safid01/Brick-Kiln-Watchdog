@@ -3,8 +3,8 @@
   "kiln_id": "BK-TGM-017",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.092349,
-    "longitude": 90.104399
+    "latitude": 24.092345,
+    "longitude": 90.10436
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 108.6,
-    "width_m": 107.4,
-    "aspect_ratio": 1.01,
-    "area_sqm": 11663.6,
-    "estimated_capacity": 256599
+    "length_m": 109.3,
+    "width_m": 71.1,
+    "aspect_ratio": 1.54,
+    "area_sqm": 7771.2,
+    "estimated_capacity": 170966
   },
   "audit_metrics": {
-    "confidence": 0.68,
-    "estimated_length_m": 108.6,
-    "estimated_width_m": 107.4,
-    "distance_to_receptor_m": 977.7,
+    "confidence": 0.632,
+    "estimated_length_m": 109.3,
+    "estimated_width_m": 71.1,
+    "distance_to_receptor_m": 978.7,
     "nearest_receptor": "Mirzapur Womens College, College",
     "receptor_type": "college",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-017_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:07.593722+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:07",
+  "audit_timestamp": "2026-10-18T14:11:08.683960+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:08",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

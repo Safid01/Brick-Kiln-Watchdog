@@ -3,8 +3,8 @@
   "kiln_id": "BK-TGM-002",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.086878,
-    "longitude": 90.109038
+    "latitude": 24.086955,
+    "longitude": 90.109062
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 101.2,
-    "width_m": 91.0,
-    "aspect_ratio": 1.11,
-    "area_sqm": 9209.2,
-    "estimated_capacity": 202602
+    "length_m": 82.1,
+    "width_m": 81.3,
+    "aspect_ratio": 1.01,
+    "area_sqm": 6674.7,
+    "estimated_capacity": 146843
   },
   "audit_metrics": {
-    "confidence": 0.725,
-    "estimated_length_m": 101.2,
-    "estimated_width_m": 91.0,
-    "distance_to_receptor_m": 1370.4,
+    "confidence": 0.768,
+    "estimated_length_m": 82.1,
+    "estimated_width_m": 81.3,
+    "distance_to_receptor_m": 1362.1,
     "nearest_receptor": "Dewhata Alhaj Jonab Ali Bahumukhi High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-002_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:06.706688+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:06",
+  "audit_timestamp": "2026-10-18T14:11:07.901060+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:07",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

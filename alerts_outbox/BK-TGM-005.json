@@ -3,34 +3,34 @@
   "kiln_id": "BK-TGM-005",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.079512,
-    "longitude": 90.115855
+    "latitude": 24.079517,
+    "longitude": 90.115824
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 101.2,
-    "width_m": 92.1,
-    "aspect_ratio": 1.1,
-    "area_sqm": 9320.5,
-    "estimated_capacity": 205051
+    "length_m": 108.1,
+    "width_m": 76.7,
+    "aspect_ratio": 1.41,
+    "area_sqm": 8291.3,
+    "estimated_capacity": 182408
   },
   "audit_metrics": {
-    "confidence": 0.713,
-    "estimated_length_m": 101.2,
-    "estimated_width_m": 92.1,
-    "distance_to_receptor_m": 1908.6,
+    "confidence": 0.757,
+    "estimated_length_m": 108.1,
+    "estimated_width_m": 76.7,
+    "distance_to_receptor_m": 1908.5,
     "nearest_receptor": "Labcare Diagnostic And Hospital, Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-005_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:06.823483+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:06",
+  "audit_timestamp": "2026-10-18T14:11:08.181738+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:08",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

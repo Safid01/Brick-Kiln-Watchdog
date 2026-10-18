@@ -51,7 +51,12 @@ scanner_state = {
     "is_scanning": False,
     "last_scan_time": datetime.now().strftime("%d %b %Y, %H:%M:%S"),
     "last_scan_iso": datetime.now().isoformat(),
-    "last_scan_summary": "System ready. Click Trigger Satellite Scan to audit Greater Dhaka.",
+    "last_scan_summary": "System ready. Click Run Scan to audit Greater Dhaka.",
+    "scan_progress_pct": 0,
+    "current_step": 0,
+    "total_steps": 0,
+    "estimated_seconds_remaining": 0,
+    "current_sector_name": "",
 }
 
 _alerts_cache = None
@@ -171,6 +176,11 @@ def get_system_status():
         "scanner_status": {
             "is_scanning": scanner_state["is_scanning"],
             "last_scan_summary": scanner_state["last_scan_summary"],
+            "progress_pct": scanner_state.get("scan_progress_pct", 0),
+            "current_step": scanner_state.get("current_step", 0),
+            "total_steps": scanner_state.get("total_steps", 0),
+            "seconds_remaining": scanner_state.get("estimated_seconds_remaining", 0),
+            "current_sector": scanner_state.get("current_sector_name", ""),
         },
         "total_kilns": len(alerts),
         "situations_count": situations,
@@ -213,42 +223,76 @@ def execute_scan_worker(sector: str = "ALL", custom_bbox: dict = None, max_secto
     across all 13 districts or a targeted district/bounding box.
     """
     global scanner_state
+    start_time = datetime.now()
     with scanner_lock:
         scanner_state["is_scanning"] = True
+        scanner_state["scan_progress_pct"] = 5
+        scanner_state["current_step"] = 1
+        scanner_state["total_steps"] = 1
+        scanner_state["estimated_seconds_remaining"] = 35
         summary_target = f"District / Sector '{sector}'" if sector != "ALL" else "all 13 districts of Greater Dhaka"
         if custom_bbox:
             summary_target = f"Custom Bounding Box ({custom_bbox})"
-        scanner_state["last_scan_summary"] = f"Fetching satellite imagery and auditing {summary_target}..."
+        scanner_state["last_scan_summary"] = f"Fetching satellite imagery and scanning {summary_target}..."
+        scanner_state["current_sector_name"] = sector
+
+    def on_progress(current, total, sector_info):
+        with scanner_lock:
+            scanner_state["current_step"] = current
+            scanner_state["total_steps"] = total
+            pct = int(round((current / (total + 1)) * 100))
+            scanner_state["scan_progress_pct"] = min(98, max(5, pct))
+            elapsed = (datetime.now() - start_time).total_seconds()
+            if current > 1:
+                sec_per = elapsed / (current - 1)
+                rem = max(3, int(round(sec_per * (total - current + 1))))
+            else:
+                rem = max(10, total * 12)
+            scanner_state["estimated_seconds_remaining"] = rem
+            sname = sector_info.get("name", sector_info.get("region", ""))
+            scanner_state["current_sector_name"] = sname
+            scanner_state["last_scan_summary"] = f"Scanning sector {current}/{total} ({sname})..."
 
     try:
         target_list = None if sector == "ALL" else [sector]
         res = run_pipeline.run(
             selected_sectors=target_list,
             custom_bbox=custom_bbox,
-            max_sectors=max_sectors
+            max_sectors=max_sectors,
+            progress_callback=on_progress,
+            cancel_check=lambda: scanner_state.get("cancel_requested", False)
         )
         audited = res.get("total_audited", 0)
         violations = res.get("total_violations", 0)
         districts_str = ", ".join(res.get("districts_audited", [sector]))
-        summary = f"Audited {districts_str}: {audited} kilns verified, {violations} statutory buffer breaches."
+        if scanner_state.get("cancel_requested", False):
+            summary = "Satellite scan stopped by user."
+        else:
+            summary = f"Scanned {districts_str}: {audited} kilns verified, {violations} statutory buffer breaches."
     except Exception as e:
         print("Scan error:", e)
         summary = f"Scan error: {str(e)}"
+    finally:
+        now = datetime.now()
+        invalidate_alerts_cache()
+        with scanner_lock:
+            scanner_state["is_scanning"] = False
+            scanner_state["cancel_requested"] = False
+            scanner_state["scan_progress_pct"] = 100
+            scanner_state["estimated_seconds_remaining"] = 0
+            scanner_state["last_scan_time"] = now.strftime("%d %b %Y, %H:%M:%S")
+            scanner_state["last_scan_iso"] = now.isoformat()
+            scanner_state["last_scan_summary"] = summary
 
-    now = datetime.now()
-    invalidate_alerts_cache()
+@app.post("/api/v1/stop-scan")
+def stop_scan():
+    global scanner_state
     with scanner_lock:
-        scanner_state["is_scanning"] = False
-        scanner_state["last_scan_time"] = now.strftime("%d %b %Y, %H:%M:%S")
-        scanner_state["last_scan_iso"] = now.isoformat()
-        scanner_state["last_scan_summary"] = summary
-
-@app.post("/api/v1/auto-sweep/toggle")
-def toggle_auto_sweep():
-    return {
-        "status": "SUCCESS",
-        "message": "Auto-sweep scheduler disabled in favor of manual live scan triggers."
-    }
+        if not scanner_state.get("is_scanning", False):
+            return {"status": "IDLE", "message": "No scan is currently running."}
+        scanner_state["cancel_requested"] = True
+        scanner_state["last_scan_summary"] = "Stopping satellite scan…"
+    return {"status": "SUCCESS", "message": "Satellite scan stop requested."}
 
 @app.post("/api/v1/trigger-scan")
 async def trigger_scan(request: Request, background_tasks: BackgroundTasks):
@@ -890,7 +934,7 @@ def root(request: Request):
             "scanner_status": "/api/v1/scanner-status",
             "receptors": "/api/v1/receptors",
             "trigger_scan": "/api/v1/trigger-scan",
-            "auto_sweep_toggle": "/api/v1/auto-sweep/toggle",
+            "stop_scan": "/api/v1/stop-scan",
             "evidence": "/evidence/{filename}"
         }
     })

@@ -3,16 +3,16 @@
   "kiln_id": "BK-RBG-012",
   "region": "Rajbari",
   "coordinates": {
-    "latitude": 23.717543,
-    "longitude": 89.822248
+    "latitude": 23.717572,
+    "longitude": 89.822247
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 100.0,
-    "width_m": 85.6,
-    "aspect_ratio": 1.17,
-    "area_sqm": 8560.0,
-    "estimated_capacity": 188320
+    "length_m": 99.8,
+    "width_m": 71.8,
+    "aspect_ratio": 1.39,
+    "area_sqm": 7165.6,
+    "estimated_capacity": 157643
   },
   "audit_metrics": {
-    "confidence": 0.651,
-    "estimated_length_m": 100.0,
-    "estimated_width_m": 85.6,
-    "distance_to_receptor_m": 18520.3,
+    "confidence": 0.748,
+    "estimated_length_m": 99.8,
+    "estimated_width_m": 71.8,
+    "distance_to_receptor_m": 18520.1,
     "nearest_receptor": "Dakshin Chandpur High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-RBG-012_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:57:20.940321+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:57:20",
+  "audit_timestamp": "2026-10-18T13:47:02.328480+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:47:02",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

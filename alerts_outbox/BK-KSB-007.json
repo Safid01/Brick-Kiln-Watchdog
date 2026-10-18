@@ -3,34 +3,34 @@
   "kiln_id": "BK-KSB-007",
   "region": "Kishoreganj",
   "coordinates": {
-    "latitude": 24.078662,
-    "longitude": 90.957242
+    "latitude": 24.078702,
+    "longitude": 90.95723
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 100.4,
-    "width_m": 90.3,
-    "aspect_ratio": 1.11,
-    "area_sqm": 9066.1,
-    "estimated_capacity": 199454
+    "length_m": 114.4,
+    "width_m": 107.9,
+    "aspect_ratio": 1.06,
+    "area_sqm": 12343.8,
+    "estimated_capacity": 271563
   },
   "audit_metrics": {
-    "confidence": 0.732,
-    "estimated_length_m": 100.4,
-    "estimated_width_m": 90.3,
-    "distance_to_receptor_m": 27594.4,
+    "confidence": 0.772,
+    "estimated_length_m": 114.4,
+    "estimated_width_m": 107.9,
+    "distance_to_receptor_m": 27592.1,
     "nearest_receptor": "Monohardi Pailot High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSB-007_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:53:32.675997+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:53:32",
+  "audit_timestamp": "2026-10-18T14:19:48.049932+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:19:48",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

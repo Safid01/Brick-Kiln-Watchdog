@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-RBG-014",
+  "region": "Rajbari",
+  "coordinates": {
+    "latitude": 23.698869,
+    "longitude": 89.720781
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 98.7,
+    "width_m": 85.9,
+    "aspect_ratio": 1.15,
+    "area_sqm": 8478.3,
+    "estimated_capacity": 186522
+  },
+  "audit_metrics": {
+    "confidence": 0.624,
+    "estimated_length_m": 98.7,
+    "estimated_width_m": 85.9,
+    "distance_to_receptor_m": 29066.1,
+    "nearest_receptor": "Dakshin Chandpur High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.738625,
+      "longitude": 90.002283
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-RBG-014_patch.jpg",
+  "audit_timestamp": "2026-10-18T13:47:02.664285+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:47:02",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJR-007",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.763769,
-    "longitude": 90.554045
+    "latitude": 23.763812,
+    "longitude": 90.554066
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.4,
-    "width_m": 88.6,
-    "aspect_ratio": 1.11,
-    "area_sqm": 8718.2,
-    "estimated_capacity": 191800
+    "length_m": 98.6,
+    "width_m": 79.9,
+    "aspect_ratio": 1.23,
+    "area_sqm": 7878.1,
+    "estimated_capacity": 173318
   },
   "audit_metrics": {
-    "confidence": 0.7,
-    "estimated_length_m": 98.4,
-    "estimated_width_m": 88.6,
-    "distance_to_receptor_m": 2447.0,
+    "confidence": 0.774,
+    "estimated_length_m": 98.6,
+    "estimated_width_m": 79.9,
+    "distance_to_receptor_m": 2452.1,
     "nearest_receptor": "Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-007_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:35.631268+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:35",
+  "audit_timestamp": "2026-10-18T14:10:37.582353+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

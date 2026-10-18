@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJR-003",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.793211,
-    "longitude": 90.573161
+    "latitude": 23.793236,
+    "longitude": 90.573137
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 108.7,
-    "width_m": 107.2,
-    "aspect_ratio": 1.01,
-    "area_sqm": 11652.6,
-    "estimated_capacity": 256357
+    "length_m": 109.4,
+    "width_m": 106.0,
+    "aspect_ratio": 1.03,
+    "area_sqm": 11596.4,
+    "estimated_capacity": 255120
   },
   "audit_metrics": {
-    "confidence": 0.766,
-    "estimated_length_m": 108.7,
-    "estimated_width_m": 107.2,
-    "distance_to_receptor_m": 1021.9,
+    "confidence": 0.65,
+    "estimated_length_m": 109.4,
+    "estimated_width_m": 106.0,
+    "distance_to_receptor_m": 1023.2,
     "nearest_receptor": "Al Rafi Hospital Ltd.",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:35.521730+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:35",
+  "audit_timestamp": "2026-10-18T14:10:38.284113+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

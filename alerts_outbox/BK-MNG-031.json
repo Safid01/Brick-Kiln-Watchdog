@@ -3,34 +3,34 @@
   "kiln_id": "BK-MNG-031",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.576624,
-    "longitude": 90.644232
+    "latitude": 23.576626,
+    "longitude": 90.644306
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 79.0,
-    "width_m": 77.4,
-    "aspect_ratio": 1.02,
-    "area_sqm": 6114.6,
-    "estimated_capacity": 134521
+    "length_m": 115.5,
+    "width_m": 109.3,
+    "aspect_ratio": 1.06,
+    "area_sqm": 12624.1,
+    "estimated_capacity": 277730
   },
   "audit_metrics": {
-    "confidence": 0.411,
-    "estimated_length_m": 79.0,
-    "estimated_width_m": 77.4,
-    "distance_to_receptor_m": 712.6,
+    "confidence": 0.735,
+    "estimated_length_m": 115.5,
+    "estimated_width_m": 109.3,
+    "distance_to_receptor_m": 718.3,
     "nearest_receptor": "High School,\u09ad\u09be\u099f\u09c7\u09b0\u099a\u09b0 \u09a6\u09c7,\u098f, \u09ae\u09be\u09a8\u09cd\u09a8\u09be\u09a8 \u09aa\u09be\u0987\u09b2\u099f \u0989\u099a\u09cd\u099a \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNG-031_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:21.646172+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:21",
+  "audit_timestamp": "2026-10-18T14:16:38.126711+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:16:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKC-047",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.870109,
-    "longitude": 89.988211
+    "latitude": 23.870114,
+    "longitude": 89.988235
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.7,
-    "width_m": 83.4,
-    "aspect_ratio": 1.24,
-    "area_sqm": 8648.6,
-    "estimated_capacity": 190269
+    "length_m": 102.3,
+    "width_m": 75.0,
+    "aspect_ratio": 1.36,
+    "area_sqm": 7672.5,
+    "estimated_capacity": 168795
   },
   "audit_metrics": {
-    "confidence": 0.37,
-    "estimated_length_m": 103.7,
-    "estimated_width_m": 83.4,
-    "distance_to_receptor_m": 1249.7,
+    "confidence": 0.663,
+    "estimated_length_m": 102.3,
+    "estimated_width_m": 75.0,
+    "distance_to_receptor_m": 1247.2,
     "nearest_receptor": "Sadar Hospital Mainbuilding",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKC-047_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:49:05.575590+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:49:05",
+  "audit_timestamp": "2026-10-18T14:15:15.662344+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:15",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

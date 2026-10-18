@@ -3,8 +3,8 @@
   "kiln_id": "BK-SVN-010",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.826475,
-    "longitude": 90.263593
+    "latitude": 23.82649,
+    "longitude": 90.263632
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 71.5,
-    "width_m": 35.8,
-    "aspect_ratio": 2.0,
-    "area_sqm": 2559.7,
-    "estimated_capacity": 56313
+    "length_m": 78.3,
+    "width_m": 58.7,
+    "aspect_ratio": 1.33,
+    "area_sqm": 4596.2,
+    "estimated_capacity": 101116
   },
   "audit_metrics": {
-    "confidence": 0.356,
-    "estimated_length_m": 71.5,
-    "estimated_width_m": 35.8,
-    "distance_to_receptor_m": 668.3,
+    "confidence": 0.546,
+    "estimated_length_m": 78.3,
+    "estimated_width_m": 58.7,
+    "distance_to_receptor_m": 672.4,
     "nearest_receptor": "Noorani Talimul Quran Hafezia Madrasa, Religious school",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVN-010_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:45.020196+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:45",
+  "audit_timestamp": "2026-10-18T14:06:53.948810+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:53",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

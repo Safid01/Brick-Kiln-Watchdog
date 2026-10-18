@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVE-021",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.80329,
-    "longitude": 90.312409
+    "latitude": 23.803326,
+    "longitude": 90.312429
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
-    "banned": false
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 111.3,
-    "width_m": 109.1,
-    "aspect_ratio": 1.02,
-    "area_sqm": 12142.8,
-    "estimated_capacity": 267141
+    "length_m": 94.3,
+    "width_m": 80.5,
+    "aspect_ratio": 1.17,
+    "area_sqm": 7591.1,
+    "estimated_capacity": 167004
   },
   "audit_metrics": {
-    "confidence": 0.681,
-    "estimated_length_m": 111.3,
-    "estimated_width_m": 109.1,
-    "distance_to_receptor_m": 2013.9,
+    "confidence": 0.595,
+    "estimated_length_m": 94.3,
+    "estimated_width_m": 80.5,
+    "distance_to_receptor_m": 2015.9,
     "nearest_receptor": "Kasemul Uloom Al Islamia Dhaka Bangladesh, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-021_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.243093+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:36.593425+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

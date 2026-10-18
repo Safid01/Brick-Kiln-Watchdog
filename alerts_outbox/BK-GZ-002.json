@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZ-002",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 23.996758,
+    "longitude": 90.32684
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 88.6,
+    "width_m": 81.4,
+    "aspect_ratio": 1.09,
+    "area_sqm": 7212.0,
+    "estimated_capacity": 158664
+  },
+  "audit_metrics": {
+    "confidence": 0.481,
+    "estimated_length_m": 88.6,
+    "estimated_width_m": 81.4,
+    "distance_to_receptor_m": 686.5,
+    "nearest_receptor": "\u09b8\u09bf\u099f\u09bf \u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2 \u09a1\u09be\u09af\u09bc\u09be\u0997\u09a8\u09b8\u09cd\u099f\u09bf\u0995 \u098f\u09a8\u09cd\u09a1 \u0995\u09a8\u09b8\u09be\u09b2\u099f\u09c7\u09b6\u09a8 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.992731,
+      "longitude": 90.321715
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZ-002_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:08:37.705277+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

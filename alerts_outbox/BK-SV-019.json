@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-019",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.800465,
+    "longitude": 90.274819
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 113.7,
+    "width_m": 94.1,
+    "aspect_ratio": 1.21,
+    "area_sqm": 10699.2,
+    "estimated_capacity": 235382
+  },
+  "audit_metrics": {
+    "confidence": 0.561,
+    "estimated_length_m": 113.7,
+    "estimated_width_m": 94.1,
+    "distance_to_receptor_m": 766.7,
+    "nearest_receptor": "AMJ Residential Academy \u098f\u098f\u09ae\u099c\u09c7 \u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f \u098f\u0995\u09be\u09a1\u09c7\u09ae\u09bf",
+    "receptor_type": "school",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.797005,
+      "longitude": 90.281331
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-019_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:06:17.709827+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:17",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

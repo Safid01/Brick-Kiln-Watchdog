@@ -3,34 +3,34 @@
   "kiln_id": "BK-GGC-002",
   "region": "Gopalganj",
   "coordinates": {
-    "latitude": 22.999437,
-    "longitude": 89.779024
+    "latitude": 22.999436,
+    "longitude": 89.779009
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.3,
-    "width_m": 87.4,
-    "aspect_ratio": 1.12,
-    "area_sqm": 8591.4,
-    "estimated_capacity": 189010
+    "length_m": 95.9,
+    "width_m": 78.8,
+    "aspect_ratio": 1.22,
+    "area_sqm": 7556.9,
+    "estimated_capacity": 166251
   },
   "audit_metrics": {
-    "confidence": 0.76,
-    "estimated_length_m": 98.3,
-    "estimated_width_m": 87.4,
-    "distance_to_receptor_m": 66800.2,
+    "confidence": 0.777,
+    "estimated_length_m": 95.9,
+    "estimated_width_m": 78.8,
+    "distance_to_receptor_m": 66800.9,
     "nearest_receptor": "Char Bhadrasan Pilot High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GGC-002_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:54:59.966872+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:54:59",
+  "audit_timestamp": "2026-10-18T14:21:22.677263+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:21:22",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNS-048",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.631475,
-    "longitude": 90.405176
+    "latitude": 23.631452,
+    "longitude": 90.405219
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.5,
-    "width_m": 100.1,
-    "aspect_ratio": 1.05,
-    "area_sqm": 10560.5,
-    "estimated_capacity": 232331
+    "length_m": 96.5,
+    "width_m": 72.8,
+    "aspect_ratio": 1.33,
+    "area_sqm": 7025.2,
+    "estimated_capacity": 154554
   },
   "audit_metrics": {
-    "confidence": 0.612,
-    "estimated_length_m": 105.5,
-    "estimated_width_m": 100.1,
-    "distance_to_receptor_m": 2452.6,
+    "confidence": 0.507,
+    "estimated_length_m": 96.5,
+    "estimated_width_m": 72.8,
+    "distance_to_receptor_m": 2455.8,
     "nearest_receptor": "Jagannath University New Campus",
     "receptor_type": "university",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-048_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:52.258914+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:52",
+  "audit_timestamp": "2026-10-18T14:17:10.369527+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:10",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

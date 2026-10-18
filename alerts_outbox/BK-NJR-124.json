@@ -3,34 +3,34 @@
   "kiln_id": "BK-NJR-124",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.810627,
-    "longitude": 90.568512
+    "latitude": 23.810678,
+    "longitude": 90.568699
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 75.9,
-    "width_m": 66.8,
-    "aspect_ratio": 1.14,
-    "area_sqm": 5070.1,
-    "estimated_capacity": 111542
+    "length_m": 80.7,
+    "width_m": 31.9,
+    "aspect_ratio": 2.53,
+    "area_sqm": 2574.3,
+    "estimated_capacity": 56634
   },
   "audit_metrics": {
-    "confidence": 0.2,
-    "estimated_length_m": 75.9,
-    "estimated_width_m": 66.8,
-    "distance_to_receptor_m": 2719.7,
+    "confidence": 0.369,
+    "estimated_length_m": 80.7,
+    "estimated_width_m": 31.9,
+    "distance_to_receptor_m": 2724.8,
     "nearest_receptor": "Kanchan",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-124_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:44:52.380947+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:44:52",
+  "audit_timestamp": "2026-10-18T14:10:38.856461+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

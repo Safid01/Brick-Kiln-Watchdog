@@ -3,16 +3,16 @@
   "kiln_id": "BK-MKS-007",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.785725,
-    "longitude": 90.140801
+    "latitude": 23.785754,
+    "longitude": 90.140797
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 117.6,
-    "width_m": 110.7,
-    "aspect_ratio": 1.06,
-    "area_sqm": 13018.3,
-    "estimated_capacity": 286402
+    "length_m": 92.1,
+    "width_m": 72.1,
+    "aspect_ratio": 1.28,
+    "area_sqm": 6640.4,
+    "estimated_capacity": 146088
   },
   "audit_metrics": {
-    "confidence": 0.688,
-    "estimated_length_m": 117.6,
-    "estimated_width_m": 110.7,
-    "distance_to_receptor_m": 2599.2,
+    "confidence": 0.752,
+    "estimated_length_m": 92.1,
+    "estimated_width_m": 72.1,
+    "distance_to_receptor_m": 2596.3,
     "nearest_receptor": "Singair Clinic And Diagnostic Centre, Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKS-007_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:48:28.985425+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:48:28",
+  "audit_timestamp": "2026-10-18T14:14:36.597401+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:14:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

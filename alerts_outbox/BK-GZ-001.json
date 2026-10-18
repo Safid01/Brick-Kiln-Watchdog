@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-GZ-001",
+  "region": "Gazipur",
+  "coordinates": {
+    "latitude": 23.985271,
+    "longitude": 90.275599
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 102.6,
+    "width_m": 83.7,
+    "aspect_ratio": 1.23,
+    "area_sqm": 8587.6,
+    "estimated_capacity": 188927
+  },
+  "audit_metrics": {
+    "confidence": 0.566,
+    "estimated_length_m": 102.6,
+    "estimated_width_m": 83.7,
+    "distance_to_receptor_m": 971.1,
+    "nearest_receptor": "Bhabanipur Primary School",
+    "receptor_type": "school",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.99369,
+      "longitude": 90.278246
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-GZ-001_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:08:37.661298+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

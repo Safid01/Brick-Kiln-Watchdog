@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVE-030",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.776349,
-    "longitude": 90.322845
+    "latitude": 23.776395,
+    "longitude": 90.322843
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.8,
-    "width_m": 91.3,
-    "aspect_ratio": 1.08,
-    "area_sqm": 9020.4,
-    "estimated_capacity": 198448
+    "length_m": 102.9,
+    "width_m": 74.9,
+    "aspect_ratio": 1.37,
+    "area_sqm": 7707.2,
+    "estimated_capacity": 169558
   },
   "audit_metrics": {
-    "confidence": 0.629,
-    "estimated_length_m": 98.8,
-    "estimated_width_m": 91.3,
-    "distance_to_receptor_m": 896.9,
+    "confidence": 0.752,
+    "estimated_length_m": 102.9,
+    "estimated_width_m": 74.9,
+    "distance_to_receptor_m": 892.6,
     "nearest_receptor": "Tejgaon Nurani Mardasah, Amin Bazar Branch \u09a4\u09c7\u099c\u0997\u09be\u0981\u0993 \u09a8\u09c2\u09b0\u09be\u09a8\u09c0 \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-030_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.662949+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:35.837615+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

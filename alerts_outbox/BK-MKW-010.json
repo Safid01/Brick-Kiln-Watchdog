@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKW-010",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.848497,
-    "longitude": 89.811743
+    "latitude": 23.848522,
+    "longitude": 89.811781
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 125.1,
-    "width_m": 103.0,
-    "aspect_ratio": 1.21,
-    "area_sqm": 12885.3,
-    "estimated_capacity": 283476
+    "length_m": 116.6,
+    "width_m": 72.5,
+    "aspect_ratio": 1.61,
+    "area_sqm": 8453.5,
+    "estimated_capacity": 185977
   },
   "audit_metrics": {
-    "confidence": 0.57,
-    "estimated_length_m": 125.1,
-    "estimated_width_m": 103.0,
-    "distance_to_receptor_m": 19214.9,
+    "confidence": 0.692,
+    "estimated_length_m": 116.6,
+    "estimated_width_m": 72.5,
+    "distance_to_receptor_m": 19211.0,
     "nearest_receptor": "Collectorate Public School, Manikganj",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKW-010_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:49:43.645711+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:49:43",
+  "audit_timestamp": "2026-10-18T14:15:58.929287+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:58",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

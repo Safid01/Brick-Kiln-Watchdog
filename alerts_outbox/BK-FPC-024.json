@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-FPC-024",
+  "region": "Faridpur",
+  "coordinates": {
+    "latitude": 23.562196,
+    "longitude": 89.876167
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 72.5,
+    "width_m": 48.4,
+    "aspect_ratio": 1.5,
+    "area_sqm": 3509.0,
+    "estimated_capacity": 77198
+  },
+  "audit_metrics": {
+    "confidence": 0.374,
+    "estimated_length_m": 72.5,
+    "estimated_width_m": 48.4,
+    "distance_to_receptor_m": 13055.2,
+    "nearest_receptor": "Char Bhadrasan Government College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.565851,
+      "longitude": 90.00388
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-FPC-024_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:18:15.012159+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:18:15",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

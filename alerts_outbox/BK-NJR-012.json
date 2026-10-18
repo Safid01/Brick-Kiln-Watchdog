@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJR-012",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.75588,
-    "longitude": 90.545321
+    "latitude": 23.755867,
+    "longitude": 90.545354
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.8,
-    "width_m": 92.0,
-    "aspect_ratio": 1.07,
-    "area_sqm": 9089.6,
-    "estimated_capacity": 199971
+    "length_m": 96.2,
+    "width_m": 81.3,
+    "aspect_ratio": 1.18,
+    "area_sqm": 7821.1,
+    "estimated_capacity": 172064
   },
   "audit_metrics": {
-    "confidence": 0.668,
-    "estimated_length_m": 98.8,
-    "estimated_width_m": 92.0,
-    "distance_to_receptor_m": 1228.7,
+    "confidence": 0.689,
+    "estimated_length_m": 96.2,
+    "estimated_width_m": 81.3,
+    "distance_to_receptor_m": 1229.0,
     "nearest_receptor": "Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-012_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:35.739247+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:35",
+  "audit_timestamp": "2026-10-18T14:10:38.057743+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

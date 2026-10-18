@@ -3,16 +3,16 @@
   "kiln_id": "BK-TGM-026",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.08654,
-    "longitude": 90.11136
+    "latitude": 24.086521,
+    "longitude": 90.111382
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.1,
-    "width_m": 100.3,
-    "aspect_ratio": 1.05,
-    "area_sqm": 10541.5,
-    "estimated_capacity": 231913
+    "length_m": 96.0,
+    "width_m": 66.9,
+    "aspect_ratio": 1.43,
+    "area_sqm": 6422.4,
+    "estimated_capacity": 141292
   },
   "audit_metrics": {
-    "confidence": 0.626,
-    "estimated_length_m": 105.1,
-    "estimated_width_m": 100.3,
-    "distance_to_receptor_m": 1278.4,
+    "confidence": 0.708,
+    "estimated_length_m": 96.0,
+    "estimated_width_m": 66.9,
+    "distance_to_receptor_m": 1279.2,
     "nearest_receptor": "Dewhata Alhaj Jonab Ali Bahumukhi High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-026_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:08.122514+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:08",
+  "audit_timestamp": "2026-10-18T14:11:08.572902+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:08",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

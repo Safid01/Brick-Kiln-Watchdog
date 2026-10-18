@@ -3,8 +3,8 @@
   "kiln_id": "BK-SVE-013",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.791642,
-    "longitude": 90.321601
+    "latitude": 23.791663,
+    "longitude": 90.321583
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 108.4,
-    "width_m": 99.3,
-    "aspect_ratio": 1.09,
-    "area_sqm": 10764.1,
-    "estimated_capacity": 236810
+    "length_m": 109.0,
+    "width_m": 85.9,
+    "aspect_ratio": 1.27,
+    "area_sqm": 9363.1,
+    "estimated_capacity": 205988
   },
   "audit_metrics": {
-    "confidence": 0.71,
-    "estimated_length_m": 108.4,
-    "estimated_width_m": 99.3,
-    "distance_to_receptor_m": 422.8,
+    "confidence": 0.817,
+    "estimated_length_m": 109.0,
+    "estimated_width_m": 85.9,
+    "distance_to_receptor_m": 425.8,
     "nearest_receptor": "Kasemul Uloom Al Islamia Dhaka Bangladesh, School",
     "receptor_type": "school",
     "priority_tier": "CRITICAL",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-013_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:25.818867+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:25",
+  "audit_timestamp": "2026-10-18T14:06:35.153829+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

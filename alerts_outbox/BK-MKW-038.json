@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKW-038",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.801635,
-    "longitude": 89.857101
+    "latitude": 23.801665,
+    "longitude": 89.857095
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 120.0,
-    "width_m": 92.2,
-    "aspect_ratio": 1.3,
-    "area_sqm": 11064.0,
-    "estimated_capacity": 243408
+    "length_m": 114.3,
+    "width_m": 73.1,
+    "aspect_ratio": 1.56,
+    "area_sqm": 8355.3,
+    "estimated_capacity": 183816
   },
   "audit_metrics": {
-    "confidence": 0.348,
-    "estimated_length_m": 120.0,
-    "estimated_width_m": 92.2,
-    "distance_to_receptor_m": 15574.8,
+    "confidence": 0.605,
+    "estimated_length_m": 114.3,
+    "estimated_width_m": 73.1,
+    "distance_to_receptor_m": 15576.0,
     "nearest_receptor": "Khabash Pur Labanya Prova High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKW-038_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:51:32.308825+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:51:32",
+  "audit_timestamp": "2026-10-18T14:15:59.227891+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:59",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

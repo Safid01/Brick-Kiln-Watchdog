@@ -3,16 +3,16 @@
   "kiln_id": "BK-SVE-020",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.769099,
-    "longitude": 90.317283
+    "latitude": 23.769117,
+    "longitude": 90.317284
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.7,
-    "width_m": 81.1,
-    "aspect_ratio": 1.27,
-    "area_sqm": 8329.0,
-    "estimated_capacity": 183238
+    "length_m": 103.1,
+    "width_m": 71.9,
+    "aspect_ratio": 1.43,
+    "area_sqm": 7412.9,
+    "estimated_capacity": 163083
   },
   "audit_metrics": {
-    "confidence": 0.687,
-    "estimated_length_m": 102.7,
-    "estimated_width_m": 81.1,
-    "distance_to_receptor_m": 1538.4,
+    "confidence": 0.78,
+    "estimated_length_m": 103.1,
+    "estimated_width_m": 71.9,
+    "distance_to_receptor_m": 1536.4,
     "nearest_receptor": "Tejgaon Nurani Mardasah, Amin Bazar Branch \u09a4\u09c7\u099c\u0997\u09be\u0981\u0993 \u09a8\u09c2\u09b0\u09be\u09a8\u09c0 \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-020_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.180001+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:35.438170+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

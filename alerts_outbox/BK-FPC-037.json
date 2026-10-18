@@ -3,16 +3,16 @@
   "kiln_id": "BK-FPC-037",
   "region": "Faridpur",
   "coordinates": {
-    "latitude": 23.624807,
-    "longitude": 89.832102
+    "latitude": 23.624773,
+    "longitude": 89.832128
   },
   "technology": {
-    "type": "ZIGZAG",
-    "label": "Improved Zigzag Kiln",
-    "badge": "Zigzag",
-    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
-    "compliance_status": "CONDITIONAL_PERMIT",
-    "emission_tier": "Controlled Emission (Permitted)",
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.3,
-    "width_m": 70.2,
-    "aspect_ratio": 1.47,
-    "area_sqm": 7251.7,
-    "estimated_capacity": 159537
+    "length_m": 105.0,
+    "width_m": 82.9,
+    "aspect_ratio": 1.27,
+    "area_sqm": 8704.5,
+    "estimated_capacity": 191499
   },
   "audit_metrics": {
-    "confidence": 0.606,
-    "estimated_length_m": 103.3,
-    "estimated_width_m": 70.2,
-    "distance_to_receptor_m": 18724.7,
+    "confidence": 0.78,
+    "estimated_length_m": 105.0,
+    "estimated_width_m": 82.9,
+    "distance_to_receptor_m": 18720.9,
     "nearest_receptor": "Char Bhadrasan Government College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-FPC-037_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:51:53.564031+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:51:53",
+  "audit_timestamp": "2026-10-18T14:18:12.892202+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:18:12",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-NRP-047",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.951767,
-    "longitude": 90.619128
+    "latitude": 23.951674,
+    "longitude": 90.619148
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 120.4,
-    "width_m": 81.7,
-    "aspect_ratio": 1.47,
-    "area_sqm": 9836.7,
-    "estimated_capacity": 216407
+    "length_m": 124.4,
+    "width_m": 93.7,
+    "aspect_ratio": 1.33,
+    "area_sqm": 11656.3,
+    "estimated_capacity": 256438
   },
   "audit_metrics": {
-    "confidence": 0.398,
-    "estimated_length_m": 120.4,
-    "estimated_width_m": 81.7,
-    "distance_to_receptor_m": 1135.1,
+    "confidence": 0.681,
+    "estimated_length_m": 124.4,
+    "estimated_width_m": 93.7,
+    "distance_to_receptor_m": 1145.6,
     "nearest_receptor": "Begum Rabeya Ahmed High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRP-047_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:46:46.315366+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:46:46",
+  "audit_timestamp": "2026-10-18T14:12:51.203962+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:51",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

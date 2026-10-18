@@ -3,16 +3,16 @@
   "kiln_id": "BK-NJR-034",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.769176,
-    "longitude": 90.559138
+    "latitude": 23.769215,
+    "longitude": 90.559164
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 113.9,
-    "width_m": 68.1,
-    "aspect_ratio": 1.67,
-    "area_sqm": 7756.6,
-    "estimated_capacity": 170645
+    "length_m": 99.4,
+    "width_m": 62.0,
+    "aspect_ratio": 1.6,
+    "area_sqm": 6162.8,
+    "estimated_capacity": 135581
   },
   "audit_metrics": {
-    "confidence": 0.548,
-    "estimated_length_m": 113.9,
-    "estimated_width_m": 68.1,
-    "distance_to_receptor_m": 1792.7,
+    "confidence": 0.696,
+    "estimated_length_m": 99.4,
+    "estimated_width_m": 62.0,
+    "distance_to_receptor_m": 1787.7,
     "nearest_receptor": "Bhulta Islami Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-034_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:36.230222+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:36",
+  "audit_timestamp": "2026-10-18T14:10:37.947221+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

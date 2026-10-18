@@ -3,16 +3,16 @@
   "kiln_id": "BK-NW-006",
   "region": "Nawabganj",
   "coordinates": {
-    "latitude": 23.725878,
-    "longitude": 90.211017
+    "latitude": 23.725837,
+    "longitude": 90.21101
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 94.5,
-    "width_m": 87.4,
-    "aspect_ratio": 1.08,
-    "area_sqm": 8259.3,
-    "estimated_capacity": 181704
+    "length_m": 86.5,
+    "width_m": 65.5,
+    "aspect_ratio": 1.32,
+    "area_sqm": 5665.8,
+    "estimated_capacity": 124647
   },
   "audit_metrics": {
-    "confidence": 0.506,
-    "estimated_length_m": 94.5,
-    "estimated_width_m": 87.4,
-    "distance_to_receptor_m": 7019.4,
+    "confidence": 0.725,
+    "estimated_length_m": 86.5,
+    "estimated_width_m": 65.5,
+    "distance_to_receptor_m": 7020.4,
     "nearest_receptor": "Salam Bangladesh Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NW-006_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:37.640846+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:37",
+  "audit_timestamp": "2026-10-18T14:07:46.440053+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,34 +3,34 @@
   "kiln_id": "BK-DHM-082",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.916013,
-    "longitude": 90.167163
+    "latitude": 23.916027,
+    "longitude": 90.167115
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
-    "banned": false
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 109.3,
-    "width_m": 93.9,
-    "aspect_ratio": 1.16,
-    "area_sqm": 10263.3,
-    "estimated_capacity": 225792
+    "length_m": 86.2,
+    "width_m": 82.6,
+    "aspect_ratio": 1.04,
+    "area_sqm": 7120.1,
+    "estimated_capacity": 156642
   },
   "audit_metrics": {
-    "confidence": 0.45,
-    "estimated_length_m": 109.3,
-    "estimated_width_m": 93.9,
-    "distance_to_receptor_m": 1625.6,
+    "confidence": 0.49,
+    "estimated_length_m": 86.2,
+    "estimated_width_m": 82.6,
+    "distance_to_receptor_m": 1630.7,
     "nearest_receptor": "Joypura Government Primary School, Primary school",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-082_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:18.650948+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:18",
+  "audit_timestamp": "2026-10-18T14:08:21.932688+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

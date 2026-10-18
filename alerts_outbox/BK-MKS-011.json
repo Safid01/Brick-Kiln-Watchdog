@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKS-011",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.81767,
+    "longitude": 90.145946
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 94.7,
+    "width_m": 60.9,
+    "aspect_ratio": 1.56,
+    "area_sqm": 5767.2,
+    "estimated_capacity": 126878
+  },
+  "audit_metrics": {
+    "confidence": 0.509,
+    "estimated_length_m": 94.7,
+    "estimated_width_m": 60.9,
+    "distance_to_receptor_m": 339.0,
+    "nearest_receptor": "\u09b8\u09bf\u0982\u0997\u09be\u0987\u09b0 \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u0995\u09b2\u09c7\u099c",
+    "receptor_type": "college",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.815604,
+      "longitude": 90.148398
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKS-011_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:14:37.218878+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:14:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

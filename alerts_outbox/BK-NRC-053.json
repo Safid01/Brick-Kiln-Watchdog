@@ -3,34 +3,34 @@
   "kiln_id": "BK-NRC-053",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.918426,
-    "longitude": 90.744952
+    "latitude": 23.91842,
+    "longitude": 90.744947
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
-    "banned": false
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.0,
-    "width_m": 95.2,
-    "aspect_ratio": 1.1,
-    "area_sqm": 9996.0,
-    "estimated_capacity": 219912
+    "length_m": 99.3,
+    "width_m": 87.5,
+    "aspect_ratio": 1.13,
+    "area_sqm": 8688.8,
+    "estimated_capacity": 191153
   },
   "audit_metrics": {
-    "confidence": 0.423,
-    "estimated_length_m": 105.0,
-    "estimated_width_m": 95.2,
-    "distance_to_receptor_m": 4675.9,
+    "confidence": 0.725,
+    "estimated_length_m": 99.3,
+    "estimated_width_m": 87.5,
+    "distance_to_receptor_m": 4675.5,
     "nearest_receptor": "Abdul Kadir Mollah City College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRC-053_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:47:15.143902+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:47:15",
+  "audit_timestamp": "2026-10-18T14:13:21.643949+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

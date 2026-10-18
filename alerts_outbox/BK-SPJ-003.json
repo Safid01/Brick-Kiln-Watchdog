@@ -3,16 +3,16 @@
   "kiln_id": "BK-SPJ-003",
   "region": "Shariatpur",
   "coordinates": {
-    "latitude": 23.305496,
-    "longitude": 90.299719
+    "latitude": 23.305494,
+    "longitude": 90.29962
   },
   "technology": {
-    "type": "ZIGZAG",
-    "label": "Improved Zigzag Kiln",
-    "badge": "Zigzag",
-    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
-    "compliance_status": "CONDITIONAL_PERMIT",
-    "emission_tier": "Controlled Emission (Permitted)",
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.8,
-    "width_m": 69.5,
-    "aspect_ratio": 1.49,
-    "area_sqm": 7214.1,
-    "estimated_capacity": 158710
+    "length_m": 104.6,
+    "width_m": 79.4,
+    "aspect_ratio": 1.32,
+    "area_sqm": 8305.2,
+    "estimated_capacity": 182714
   },
   "audit_metrics": {
-    "confidence": 0.704,
-    "estimated_length_m": 103.8,
-    "estimated_width_m": 69.5,
-    "distance_to_receptor_m": 22144.9,
+    "confidence": 0.769,
+    "estimated_length_m": 104.6,
+    "estimated_width_m": 79.4,
+    "distance_to_receptor_m": 22143.8,
     "nearest_receptor": "Shamaspur High School & College, Dhaka-Mawa Highway, Mawa",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SPJ-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:58:33.114187+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:58:33",
+  "audit_timestamp": "2026-10-18T13:48:14.408107+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:48:14",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

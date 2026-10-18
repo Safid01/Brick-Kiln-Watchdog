@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRR-003",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 24.003331,
+    "longitude": 90.877356
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 45.6,
+    "width_m": 32.4,
+    "aspect_ratio": 1.41,
+    "area_sqm": 1477.4,
+    "estimated_capacity": 32502
+  },
+  "audit_metrics": {
+    "confidence": 0.473,
+    "estimated_length_m": 45.6,
+    "estimated_width_m": 32.4,
+    "distance_to_receptor_m": 20034.7,
+    "nearest_receptor": "Abdul Kadir Mollah City College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.925539,
+      "longitude": 90.699695
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRR-003_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:13:56.220333+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:56",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

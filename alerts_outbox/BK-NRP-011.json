@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRP-011",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 23.927274,
+    "longitude": 90.604788
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 117.6,
+    "width_m": 106.4,
+    "aspect_ratio": 1.11,
+    "area_sqm": 12512.6,
+    "estimated_capacity": 275277
+  },
+  "audit_metrics": {
+    "confidence": 0.351,
+    "estimated_length_m": 117.6,
+    "estimated_width_m": 106.4,
+    "distance_to_receptor_m": 350.2,
+    "nearest_receptor": "Mulgaon Government Primary School \u09ae\u09c1\u09b2\u0997\u09be\u0981\u0993 \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "receptor_type": "school",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.927187,
+      "longitude": 90.60135
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRP-011_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:12:51.760957+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:51",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

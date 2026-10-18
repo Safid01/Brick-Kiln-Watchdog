@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKS-003",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.797912,
-    "longitude": 90.22416
+    "latitude": 23.797891,
+    "longitude": 90.224174
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 88.4,
-    "width_m": 69.8,
-    "aspect_ratio": 1.27,
-    "area_sqm": 6170.3,
-    "estimated_capacity": 135746
+    "length_m": 87.7,
+    "width_m": 63.5,
+    "aspect_ratio": 1.38,
+    "area_sqm": 5568.9,
+    "estimated_capacity": 122515
   },
   "audit_metrics": {
-    "confidence": 0.726,
-    "estimated_length_m": 88.4,
-    "estimated_width_m": 69.8,
-    "distance_to_receptor_m": 809.4,
+    "confidence": 0.782,
+    "estimated_length_m": 87.7,
+    "estimated_width_m": 63.5,
+    "distance_to_receptor_m": 811.8,
     "nearest_receptor": "Madrasha E Muhammadia Miftahul Ulam o Eatim Khana, School",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKS-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:48:28.676704+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:48:28",
+  "audit_timestamp": "2026-10-18T14:14:36.518958+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:14:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

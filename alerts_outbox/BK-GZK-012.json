@@ -3,8 +3,8 @@
   "kiln_id": "BK-GZK-012",
   "region": "Gazipur",
   "coordinates": {
-    "latitude": 24.058992,
-    "longitude": 90.210851
+    "latitude": 24.059149,
+    "longitude": 90.210831
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.4,
-    "width_m": 77.5,
-    "aspect_ratio": 1.36,
-    "area_sqm": 8168.5,
-    "estimated_capacity": 179707
+    "length_m": 116.5,
+    "width_m": 33.4,
+    "aspect_ratio": 3.49,
+    "area_sqm": 3891.1,
+    "estimated_capacity": 85604
   },
   "audit_metrics": {
-    "confidence": 0.619,
-    "estimated_length_m": 105.4,
-    "estimated_width_m": 77.5,
-    "distance_to_receptor_m": 840.3,
+    "confidence": 0.516,
+    "estimated_length_m": 116.5,
+    "estimated_width_m": 33.4,
+    "distance_to_receptor_m": 822.7,
     "nearest_receptor": "Sreefaltoli Hospital",
     "receptor_type": "hospital",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GZK-012_patch.jpg",
-  "audit_timestamp": "2026-10-17T16:01:26.124024+00:00",
-  "audit_date_formatted": "17 Oct 2026, 22:01:26",
+  "audit_timestamp": "2026-10-18T14:09:03.759107+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:03",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

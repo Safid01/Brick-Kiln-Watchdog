@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-036",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.950327,
-    "longitude": 90.152143
+    "latitude": 23.950349,
+    "longitude": 90.152111
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 114.7,
-    "width_m": 95.7,
-    "aspect_ratio": 1.2,
-    "area_sqm": 10976.8,
-    "estimated_capacity": 241489
+    "length_m": 111.5,
+    "width_m": 74.4,
+    "aspect_ratio": 1.5,
+    "area_sqm": 8295.6,
+    "estimated_capacity": 182503
   },
   "audit_metrics": {
-    "confidence": 0.641,
-    "estimated_length_m": 114.7,
-    "estimated_width_m": 95.7,
-    "distance_to_receptor_m": 3512.1,
+    "confidence": 0.484,
+    "estimated_length_m": 111.5,
+    "estimated_width_m": 74.4,
+    "distance_to_receptor_m": 3512.2,
     "nearest_receptor": "\u09ae\u09b0\u09be\u09b0\u099a\u09b0 \u09aa\u09cd\u09b0\u09be\u0987\u09ae\u09be\u09b0\u09c0 \u09b8\u09cd\u0995\u09c1\u09b2",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-036_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:15.943972+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:15",
+  "audit_timestamp": "2026-10-18T14:08:22.068687+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:22",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

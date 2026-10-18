@@ -3,33 +3,33 @@
   "kiln_id": "BK-DHM-027",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.919726,
-    "longitude": 90.167784
+    "latitude": 23.919743,
+    "longitude": 90.167798
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.0,
-    "width_m": 80.0,
-    "aspect_ratio": 1.19,
-    "area_sqm": 7600.0,
-    "estimated_capacity": 167200
+    "length_m": 97.3,
+    "width_m": 74.9,
+    "aspect_ratio": 1.3,
+    "area_sqm": 7287.8,
+    "estimated_capacity": 160331
   },
   "audit_metrics": {
-    "confidence": 0.658,
-    "estimated_length_m": 95.0,
-    "estimated_width_m": 80.0,
+    "confidence": 0.674,
+    "estimated_length_m": 97.3,
+    "estimated_width_m": 74.9,
     "distance_to_receptor_m": 1780.8,
     "nearest_receptor": "Joypura Government Primary School, Primary school",
     "receptor_type": "school",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-027_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:15.338008+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:15",
+  "audit_timestamp": "2026-10-18T14:08:20.117878+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:20",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

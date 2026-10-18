@@ -3,34 +3,34 @@
   "kiln_id": "BK-MNS-001",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.618007,
-    "longitude": 90.405243
+    "latitude": 23.61804,
+    "longitude": 90.405292
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 99.7,
-    "width_m": 97.9,
-    "aspect_ratio": 1.02,
-    "area_sqm": 9760.6,
-    "estimated_capacity": 214733
+    "length_m": 107.5,
+    "width_m": 100.9,
+    "aspect_ratio": 1.07,
+    "area_sqm": 10846.8,
+    "estimated_capacity": 238629
   },
   "audit_metrics": {
-    "confidence": 0.826,
-    "estimated_length_m": 99.7,
-    "estimated_width_m": 97.9,
-    "distance_to_receptor_m": 3901.1,
+    "confidence": 0.792,
+    "estimated_length_m": 107.5,
+    "estimated_width_m": 100.9,
+    "distance_to_receptor_m": 3895.1,
     "nearest_receptor": "Zazira High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-001_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:49.725673+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:49",
+  "audit_timestamp": "2026-10-18T14:17:07.754126+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:07",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

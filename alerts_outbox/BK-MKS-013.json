@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKS-013",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.778884,
+    "longitude": 90.188704
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 81.6,
+    "width_m": 45.4,
+    "aspect_ratio": 1.8,
+    "area_sqm": 3704.6,
+    "estimated_capacity": 81501
+  },
+  "audit_metrics": {
+    "confidence": 0.451,
+    "estimated_length_m": 81.6,
+    "estimated_width_m": 45.4,
+    "distance_to_receptor_m": 2480.2,
+    "nearest_receptor": "Bahadia Imamnagar Primary And High School",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.789736,
+      "longitude": 90.167435
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKS-013_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:14:37.382808+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:14:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

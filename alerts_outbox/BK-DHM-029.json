@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-029",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.9464,
-    "longitude": 90.194642
+    "latitude": 23.946414,
+    "longitude": 90.194644
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 91.4,
-    "width_m": 65.7,
-    "aspect_ratio": 1.39,
-    "area_sqm": 6005.0,
-    "estimated_capacity": 132110
+    "length_m": 94.8,
+    "width_m": 66.4,
+    "aspect_ratio": 1.43,
+    "area_sqm": 6294.7,
+    "estimated_capacity": 138483
   },
   "audit_metrics": {
-    "confidence": 0.653,
-    "estimated_length_m": 91.4,
-    "estimated_width_m": 65.7,
-    "distance_to_receptor_m": 2929.0,
+    "confidence": 0.761,
+    "estimated_length_m": 94.8,
+    "estimated_width_m": 66.4,
+    "distance_to_receptor_m": 2927.6,
     "nearest_receptor": "\u09a6\u09c0\u0998\u09b2\u0997\u09cd\u09b0\u09be\u09ae \u0997\u09ad\u09b0\u09cd\u09a8\u09ae\u09c7\u09a8\u09cd\u099f \u09aa\u09cd\u09b0\u09be\u0987\u09ae\u09be\u09b0\u09c0 \u09b8\u09cd\u0995\u09c1\u09b2",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-029_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:15.502025+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:15",
+  "audit_timestamp": "2026-10-18T14:08:18.487827+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

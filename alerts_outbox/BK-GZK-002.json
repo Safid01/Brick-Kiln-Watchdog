@@ -3,8 +3,8 @@
   "kiln_id": "BK-GZK-002",
   "region": "Gazipur",
   "coordinates": {
-    "latitude": 24.083855,
-    "longitude": 90.198571
+    "latitude": 24.083848,
+    "longitude": 90.198575
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 112.5,
-    "width_m": 98.3,
-    "aspect_ratio": 1.14,
-    "area_sqm": 11058.8,
-    "estimated_capacity": 243293
+    "length_m": 111.5,
+    "width_m": 83.0,
+    "aspect_ratio": 1.34,
+    "area_sqm": 9254.5,
+    "estimated_capacity": 203599
   },
   "audit_metrics": {
-    "confidence": 0.703,
-    "estimated_length_m": 112.5,
-    "estimated_width_m": 98.3,
-    "distance_to_receptor_m": 588.6,
+    "confidence": 0.813,
+    "estimated_length_m": 111.5,
+    "estimated_width_m": 83.0,
+    "distance_to_receptor_m": 589.4,
     "nearest_receptor": "51 No Tan Sutrapur Government Primary School \u09eb\u09e7\u09a8\u0982 \u099f\u09be\u09a8 \u09b8\u09c2\u09a4\u09cd\u09b0\u09be\u09aa\u09c1\u09b0 \u09b8\u09b0\u0995\u09be\u09b0\u09c0 \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GZK-002_patch.jpg",
-  "audit_timestamp": "2026-10-17T16:01:25.792877+00:00",
-  "audit_date_formatted": "17 Oct 2026, 22:01:25",
+  "audit_timestamp": "2026-10-18T14:09:02.991712+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:02",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

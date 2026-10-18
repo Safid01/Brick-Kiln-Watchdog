@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJR-024",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.775756,
-    "longitude": 90.581561
+    "latitude": 23.775749,
+    "longitude": 90.581528
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 96.7,
-    "width_m": 70.1,
+    "length_m": 100.0,
+    "width_m": 72.6,
     "aspect_ratio": 1.38,
-    "area_sqm": 6778.7,
-    "estimated_capacity": 149131
+    "area_sqm": 7260.0,
+    "estimated_capacity": 159720
   },
   "audit_metrics": {
-    "confidence": 0.609,
-    "estimated_length_m": 96.7,
-    "estimated_width_m": 70.1,
-    "distance_to_receptor_m": 1698.0,
+    "confidence": 0.763,
+    "estimated_length_m": 100.0,
+    "estimated_width_m": 72.6,
+    "distance_to_receptor_m": 1695.8,
     "nearest_receptor": "Al Rafi Hospital Ltd.",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-024_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:36.013929+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:36",
+  "audit_timestamp": "2026-10-18T14:10:37.639224+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

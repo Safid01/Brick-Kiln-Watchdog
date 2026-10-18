@@ -3,8 +3,8 @@
   "kiln_id": "BK-SVE-035",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.770012,
-    "longitude": 90.326658
+    "latitude": 23.77001,
+    "longitude": 90.326669
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 99.7,
-    "width_m": 82.3,
-    "aspect_ratio": 1.21,
-    "area_sqm": 8205.3,
-    "estimated_capacity": 180516
+    "length_m": 98.0,
+    "width_m": 78.4,
+    "aspect_ratio": 1.25,
+    "area_sqm": 7683.2,
+    "estimated_capacity": 169030
   },
   "audit_metrics": {
-    "confidence": 0.618,
-    "estimated_length_m": 99.7,
-    "estimated_width_m": 82.3,
-    "distance_to_receptor_m": 1090.1,
+    "confidence": 0.733,
+    "estimated_length_m": 98.0,
+    "estimated_width_m": 78.4,
+    "distance_to_receptor_m": 1089.8,
     "nearest_receptor": "\u0986\u09ac\u09c1 \u09b9\u09c1\u09b0\u09be\u0987\u09b0\u09be \u09ae\u09be\u09a6\u09b0\u09be\u09b8\u09be",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-035_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.881540+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:36.035663+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-063",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.784431,
+    "longitude": 90.304699
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 65.9,
+    "width_m": 34.8,
+    "aspect_ratio": 1.89,
+    "area_sqm": 2293.3,
+    "estimated_capacity": 50452
+  },
+  "audit_metrics": {
+    "confidence": 0.421,
+    "estimated_length_m": 65.9,
+    "estimated_width_m": 34.8,
+    "distance_to_receptor_m": 1344.9,
+    "nearest_receptor": "Tejgaon Nurani Mardasah, Amin Bazar Branch \u09a4\u09c7\u099c\u0997\u09be\u0981\u0993 \u09a8\u09c2\u09b0\u09be\u09a8\u09c0 \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.782974,
+      "longitude": 90.317792
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-063_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:06:37.388850+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

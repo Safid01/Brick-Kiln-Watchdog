@@ -3,8 +3,8 @@
   "kiln_id": "BK-KG-034",
   "region": "Keraniganj",
   "coordinates": {
-    "latitude": 23.622319,
-    "longitude": 90.401936
+    "latitude": 23.622376,
+    "longitude": 90.401913
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 136.6,
-    "width_m": 115.6,
-    "aspect_ratio": 1.18,
-    "area_sqm": 15791.0,
-    "estimated_capacity": 347402
+    "length_m": 127.5,
+    "width_m": 89.6,
+    "aspect_ratio": 1.42,
+    "area_sqm": 11424.0,
+    "estimated_capacity": 251328
   },
   "audit_metrics": {
-    "confidence": 0.712,
-    "estimated_length_m": 136.6,
-    "estimated_width_m": 115.6,
-    "distance_to_receptor_m": 3439.5,
+    "confidence": 0.778,
+    "estimated_length_m": 127.5,
+    "estimated_width_m": 89.6,
+    "distance_to_receptor_m": 3433.2,
     "nearest_receptor": "Jagannath University New Campus",
     "receptor_type": "university",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KG-034_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:01.288257+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "audit_timestamp": "2026-10-18T14:07:10.636880+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:10",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,16 +3,16 @@
   "kiln_id": "BK-SVE-008",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.797537,
-    "longitude": 90.326002
+    "latitude": 23.797549,
+    "longitude": 90.326
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.3,
-    "width_m": 91.9,
-    "aspect_ratio": 1.15,
-    "area_sqm": 9677.1,
-    "estimated_capacity": 212896
+    "length_m": 100.0,
+    "width_m": 76.6,
+    "aspect_ratio": 1.31,
+    "area_sqm": 7660.0,
+    "estimated_capacity": 168520
   },
   "audit_metrics": {
-    "confidence": 0.729,
-    "estimated_length_m": 105.3,
-    "estimated_width_m": 91.9,
-    "distance_to_receptor_m": 962.5,
+    "confidence": 0.789,
+    "estimated_length_m": 100.0,
+    "estimated_width_m": 76.6,
+    "distance_to_receptor_m": 963.8,
     "nearest_receptor": "Kanchonpuri Hospital, Hospital",
     "receptor_type": "hospital",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-008_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:25.584791+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:25",
+  "audit_timestamp": "2026-10-18T14:06:35.320499+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

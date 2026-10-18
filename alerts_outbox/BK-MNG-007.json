@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNG-007",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.585555,
-    "longitude": 90.676501
+    "latitude": 23.58553,
+    "longitude": 90.676518
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.6,
-    "width_m": 85.2,
-    "aspect_ratio": 1.22,
-    "area_sqm": 8826.7,
-    "estimated_capacity": 194187
+    "length_m": 102.6,
+    "width_m": 72.9,
+    "aspect_ratio": 1.41,
+    "area_sqm": 7479.5,
+    "estimated_capacity": 164549
   },
   "audit_metrics": {
-    "confidence": 0.621,
-    "estimated_length_m": 103.6,
-    "estimated_width_m": 85.2,
-    "distance_to_receptor_m": 3845.2,
+    "confidence": 0.711,
+    "estimated_length_m": 102.6,
+    "estimated_width_m": 72.9,
+    "distance_to_receptor_m": 3846.7,
     "nearest_receptor": "Gazaria General Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNG-007_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:21.308020+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:21",
+  "audit_timestamp": "2026-10-18T14:16:38.193997+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:16:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

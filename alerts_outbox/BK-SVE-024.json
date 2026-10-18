@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVE-024",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.803132,
-    "longitude": 90.315869
+    "latitude": 23.803122,
+    "longitude": 90.315865
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.1,
-    "width_m": 92.7,
-    "aspect_ratio": 1.03,
-    "area_sqm": 8815.8,
-    "estimated_capacity": 193947
+    "length_m": 84.7,
+    "width_m": 68.9,
+    "aspect_ratio": 1.23,
+    "area_sqm": 5835.8,
+    "estimated_capacity": 128387
   },
   "audit_metrics": {
-    "confidence": 0.672,
-    "estimated_length_m": 95.1,
-    "estimated_width_m": 92.7,
-    "distance_to_receptor_m": 1803.6,
+    "confidence": 0.449,
+    "estimated_length_m": 84.7,
+    "estimated_width_m": 68.9,
+    "distance_to_receptor_m": 1802.8,
     "nearest_receptor": "Kasemul Uloom Al Islamia Dhaka Bangladesh, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-024_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.388793+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:37.147240+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

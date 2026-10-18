@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SV-021",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.794619,
+    "longitude": 90.270071
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 94.1,
+    "width_m": 73.6,
+    "aspect_ratio": 1.28,
+    "area_sqm": 6925.8,
+    "estimated_capacity": 152367
+  },
+  "audit_metrics": {
+    "confidence": 0.455,
+    "estimated_length_m": 94.1,
+    "estimated_width_m": 73.6,
+    "distance_to_receptor_m": 121.1,
+    "nearest_receptor": "Tetuljhora Health & Family Welfare Center \u09a4\u09c7\u09a4\u09c1\u09b2\u099d\u09cb\u09dc\u09be \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u0993 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0 \u0995\u09b2\u09cd\u09af\u09be\u09a3 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0",
+    "receptor_type": "hospital",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.794263,
+      "longitude": 90.271193
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SV-021_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:06:17.914088+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:17",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

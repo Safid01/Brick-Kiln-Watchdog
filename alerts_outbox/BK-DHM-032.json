@@ -3,16 +3,16 @@
   "kiln_id": "BK-DHM-032",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.94269,
-    "longitude": 90.19155
+    "latitude": 23.942716,
+    "longitude": 90.191547
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 104.1,
-    "width_m": 78.3,
-    "aspect_ratio": 1.33,
-    "area_sqm": 8151.0,
-    "estimated_capacity": 179322
+    "length_m": 96.0,
+    "width_m": 62.9,
+    "aspect_ratio": 1.53,
+    "area_sqm": 6038.4,
+    "estimated_capacity": 132844
   },
   "audit_metrics": {
-    "confidence": 0.649,
-    "estimated_length_m": 104.1,
-    "estimated_width_m": 78.3,
-    "distance_to_receptor_m": 3237.1,
+    "confidence": 0.759,
+    "estimated_length_m": 96.0,
+    "estimated_width_m": 62.9,
+    "distance_to_receptor_m": 3234.3,
     "nearest_receptor": "\u09a6\u09c0\u0998\u09b2\u0997\u09cd\u09b0\u09be\u09ae \u0997\u09ad\u09b0\u09cd\u09a8\u09ae\u09c7\u09a8\u09cd\u099f \u09aa\u09cd\u09b0\u09be\u0987\u09ae\u09be\u09b0\u09c0 \u09b8\u09cd\u0995\u09c1\u09b2",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-032_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:15.732761+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:15",
+  "audit_timestamp": "2026-10-18T14:08:18.560564+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

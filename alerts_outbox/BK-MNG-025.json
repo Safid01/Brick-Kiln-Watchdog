@@ -3,8 +3,8 @@
   "kiln_id": "BK-MNG-025",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.585944,
-    "longitude": 90.588708
+    "latitude": 23.585967,
+    "longitude": 90.588753
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 128.2,
-    "width_m": 122.1,
+    "length_m": 139.7,
+    "width_m": 133.0,
     "aspect_ratio": 1.05,
-    "area_sqm": 15653.2,
-    "estimated_capacity": 344370
+    "area_sqm": 18580.1,
+    "estimated_capacity": 408762
   },
   "audit_metrics": {
-    "confidence": 0.433,
-    "estimated_length_m": 128.2,
-    "estimated_width_m": 122.1,
-    "distance_to_receptor_m": 3665.1,
+    "confidence": 0.501,
+    "estimated_length_m": 139.7,
+    "estimated_width_m": 133.0,
+    "distance_to_receptor_m": 3670.1,
     "nearest_receptor": "Char Kishorgonj Kasham Nagar Junior Girls School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNG-025_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:21.510095+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:21",
+  "audit_timestamp": "2026-10-18T14:16:38.397264+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:16:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNS-020",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.625665,
+    "latitude": 23.625674,
     "longitude": 90.393299
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 112.4,
-    "width_m": 97.7,
-    "aspect_ratio": 1.15,
-    "area_sqm": 10981.5,
-    "estimated_capacity": 241593
+    "length_m": 103.6,
+    "width_m": 74.4,
+    "aspect_ratio": 1.39,
+    "area_sqm": 7707.8,
+    "estimated_capacity": 169571
   },
   "audit_metrics": {
-    "confidence": 0.751,
-    "estimated_length_m": 112.4,
-    "estimated_width_m": 97.7,
-    "distance_to_receptor_m": 3182.6,
+    "confidence": 0.806,
+    "estimated_length_m": 103.6,
+    "estimated_width_m": 74.4,
+    "distance_to_receptor_m": 3181.5,
     "nearest_receptor": "Jagannath University New Campus",
     "receptor_type": "university",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-020_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:50.812568+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:50",
+  "audit_timestamp": "2026-10-18T14:17:07.302984+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:07",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

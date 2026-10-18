@@ -3,8 +3,8 @@
   "kiln_id": "BK-FPC-106",
   "region": "Faridpur",
   "coordinates": {
-    "latitude": 23.616493,
-    "longitude": 89.816428
+    "latitude": 23.616537,
+    "longitude": 89.816426
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 112.4,
-    "width_m": 69.6,
-    "aspect_ratio": 1.61,
-    "area_sqm": 7823.0,
-    "estimated_capacity": 172106
+    "length_m": 122.4,
+    "width_m": 79.1,
+    "aspect_ratio": 1.55,
+    "area_sqm": 9681.8,
+    "estimated_capacity": 212999
   },
   "audit_metrics": {
-    "confidence": 0.288,
-    "estimated_length_m": 112.4,
-    "estimated_width_m": 69.6,
-    "distance_to_receptor_m": 19955.0,
+    "confidence": 0.47,
+    "estimated_length_m": 122.4,
+    "estimated_width_m": 79.1,
+    "distance_to_receptor_m": 19956.5,
     "nearest_receptor": "Char Bhadrasan Government College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-FPC-106_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:56:00.648216+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:56:00",
+  "audit_timestamp": "2026-10-18T14:18:14.639060+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:18:14",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

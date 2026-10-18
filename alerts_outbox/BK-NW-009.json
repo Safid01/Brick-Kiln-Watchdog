@@ -4,33 +4,33 @@
   "region": "Nawabganj",
   "coordinates": {
     "latitude": 23.666035,
-    "longitude": 90.226937
+    "longitude": 90.226931
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.8,
-    "width_m": 91.4,
-    "aspect_ratio": 1.12,
-    "area_sqm": 9395.9,
-    "estimated_capacity": 206709
+    "length_m": 102.1,
+    "width_m": 77.4,
+    "aspect_ratio": 1.32,
+    "area_sqm": 7902.5,
+    "estimated_capacity": 173855
   },
   "audit_metrics": {
-    "confidence": 0.502,
-    "estimated_length_m": 102.8,
-    "estimated_width_m": 91.4,
-    "distance_to_receptor_m": 3886.5,
+    "confidence": 0.738,
+    "estimated_length_m": 102.1,
+    "estimated_width_m": 77.4,
+    "distance_to_receptor_m": 3886.9,
     "nearest_receptor": "Kharshur High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NW-009_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:37.709810+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:37",
+  "audit_timestamp": "2026-10-18T14:07:46.373490+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

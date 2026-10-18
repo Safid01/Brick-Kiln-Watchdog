@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKW-064",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.836048,
-    "longitude": 89.833288
+    "latitude": 23.836058,
+    "longitude": 89.833254
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.9,
-    "width_m": 77.2,
-    "aspect_ratio": 1.35,
-    "area_sqm": 8021.1,
-    "estimated_capacity": 176464
+    "length_m": 97.4,
+    "width_m": 67.7,
+    "aspect_ratio": 1.44,
+    "area_sqm": 6594.0,
+    "estimated_capacity": 145068
   },
   "audit_metrics": {
-    "confidence": 0.232,
-    "estimated_length_m": 103.9,
-    "estimated_width_m": 77.2,
-    "distance_to_receptor_m": 17098.4,
+    "confidence": 0.633,
+    "estimated_length_m": 97.4,
+    "estimated_width_m": 67.7,
+    "distance_to_receptor_m": 17101.7,
     "nearest_receptor": "Collectorate Public School, Manikganj",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKW-064_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:51:34.251350+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:51:34",
+  "audit_timestamp": "2026-10-18T14:15:59.083245+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:59",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

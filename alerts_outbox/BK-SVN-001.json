@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVN-001",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.818138,
-    "longitude": 90.270613
+    "latitude": 23.818158,
+    "longitude": 90.270622
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 96.8,
-    "width_m": 83.5,
-    "aspect_ratio": 1.16,
-    "area_sqm": 8082.8,
-    "estimated_capacity": 177821
+    "length_m": 91.1,
+    "width_m": 72.3,
+    "aspect_ratio": 1.26,
+    "area_sqm": 6586.5,
+    "estimated_capacity": 144903
   },
   "audit_metrics": {
-    "confidence": 0.758,
-    "estimated_length_m": 96.8,
-    "estimated_width_m": 83.5,
-    "distance_to_receptor_m": 1191.7,
+    "confidence": 0.783,
+    "estimated_length_m": 91.1,
+    "estimated_width_m": 72.3,
+    "distance_to_receptor_m": 1192.1,
     "nearest_receptor": "Banktown Agrani High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVN-001_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:44.718883+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:44",
+  "audit_timestamp": "2026-10-18T14:06:53.825747+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:53",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

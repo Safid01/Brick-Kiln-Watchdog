@@ -108,7 +108,7 @@ export default function MapView({
       preferCanvas: true,
       zoomControl: false,
     });
-    L.control.zoom({ position: "topleft" }).addTo(map);
+    L.control.zoom({ position: "bottomright" }).addTo(map);
 
     // Custom panes for strict z-index layering: kilns stay on top of all polygons
     map.createPane("districtsPane");
@@ -245,7 +245,9 @@ export default function MapView({
     const map = mapRef.current;
     if (!map || fitted.current || alerts.length === 0) return;
     const b = L.latLngBounds(alerts.map((a) => [a.coordinates.latitude, a.coordinates.longitude]));
-    map.fitBounds(b, { padding: [50, 50] });
+    // On wide screens the review queue floats over the left of the map, so keep markers clear of it.
+    const left = window.innerWidth > 900 ? 430 : 50;
+    map.fitBounds(b, { paddingTopLeft: [left, 50], paddingBottomRight: [50, 50] });
     fitted.current = true;
   }, [alerts]);
 

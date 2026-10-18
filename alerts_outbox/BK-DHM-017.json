@@ -3,16 +3,16 @@
   "kiln_id": "BK-DHM-017",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.879797,
-    "longitude": 90.142825
+    "latitude": 23.879799,
+    "longitude": 90.142808
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 99.6,
-    "width_m": 85.8,
-    "aspect_ratio": 1.16,
-    "area_sqm": 8545.7,
-    "estimated_capacity": 188005
+    "length_m": 95.5,
+    "width_m": 70.0,
+    "aspect_ratio": 1.36,
+    "area_sqm": 6685.0,
+    "estimated_capacity": 147070
   },
   "audit_metrics": {
-    "confidence": 0.669,
-    "estimated_length_m": 99.6,
-    "estimated_width_m": 85.8,
-    "distance_to_receptor_m": 4118.0,
+    "confidence": 0.74,
+    "estimated_length_m": 95.5,
+    "estimated_width_m": 70.0,
+    "distance_to_receptor_m": 4117.7,
     "nearest_receptor": "Sutipara Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-017_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:14.589255+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:14",
+  "audit_timestamp": "2026-10-18T14:08:18.918102+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

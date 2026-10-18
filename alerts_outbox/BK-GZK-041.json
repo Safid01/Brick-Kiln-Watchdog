@@ -3,8 +3,8 @@
   "kiln_id": "BK-GZK-041",
   "region": "Gazipur",
   "coordinates": {
-    "latitude": 24.03766,
-    "longitude": 90.21826
+    "latitude": 24.03771,
+    "longitude": 90.218303
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 123.2,
-    "width_m": 101.3,
-    "aspect_ratio": 1.22,
-    "area_sqm": 12480.2,
-    "estimated_capacity": 274564
+    "length_m": 140.1,
+    "width_m": 120.9,
+    "aspect_ratio": 1.16,
+    "area_sqm": 16938.1,
+    "estimated_capacity": 372638
   },
   "audit_metrics": {
-    "confidence": 0.31,
-    "estimated_length_m": 123.2,
-    "estimated_width_m": 101.3,
-    "distance_to_receptor_m": 2007.9,
+    "confidence": 0.654,
+    "estimated_length_m": 140.1,
+    "estimated_width_m": 120.9,
+    "distance_to_receptor_m": 2002.9,
     "nearest_receptor": "Walton Medical Center, Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GZK-041_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:42:50.180632+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:42:50",
+  "audit_timestamp": "2026-10-18T14:09:03.576625+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:03",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

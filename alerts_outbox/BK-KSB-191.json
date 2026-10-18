@@ -3,8 +3,8 @@
   "kiln_id": "BK-KSB-191",
   "region": "Kishoreganj",
   "coordinates": {
-    "latitude": 24.028816,
-    "longitude": 90.967444
+    "latitude": 24.028812,
+    "longitude": 90.967471
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 82.9,
-    "width_m": 64.7,
-    "aspect_ratio": 1.28,
-    "area_sqm": 5363.6,
-    "estimated_capacity": 117999
+    "length_m": 90.9,
+    "width_m": 64.1,
+    "aspect_ratio": 1.42,
+    "area_sqm": 5826.7,
+    "estimated_capacity": 128187
   },
   "audit_metrics": {
-    "confidence": 0.337,
-    "estimated_length_m": 82.9,
-    "estimated_width_m": 64.7,
-    "distance_to_receptor_m": 29558.3,
+    "confidence": 0.617,
+    "estimated_length_m": 90.9,
+    "estimated_width_m": 64.1,
+    "distance_to_receptor_m": 29560.7,
     "nearest_receptor": "Abdul Kadir Mollah City College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSB-191_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:59:25.527403+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:59:25",
+  "audit_timestamp": "2026-10-18T14:19:48.446675+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:19:48",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

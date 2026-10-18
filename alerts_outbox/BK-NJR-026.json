@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJR-026",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.807759,
-    "longitude": 90.505702
+    "latitude": 23.807761,
+    "longitude": 90.505704
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,16 +20,16 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 94.3,
-    "width_m": 76.2,
-    "aspect_ratio": 1.24,
-    "area_sqm": 7185.7,
-    "estimated_capacity": 158085
+    "length_m": 96.9,
+    "width_m": 80.2,
+    "aspect_ratio": 1.21,
+    "area_sqm": 7771.4,
+    "estimated_capacity": 170970
   },
   "audit_metrics": {
-    "confidence": 0.6,
-    "estimated_length_m": 94.3,
-    "estimated_width_m": 76.2,
+    "confidence": 0.746,
+    "estimated_length_m": 96.9,
+    "estimated_width_m": 80.2,
     "distance_to_receptor_m": 867.1,
     "nearest_receptor": "Jolshiri Public School and College",
     "receptor_type": "school",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-026_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:36.120233+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:36",
+  "audit_timestamp": "2026-10-18T14:10:37.890511+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-KG-020",
   "region": "Keraniganj",
   "coordinates": {
-    "latitude": 23.630337,
-    "longitude": 90.380355
+    "latitude": 23.630318,
+    "longitude": 90.380385
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 118.5,
-    "width_m": 114.6,
-    "aspect_ratio": 1.03,
-    "area_sqm": 13580.1,
-    "estimated_capacity": 298762
+    "length_m": 115.9,
+    "width_m": 100.2,
+    "aspect_ratio": 1.16,
+    "area_sqm": 11613.2,
+    "estimated_capacity": 255490
   },
   "audit_metrics": {
-    "confidence": 0.761,
-    "estimated_length_m": 118.5,
-    "estimated_width_m": 114.6,
-    "distance_to_receptor_m": 3197.9,
+    "confidence": 0.775,
+    "estimated_length_m": 115.9,
+    "estimated_width_m": 100.2,
+    "distance_to_receptor_m": 3200.9,
     "nearest_receptor": "Municipal trot RA Primary School, Kadompur Bridge, Dhaka - Khulna Hwy, Kalakandi",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KG-020_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:00.943295+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:00",
+  "audit_timestamp": "2026-10-18T14:07:10.741267+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:10",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

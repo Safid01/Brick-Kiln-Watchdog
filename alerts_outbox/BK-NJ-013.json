@@ -3,16 +3,16 @@
   "kiln_id": "BK-NJ-013",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.651201,
-    "longitude": 90.551139
+    "latitude": 23.651206,
+    "longitude": 90.551143
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 109.2,
-    "width_m": 93.0,
-    "aspect_ratio": 1.17,
-    "area_sqm": 10155.6,
-    "estimated_capacity": 223423
+    "length_m": 103.7,
+    "width_m": 67.1,
+    "aspect_ratio": 1.55,
+    "area_sqm": 6958.3,
+    "estimated_capacity": 153082
   },
   "audit_metrics": {
-    "confidence": 0.671,
-    "estimated_length_m": 109.2,
-    "estimated_width_m": 93.0,
-    "distance_to_receptor_m": 3575.8,
+    "confidence": 0.736,
+    "estimated_length_m": 103.7,
+    "estimated_width_m": 67.1,
+    "distance_to_receptor_m": 3576.1,
     "nearest_receptor": "Godnail High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJ-013_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:43:44.924146+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:43:44",
+  "audit_timestamp": "2026-10-18T14:09:46.339840+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

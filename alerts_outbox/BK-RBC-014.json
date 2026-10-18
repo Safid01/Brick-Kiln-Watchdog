@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-RBC-014",
+  "region": "Rajbari",
+  "coordinates": {
+    "latitude": 23.78871,
+    "longitude": 89.643738
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 104.1,
+    "width_m": 97.8,
+    "aspect_ratio": 1.06,
+    "area_sqm": 10181.0,
+    "estimated_capacity": 223982
+  },
+  "audit_metrics": {
+    "confidence": 0.575,
+    "estimated_length_m": 104.1,
+    "estimated_width_m": 97.8,
+    "distance_to_receptor_m": 37000.6,
+    "nearest_receptor": "Dakshin Chandpur High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.738625,
+      "longitude": 90.002283
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-RBC-014_patch.jpg",
+  "audit_timestamp": "2026-10-18T13:47:36.093711+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:47:36",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

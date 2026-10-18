@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRR-001",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 24.03432,
+    "longitude": 90.843573
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 93.2,
+    "width_m": 75.5,
+    "aspect_ratio": 1.23,
+    "area_sqm": 7036.6,
+    "estimated_capacity": 154805
+  },
+  "audit_metrics": {
+    "confidence": 0.49,
+    "estimated_length_m": 93.2,
+    "estimated_width_m": 75.5,
+    "distance_to_receptor_m": 17779.0,
+    "nearest_receptor": "Sultanpur T M High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 24.005146,
+      "longitude": 90.67177
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRR-001_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:13:56.150868+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:56",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

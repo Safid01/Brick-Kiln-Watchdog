@@ -3,8 +3,8 @@
   "kiln_id": "BK-TGM-011",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.106469,
-    "longitude": 90.141987
+    "latitude": 24.106488,
+    "longitude": 90.141974
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 118.3,
-    "width_m": 117.8,
-    "aspect_ratio": 1.0,
-    "area_sqm": 13935.7,
-    "estimated_capacity": 306585
+    "length_m": 105.4,
+    "width_m": 79.8,
+    "aspect_ratio": 1.32,
+    "area_sqm": 8410.9,
+    "estimated_capacity": 185039
   },
   "audit_metrics": {
-    "confidence": 0.7,
-    "estimated_length_m": 118.3,
-    "estimated_width_m": 117.8,
-    "distance_to_receptor_m": 1500.1,
+    "confidence": 0.753,
+    "estimated_length_m": 105.4,
+    "estimated_width_m": 79.8,
+    "distance_to_receptor_m": 1502.6,
     "nearest_receptor": "Gorai High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-011_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:07.210940+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:07",
+  "audit_timestamp": "2026-10-18T14:11:08.238884+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:08",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

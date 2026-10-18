@@ -3,8 +3,8 @@
   "kiln_id": "BK-MNG-039",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.583694,
-    "longitude": 90.591732
+    "latitude": 23.583708,
+    "longitude": 90.591699
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 109.4,
-    "width_m": 101.5,
-    "aspect_ratio": 1.08,
-    "area_sqm": 11104.1,
-    "estimated_capacity": 244290
+    "length_m": 116.8,
+    "width_m": 110.8,
+    "aspect_ratio": 1.05,
+    "area_sqm": 12941.4,
+    "estimated_capacity": 284710
   },
   "audit_metrics": {
-    "confidence": 0.373,
-    "estimated_length_m": 109.4,
-    "estimated_width_m": 101.5,
-    "distance_to_receptor_m": 3715.4,
+    "confidence": 0.517,
+    "estimated_length_m": 116.8,
+    "estimated_width_m": 110.8,
+    "distance_to_receptor_m": 3714.0,
     "nearest_receptor": "MADHYA CHAR HOGLA HIGH SCHOOL",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNG-039_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:21.920104+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:21",
+  "audit_timestamp": "2026-10-18T14:16:38.329779+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:16:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

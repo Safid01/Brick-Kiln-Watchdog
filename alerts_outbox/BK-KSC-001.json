@@ -3,16 +3,16 @@
   "kiln_id": "BK-KSC-001",
   "region": "Kishoreganj",
   "coordinates": {
-    "latitude": 24.402011,
-    "longitude": 90.744163
+    "latitude": 24.401992,
+    "longitude": 90.744183
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 97.8,
-    "width_m": 75.8,
-    "aspect_ratio": 1.29,
-    "area_sqm": 7413.2,
-    "estimated_capacity": 163090
+    "length_m": 96.2,
+    "width_m": 61.3,
+    "aspect_ratio": 1.57,
+    "area_sqm": 5897.1,
+    "estimated_capacity": 129736
   },
   "audit_metrics": {
-    "confidence": 0.703,
-    "estimated_length_m": 97.8,
-    "estimated_width_m": 75.8,
-    "distance_to_receptor_m": 26719.3,
+    "confidence": 0.772,
+    "estimated_length_m": 96.2,
+    "estimated_width_m": 61.3,
+    "distance_to_receptor_m": 26718.0,
     "nearest_receptor": "Noruttampur Community Clinic Road",
     "receptor_type": "clinic",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSC-001_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:54:27.092416+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:54:27",
+  "audit_timestamp": "2026-10-18T14:20:42.769356+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:20:42",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

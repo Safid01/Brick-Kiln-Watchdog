@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVE-017",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.77493,
+    "latitude": 23.774938,
     "longitude": 90.326075
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 87.4,
-    "width_m": 76.2,
-    "aspect_ratio": 1.15,
-    "area_sqm": 6659.9,
-    "estimated_capacity": 146517
+    "length_m": 84.6,
+    "width_m": 67.4,
+    "aspect_ratio": 1.26,
+    "area_sqm": 5702.0,
+    "estimated_capacity": 125444
   },
   "audit_metrics": {
-    "confidence": 0.69,
-    "estimated_length_m": 87.4,
-    "estimated_width_m": 76.2,
-    "distance_to_receptor_m": 691.2,
+    "confidence": 0.731,
+    "estimated_length_m": 84.6,
+    "estimated_width_m": 67.4,
+    "distance_to_receptor_m": 690.6,
     "nearest_receptor": "\u0986\u09ac\u09c1 \u09b9\u09c1\u09b0\u09be\u0987\u09b0\u09be \u09ae\u09be\u09a6\u09b0\u09be\u09b8\u09be",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-017_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.022451+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:36.077833+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

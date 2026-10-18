@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-006",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.800693,
+    "longitude": 90.56997
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 120.9,
+    "width_m": 60.8,
+    "aspect_ratio": 1.99,
+    "area_sqm": 7350.7,
+    "estimated_capacity": 161715
+  },
+  "audit_metrics": {
+    "confidence": 0.611,
+    "estimated_length_m": 120.9,
+    "estimated_width_m": 60.8,
+    "distance_to_receptor_m": 1734.2,
+    "nearest_receptor": "Al Rafi Hospital Ltd.",
+    "receptor_type": "hospital",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.78511,
+      "longitude": 90.56837
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-006_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:10:38.395679+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:38",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

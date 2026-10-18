@@ -3,34 +3,34 @@
   "kiln_id": "BK-DHM-025",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.880608,
-    "longitude": 90.145321
+    "latitude": 23.880629,
+    "longitude": 90.145342
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 100.6,
-    "width_m": 84.8,
-    "aspect_ratio": 1.19,
-    "area_sqm": 8530.9,
-    "estimated_capacity": 187679
+    "length_m": 93.2,
+    "width_m": 75.1,
+    "aspect_ratio": 1.24,
+    "area_sqm": 6999.3,
+    "estimated_capacity": 153984
   },
   "audit_metrics": {
-    "confidence": 0.659,
-    "estimated_length_m": 100.6,
-    "estimated_width_m": 84.8,
-    "distance_to_receptor_m": 4061.4,
+    "confidence": 0.768,
+    "estimated_length_m": 93.2,
+    "estimated_width_m": 75.1,
+    "distance_to_receptor_m": 4059.5,
     "nearest_receptor": "Sutipara Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-025_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:15.182583+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:15",
+  "audit_timestamp": "2026-10-18T14:08:18.416660+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

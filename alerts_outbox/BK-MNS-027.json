@@ -3,8 +3,8 @@
   "kiln_id": "BK-MNS-027",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.642217,
-    "longitude": 90.406966
+    "latitude": 23.642245,
+    "longitude": 90.406981
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 107.2,
-    "width_m": 83.0,
-    "aspect_ratio": 1.29,
-    "area_sqm": 8897.6,
-    "estimated_capacity": 195747
+    "length_m": 100.3,
+    "width_m": 79.0,
+    "aspect_ratio": 1.27,
+    "area_sqm": 7923.7,
+    "estimated_capacity": 174321
   },
   "audit_metrics": {
-    "confidence": 0.725,
-    "estimated_length_m": 107.2,
-    "estimated_width_m": 83.0,
-    "distance_to_receptor_m": 1352.0,
+    "confidence": 0.534,
+    "estimated_length_m": 100.3,
+    "estimated_width_m": 79.0,
+    "distance_to_receptor_m": 1349.8,
     "nearest_receptor": "Jagannath University New Campus",
     "receptor_type": "university",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-027_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:51.213683+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:51",
+  "audit_timestamp": "2026-10-18T14:17:10.184811+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:10",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

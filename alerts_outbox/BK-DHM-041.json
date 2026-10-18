@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-041",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.882023,
-    "longitude": 90.180386
+    "latitude": 23.882042,
+    "longitude": 90.180363
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 94.1,
-    "width_m": 66.9,
-    "aspect_ratio": 1.41,
-    "area_sqm": 6295.3,
-    "estimated_capacity": 138496
+    "length_m": 91.5,
+    "width_m": 54.5,
+    "aspect_ratio": 1.68,
+    "area_sqm": 4986.8,
+    "estimated_capacity": 109709
   },
   "audit_metrics": {
-    "confidence": 0.618,
-    "estimated_length_m": 94.1,
-    "estimated_width_m": 66.9,
-    "distance_to_receptor_m": 2947.6,
+    "confidence": 0.757,
+    "estimated_length_m": 91.5,
+    "estimated_width_m": 54.5,
+    "distance_to_receptor_m": 2947.1,
     "nearest_receptor": "Uttor dhamura primary school",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-041_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:16.390990+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:16",
+  "audit_timestamp": "2026-10-18T14:08:18.640883+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

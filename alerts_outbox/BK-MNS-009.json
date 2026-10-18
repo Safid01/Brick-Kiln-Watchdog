@@ -3,8 +3,8 @@
   "kiln_id": "BK-MNS-009",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.616198,
-    "longitude": 90.408075
+    "latitude": 23.616189,
+    "longitude": 90.408087
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 115.9,
-    "width_m": 112.1,
-    "aspect_ratio": 1.03,
-    "area_sqm": 12992.4,
-    "estimated_capacity": 285832
+    "length_m": 113.9,
+    "width_m": 103.4,
+    "aspect_ratio": 1.1,
+    "area_sqm": 11777.3,
+    "estimated_capacity": 259100
   },
   "audit_metrics": {
-    "confidence": 0.803,
-    "estimated_length_m": 115.9,
-    "estimated_width_m": 112.1,
-    "distance_to_receptor_m": 3741.2,
+    "confidence": 0.846,
+    "estimated_length_m": 113.9,
+    "estimated_width_m": 103.4,
+    "distance_to_receptor_m": 3740.7,
     "nearest_receptor": "Zazira High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-009_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:50.182118+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:50",
+  "audit_timestamp": "2026-10-18T14:17:07.057909+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:07",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

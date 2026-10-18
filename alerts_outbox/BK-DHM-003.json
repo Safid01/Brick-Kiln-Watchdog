@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-003",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.923027,
-    "longitude": 90.179435
+    "latitude": 23.923024,
+    "longitude": 90.179434
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.1,
-    "width_m": 84.8,
-    "aspect_ratio": 1.12,
-    "area_sqm": 8064.5,
-    "estimated_capacity": 177419
+    "length_m": 94.2,
+    "width_m": 77.7,
+    "aspect_ratio": 1.21,
+    "area_sqm": 7319.3,
+    "estimated_capacity": 161024
   },
   "audit_metrics": {
-    "confidence": 0.75,
-    "estimated_length_m": 95.1,
-    "estimated_width_m": 84.8,
-    "distance_to_receptor_m": 1456.6,
+    "confidence": 0.748,
+    "estimated_length_m": 94.2,
+    "estimated_width_m": 77.7,
+    "distance_to_receptor_m": 1456.2,
     "nearest_receptor": "Joypura Government Primary School, Primary school",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:13.537419+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:13",
+  "audit_timestamp": "2026-10-18T14:08:18.781566+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-FPC-073",
   "region": "Faridpur",
   "coordinates": {
-    "latitude": 23.631077,
-    "longitude": 89.857346
+    "latitude": 23.631073,
+    "longitude": 89.857362
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 69.3,
-    "width_m": 67.7,
-    "aspect_ratio": 1.02,
-    "area_sqm": 4691.6,
-    "estimated_capacity": 103215
+    "length_m": 68.4,
+    "width_m": 66.7,
+    "aspect_ratio": 1.03,
+    "area_sqm": 4562.3,
+    "estimated_capacity": 100370
   },
   "audit_metrics": {
-    "confidence": 0.417,
-    "estimated_length_m": 69.3,
-    "estimated_width_m": 67.7,
-    "distance_to_receptor_m": 16622.7,
+    "confidence": 0.44,
+    "estimated_length_m": 68.4,
+    "estimated_width_m": 66.7,
+    "distance_to_receptor_m": 16621.0,
     "nearest_receptor": "Char Bhadrasan Government College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-FPC-073_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:51:54.245827+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:51:54",
+  "audit_timestamp": "2026-10-18T14:18:14.938507+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:18:14",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

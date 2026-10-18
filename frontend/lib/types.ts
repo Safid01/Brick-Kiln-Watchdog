@@ -63,6 +63,11 @@ export interface Alert {
 export interface ScannerStatus {
   is_scanning: boolean;
   last_scan_summary: string;
+  progress_pct?: number;
+  current_step?: number;
+  total_steps?: number;
+  seconds_remaining?: number;
+  current_sector?: string;
 }
 
 export interface SystemStatus {

@@ -3,34 +3,34 @@
   "kiln_id": "BK-NRC-013",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.918426,
-    "longitude": 90.740786
+    "latitude": 23.918465,
+    "longitude": 90.740806
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 92.1,
-    "width_m": 87.0,
-    "aspect_ratio": 1.06,
-    "area_sqm": 8012.7,
-    "estimated_capacity": 176279
+    "length_m": 88.5,
+    "width_m": 68.9,
+    "aspect_ratio": 1.28,
+    "area_sqm": 6097.7,
+    "estimated_capacity": 134149
   },
   "audit_metrics": {
-    "confidence": 0.635,
-    "estimated_length_m": 92.1,
-    "estimated_width_m": 87.0,
-    "distance_to_receptor_m": 4258.3,
+    "confidence": 0.703,
+    "estimated_length_m": 88.5,
+    "estimated_width_m": 68.9,
+    "distance_to_receptor_m": 4259.5,
     "nearest_receptor": "Abdul Kadir Mollah City College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRC-013_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:47:14.547211+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:47:14",
+  "audit_timestamp": "2026-10-18T14:13:21.826152+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-SVE-001",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.770072,
-    "longitude": 90.324793
+    "latitude": 23.770084,
+    "longitude": 90.32479
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 101.8,
-    "width_m": 93.9,
-    "aspect_ratio": 1.08,
-    "area_sqm": 9559.0,
-    "estimated_capacity": 210298
+    "length_m": 98.5,
+    "width_m": 85.6,
+    "aspect_ratio": 1.15,
+    "area_sqm": 8431.6,
+    "estimated_capacity": 185495
   },
   "audit_metrics": {
-    "confidence": 0.75,
-    "estimated_length_m": 101.8,
-    "estimated_width_m": 93.9,
-    "distance_to_receptor_m": 1180.3,
+    "confidence": 0.774,
+    "estimated_length_m": 98.5,
+    "estimated_width_m": 85.6,
+    "distance_to_receptor_m": 1179.4,
     "nearest_receptor": "\u0986\u09ac\u09c1 \u09b9\u09c1\u09b0\u09be\u0987\u09b0\u09be \u09ae\u09be\u09a6\u09b0\u09be\u09b8\u09be",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-001_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:25.213568+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:25",
+  "audit_timestamp": "2026-10-18T14:06:35.552755+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJS-003",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.656712,
+    "longitude": 90.623372
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 57.5,
+    "width_m": 42.6,
+    "aspect_ratio": 1.35,
+    "area_sqm": 2449.5,
+    "estimated_capacity": 53889
+  },
+  "audit_metrics": {
+    "confidence": 0.385,
+    "estimated_length_m": 57.5,
+    "estimated_width_m": 42.6,
+    "distance_to_receptor_m": 235.4,
+    "nearest_receptor": "BAIDYER BAZAR N A M PILOT HIGH SCHOOL",
+    "receptor_type": "school",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.658523,
+      "longitude": 90.624578
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJS-003_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:10:14.183515+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

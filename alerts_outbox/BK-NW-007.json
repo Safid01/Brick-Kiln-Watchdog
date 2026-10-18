@@ -3,16 +3,16 @@
   "kiln_id": "BK-NW-007",
   "region": "Nawabganj",
   "coordinates": {
-    "latitude": 23.737118,
-    "longitude": 90.205098
+    "latitude": 23.737103,
+    "longitude": 90.20502
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.6,
-    "width_m": 94.2,
-    "aspect_ratio": 1.1,
-    "area_sqm": 9759.1,
-    "estimated_capacity": 214700
+    "length_m": 74.5,
+    "width_m": 60.3,
+    "aspect_ratio": 1.24,
+    "area_sqm": 4492.3,
+    "estimated_capacity": 98830
   },
   "audit_metrics": {
-    "confidence": 0.685,
-    "estimated_length_m": 103.6,
-    "estimated_width_m": 94.2,
-    "distance_to_receptor_m": 6251.0,
+    "confidence": 0.718,
+    "estimated_length_m": 74.5,
+    "estimated_width_m": 60.3,
+    "distance_to_receptor_m": 6255.4,
     "nearest_receptor": "Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NW-007_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:36.844745+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:36",
+  "audit_timestamp": "2026-10-18T14:07:46.507411+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

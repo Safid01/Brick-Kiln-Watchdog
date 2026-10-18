@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-MKS-015",
+  "region": "Manikganj",
+  "coordinates": {
+    "latitude": 23.806623,
+    "longitude": 90.190874
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 89.0,
+    "width_m": 66.6,
+    "aspect_ratio": 1.34,
+    "area_sqm": 5927.4,
+    "estimated_capacity": 130402
+  },
+  "audit_metrics": {
+    "confidence": 0.393,
+    "estimated_length_m": 89.0,
+    "estimated_width_m": 66.6,
+    "distance_to_receptor_m": 890.5,
+    "nearest_receptor": "Joymontop High School",
+    "receptor_type": "university",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.807336,
+      "longitude": 90.182175
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-MKS-015_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:14:37.543778+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:14:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

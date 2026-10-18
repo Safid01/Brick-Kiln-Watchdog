@@ -3,8 +3,8 @@
   "kiln_id": "BK-TGM-019",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.078216,
-    "longitude": 90.121353
+    "latitude": 24.078243,
+    "longitude": 90.121384
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 123.4,
-    "width_m": 123.0,
-    "aspect_ratio": 1.0,
-    "area_sqm": 15178.2,
-    "estimated_capacity": 333920
+    "length_m": 112.2,
+    "width_m": 73.2,
+    "aspect_ratio": 1.53,
+    "area_sqm": 8213.0,
+    "estimated_capacity": 180686
   },
   "audit_metrics": {
-    "confidence": 0.673,
-    "estimated_length_m": 123.4,
-    "estimated_width_m": 123.0,
-    "distance_to_receptor_m": 2049.0,
+    "confidence": 0.402,
+    "estimated_length_m": 112.2,
+    "estimated_width_m": 73.2,
+    "distance_to_receptor_m": 2046.5,
     "nearest_receptor": "Labcare Diagnostic And Hospital, Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-019_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:07.710260+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:07",
+  "audit_timestamp": "2026-10-18T14:11:09.081770+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:09",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

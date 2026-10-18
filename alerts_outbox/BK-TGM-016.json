@@ -3,16 +3,16 @@
   "kiln_id": "BK-TGM-016",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.090614,
-    "longitude": 90.138647
+    "latitude": 24.090631,
+    "longitude": 90.138624
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 108.9,
-    "width_m": 102.4,
-    "aspect_ratio": 1.06,
-    "area_sqm": 11151.4,
-    "estimated_capacity": 245330
+    "length_m": 102.2,
+    "width_m": 65.5,
+    "aspect_ratio": 1.56,
+    "area_sqm": 6694.1,
+    "estimated_capacity": 147270
   },
   "audit_metrics": {
-    "confidence": 0.685,
-    "estimated_length_m": 108.9,
-    "estimated_width_m": 102.4,
-    "distance_to_receptor_m": 1532.8,
+    "confidence": 0.727,
+    "estimated_length_m": 102.2,
+    "estimated_width_m": 65.5,
+    "distance_to_receptor_m": 1534.2,
     "nearest_receptor": "Gorai High School \u0997\u09cb\u09a1\u09bc\u09be\u0987 \u0989\u099a\u09cd\u099a \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-016_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:07.537682+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:07",
+  "audit_timestamp": "2026-10-18T14:11:08.458661+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:08",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

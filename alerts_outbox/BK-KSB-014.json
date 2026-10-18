@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-KSB-014",
+  "region": "Kishoreganj",
+  "coordinates": {
+    "latitude": 24.029965,
+    "longitude": 91.003261
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 135.5,
+    "width_m": 117.6,
+    "aspect_ratio": 1.15,
+    "area_sqm": 15934.8,
+    "estimated_capacity": 350565
+  },
+  "audit_metrics": {
+    "confidence": 0.384,
+    "estimated_length_m": 135.5,
+    "estimated_width_m": 117.6,
+    "distance_to_receptor_m": 32994.2,
+    "nearest_receptor": "Abdul Kadir Mollah City College",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.925539,
+      "longitude": 90.699695
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-KSB-014_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:19:48.844183+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:19:48",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

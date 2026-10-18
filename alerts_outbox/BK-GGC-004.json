@@ -3,8 +3,8 @@
   "kiln_id": "BK-GGC-004",
   "region": "Gopalganj",
   "coordinates": {
-    "latitude": 23.027152,
-    "longitude": 89.84562
+    "latitude": 23.027134,
+    "longitude": 89.845614
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 106.9,
-    "width_m": 88.3,
-    "aspect_ratio": 1.21,
-    "area_sqm": 9439.3,
-    "estimated_capacity": 207664
+    "length_m": 108.6,
+    "width_m": 69.7,
+    "aspect_ratio": 1.56,
+    "area_sqm": 7569.4,
+    "estimated_capacity": 166526
   },
   "audit_metrics": {
-    "confidence": 0.676,
-    "estimated_length_m": 106.9,
-    "estimated_width_m": 88.3,
-    "distance_to_receptor_m": 61776.1,
+    "confidence": 0.695,
+    "estimated_length_m": 108.6,
+    "estimated_width_m": 69.7,
+    "distance_to_receptor_m": 61778.3,
     "nearest_receptor": "Char Bhadrasan Pilot High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GGC-004_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:55:00.091419+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:55:00",
+  "audit_timestamp": "2026-10-18T14:21:23.034793+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:21:23",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

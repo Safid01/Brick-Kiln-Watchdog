@@ -3,16 +3,16 @@
   "kiln_id": "BK-SVE-009",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.810244,
-    "longitude": 90.305456
+    "latitude": 23.810201,
+    "longitude": 90.305436
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 99.3,
-    "width_m": 84.5,
-    "aspect_ratio": 1.18,
-    "area_sqm": 8390.9,
-    "estimated_capacity": 184599
+    "length_m": 91.8,
+    "width_m": 60.6,
+    "aspect_ratio": 1.51,
+    "area_sqm": 5563.1,
+    "estimated_capacity": 122388
   },
   "audit_metrics": {
-    "confidence": 0.724,
-    "estimated_length_m": 99.3,
-    "estimated_width_m": 84.5,
-    "distance_to_receptor_m": 1694.0,
+    "confidence": 0.799,
+    "estimated_length_m": 91.8,
+    "estimated_width_m": 60.6,
+    "distance_to_receptor_m": 1689.8,
     "nearest_receptor": "Konda High School Play Ground",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-009_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:25.630235+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:25",
+  "audit_timestamp": "2026-10-18T14:06:35.232246+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

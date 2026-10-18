@@ -3,16 +3,16 @@
   "kiln_id": "BK-NJR-004",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.756036,
-    "longitude": 90.56932
+    "latitude": 23.756045,
+    "longitude": 90.569332
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,16 +20,16 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.5,
-    "width_m": 88.1,
-    "aspect_ratio": 1.16,
-    "area_sqm": 9030.2,
-    "estimated_capacity": 198664
+    "length_m": 93.3,
+    "width_m": 65.0,
+    "aspect_ratio": 1.44,
+    "area_sqm": 6064.5,
+    "estimated_capacity": 133419
   },
   "audit_metrics": {
-    "confidence": 0.722,
-    "estimated_length_m": 102.5,
-    "estimated_width_m": 88.1,
+    "confidence": 0.774,
+    "estimated_length_m": 93.3,
+    "estimated_width_m": 65.0,
     "distance_to_receptor_m": 2946.2,
     "nearest_receptor": "SONARGAON IDEAL HIGH SCHOOL,SONARGAON",
     "receptor_type": "school",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-004_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:35.576034+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:35",
+  "audit_timestamp": "2026-10-18T14:10:37.521416+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

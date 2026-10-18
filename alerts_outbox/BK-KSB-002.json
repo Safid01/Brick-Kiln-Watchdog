@@ -3,34 +3,34 @@
   "kiln_id": "BK-KSB-002",
   "region": "Kishoreganj",
   "coordinates": {
-    "latitude": 24.083795,
-    "longitude": 90.94834
+    "latitude": 24.08391,
+    "longitude": 90.948347
   },
   "technology": {
-    "type": "ZIGZAG",
-    "label": "Improved Zigzag Kiln",
-    "badge": "Zigzag",
-    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
-    "compliance_status": "CONDITIONAL_PERMIT",
-    "emission_tier": "Controlled Emission (Permitted)",
-    "banned": false
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 84.7,
-    "width_m": 63.3,
-    "aspect_ratio": 1.34,
-    "area_sqm": 5361.5,
-    "estimated_capacity": 117953
+    "length_m": 91.5,
+    "width_m": 81.8,
+    "aspect_ratio": 1.12,
+    "area_sqm": 7484.7,
+    "estimated_capacity": 164663
   },
   "audit_metrics": {
-    "confidence": 0.808,
-    "estimated_length_m": 84.7,
-    "estimated_width_m": 63.3,
-    "distance_to_receptor_m": 26572.1,
+    "confidence": 0.804,
+    "estimated_length_m": 91.5,
+    "estimated_width_m": 81.8,
+    "distance_to_receptor_m": 26569.5,
     "nearest_receptor": "Monohardi Pailot High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSB-002_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:53:32.388013+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:53:32",
+  "audit_timestamp": "2026-10-18T14:19:47.656438+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:19:47",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

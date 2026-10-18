@@ -3,34 +3,34 @@
   "kiln_id": "BK-NJR-010",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.794417,
-    "longitude": 90.579464
+    "latitude": 23.794449,
+    "longitude": 90.579475
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.4,
-    "width_m": 90.9,
-    "aspect_ratio": 1.13,
-    "area_sqm": 9308.2,
-    "estimated_capacity": 204780
+    "length_m": 102.2,
+    "width_m": 81.6,
+    "aspect_ratio": 1.25,
+    "area_sqm": 8339.5,
+    "estimated_capacity": 183469
   },
   "audit_metrics": {
-    "confidence": 0.684,
-    "estimated_length_m": 102.4,
-    "estimated_width_m": 90.9,
-    "distance_to_receptor_m": 1530.6,
+    "confidence": 0.748,
+    "estimated_length_m": 102.2,
+    "estimated_width_m": 81.6,
+    "distance_to_receptor_m": 1533.8,
     "nearest_receptor": "Al Rafi Hospital Ltd.",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-010_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:35.683641+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:35",
+  "audit_timestamp": "2026-10-18T14:10:37.755539+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -64,8 +64,8 @@ export const api = {
   reject: (id: string) => call<ActionResult>(`/api/v1/kilns/${id}/reject`, { method: "POST" }),
   triggerScan: (sector: ScanTarget = "ALL", bbox?: BBox) =>
     call<ActionResult>("/api/v1/trigger-scan", { method: "POST", json: { sector, bbox } }),
-  toggleSweep: () =>
-    call<{ auto_sweep_enabled: boolean }>("/api/v1/auto-sweep/toggle", { method: "POST" }),
+  stopScan: () =>
+    call<ActionResult>("/api/v1/stop-scan", { method: "POST" }),
   addKiln: (payload: { latitude: number; longitude: number; technology_type?: string; name?: string }) =>
     call<{ status: string; message?: string; alert?: Alert; kiln?: Alert; kiln_id?: string }>("/api/v1/kilns/add", {
       method: "POST",

@@ -3,8 +3,8 @@
   "kiln_id": "BK-GZK-018",
   "region": "Gazipur",
   "coordinates": {
-    "latitude": 24.10036,
-    "longitude": 90.193574
+    "latitude": 24.100356,
+    "longitude": 90.193593
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 92.1,
-    "width_m": 69.5,
-    "aspect_ratio": 1.33,
-    "area_sqm": 6400.9,
-    "estimated_capacity": 140819
+    "length_m": 85.5,
+    "width_m": 54.3,
+    "aspect_ratio": 1.57,
+    "area_sqm": 4642.6,
+    "estimated_capacity": 102137
   },
   "audit_metrics": {
-    "confidence": 0.568,
-    "estimated_length_m": 92.1,
-    "estimated_width_m": 69.5,
-    "distance_to_receptor_m": 1311.4,
+    "confidence": 0.635,
+    "estimated_length_m": 85.5,
+    "estimated_width_m": 54.3,
+    "distance_to_receptor_m": 1310.4,
     "nearest_receptor": "51 No Tan Sutrapur Government Primary School \u09eb\u09e7\u09a8\u0982 \u099f\u09be\u09a8 \u09b8\u09c2\u09a4\u09cd\u09b0\u09be\u09aa\u09c1\u09b0 \u09b8\u09b0\u0995\u09be\u09b0\u09c0 \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GZK-018_patch.jpg",
-  "audit_timestamp": "2026-10-17T16:01:26.288971+00:00",
-  "audit_date_formatted": "17 Oct 2026, 22:01:26",
+  "audit_timestamp": "2026-10-18T14:09:03.635729+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:03",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

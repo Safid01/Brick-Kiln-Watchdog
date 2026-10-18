@@ -3,16 +3,16 @@
   "kiln_id": "BK-NW-004",
   "region": "Nawabganj",
   "coordinates": {
-    "latitude": 23.736543,
-    "longitude": 90.206975
+    "latitude": 23.736567,
+    "longitude": 90.207003
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.8,
-    "width_m": 88.7,
-    "aspect_ratio": 1.11,
-    "area_sqm": 8763.6,
-    "estimated_capacity": 192799
+    "length_m": 88.4,
+    "width_m": 68.3,
+    "aspect_ratio": 1.29,
+    "area_sqm": 6037.7,
+    "estimated_capacity": 132829
   },
   "audit_metrics": {
-    "confidence": 0.766,
-    "estimated_length_m": 98.8,
-    "estimated_width_m": 88.7,
-    "distance_to_receptor_m": 6246.5,
+    "confidence": 0.712,
+    "estimated_length_m": 88.4,
+    "estimated_width_m": 68.3,
+    "distance_to_receptor_m": 6243.1,
     "nearest_receptor": "Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NW-004_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:36.774130+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:36",
+  "audit_timestamp": "2026-10-18T14:07:46.573979+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

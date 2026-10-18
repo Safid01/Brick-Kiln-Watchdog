@@ -3,16 +3,16 @@
   "kiln_id": "BK-SVE-033",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.813976,
-    "longitude": 90.303286
+    "latitude": 23.81398,
+    "longitude": 90.303254
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 92.7,
-    "width_m": 78.4,
-    "aspect_ratio": 1.18,
-    "area_sqm": 7267.7,
-    "estimated_capacity": 159889
+    "length_m": 94.0,
+    "width_m": 74.3,
+    "aspect_ratio": 1.27,
+    "area_sqm": 6984.2,
+    "estimated_capacity": 153652
   },
   "audit_metrics": {
-    "confidence": 0.624,
-    "estimated_length_m": 92.7,
-    "estimated_width_m": 78.4,
-    "distance_to_receptor_m": 1770.7,
+    "confidence": 0.7,
+    "estimated_length_m": 94.0,
+    "estimated_width_m": 74.3,
+    "distance_to_receptor_m": 1768.7,
     "nearest_receptor": "Konda High School Play Ground",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-033_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.791663+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:36.315485+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

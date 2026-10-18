@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJR-022",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.7606,
-    "longitude": 90.574865
+    "latitude": 23.76059,
+    "longitude": 90.574873
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 92.7,
-    "width_m": 65.7,
-    "aspect_ratio": 1.41,
-    "area_sqm": 6090.4,
-    "estimated_capacity": 133988
+    "length_m": 94.3,
+    "width_m": 67.8,
+    "aspect_ratio": 1.39,
+    "area_sqm": 6393.5,
+    "estimated_capacity": 140657
   },
   "audit_metrics": {
-    "confidence": 0.615,
-    "estimated_length_m": 92.7,
-    "estimated_width_m": 65.7,
-    "distance_to_receptor_m": 2770.6,
+    "confidence": 0.747,
+    "estimated_length_m": 94.3,
+    "estimated_width_m": 67.8,
+    "distance_to_receptor_m": 2771.9,
     "nearest_receptor": "Bhulta Islami Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJR-022_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:44:35.958194+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:44:35",
+  "audit_timestamp": "2026-10-18T14:10:37.821306+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:37",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

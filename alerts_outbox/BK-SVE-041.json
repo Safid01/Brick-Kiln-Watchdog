@@ -3,8 +3,8 @@
   "kiln_id": "BK-SVE-041",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.798312,
-    "longitude": 90.307826
+    "latitude": 23.798381,
+    "longitude": 90.307823
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 74.0,
-    "width_m": 42.4,
-    "aspect_ratio": 1.75,
-    "area_sqm": 3137.6,
-    "estimated_capacity": 69027
+    "length_m": 61.7,
+    "width_m": 41.7,
+    "aspect_ratio": 1.48,
+    "area_sqm": 2572.9,
+    "estimated_capacity": 56603
   },
   "audit_metrics": {
-    "confidence": 0.562,
-    "estimated_length_m": 74.0,
-    "estimated_width_m": 42.4,
-    "distance_to_receptor_m": 1777.8,
+    "confidence": 0.611,
+    "estimated_length_m": 61.7,
+    "estimated_width_m": 41.7,
+    "distance_to_receptor_m": 1775.5,
     "nearest_receptor": "Konda High School Play Ground",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-041_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:27.158876+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:27",
+  "audit_timestamp": "2026-10-18T14:06:36.517234+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

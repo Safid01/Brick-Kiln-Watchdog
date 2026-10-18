@@ -3,8 +3,8 @@
   "kiln_id": "BK-NRC-018",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.883781,
-    "longitude": 90.766101
+    "latitude": 23.883746,
+    "longitude": 90.766118
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.8,
-    "width_m": 79.8,
-    "aspect_ratio": 1.24,
-    "area_sqm": 7884.2,
-    "estimated_capacity": 173452
+    "length_m": 100.9,
+    "width_m": 72.2,
+    "aspect_ratio": 1.4,
+    "area_sqm": 7285.0,
+    "estimated_capacity": 160270
   },
   "audit_metrics": {
-    "confidence": 0.609,
-    "estimated_length_m": 98.8,
-    "estimated_width_m": 79.8,
-    "distance_to_receptor_m": 7486.1,
+    "confidence": 0.518,
+    "estimated_length_m": 100.9,
+    "estimated_width_m": 72.2,
+    "distance_to_receptor_m": 7487.4,
     "nearest_receptor": "BALUSHAIR HIGH SCHOOL",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRC-018_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:47:14.665246+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:47:14",
+  "audit_timestamp": "2026-10-18T14:13:22.094580+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:22",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

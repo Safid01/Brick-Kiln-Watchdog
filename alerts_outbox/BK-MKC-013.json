@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKC-013",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.893506,
-    "longitude": 90.030371
+    "latitude": 23.893499,
+    "longitude": 90.030352
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 82.6,
-    "width_m": 71.3,
-    "aspect_ratio": 1.16,
-    "area_sqm": 5889.4,
-    "estimated_capacity": 129566
+    "length_m": 90.7,
+    "width_m": 82.4,
+    "aspect_ratio": 1.1,
+    "area_sqm": 7473.7,
+    "estimated_capacity": 164421
   },
   "audit_metrics": {
-    "confidence": 0.604,
-    "estimated_length_m": 82.6,
-    "estimated_width_m": 71.3,
-    "distance_to_receptor_m": 276.8,
+    "confidence": 0.373,
+    "estimated_length_m": 90.7,
+    "estimated_width_m": 82.4,
+    "distance_to_receptor_m": 278.8,
     "nearest_receptor": "Akij Foundation School And College Manikganj, School",
     "receptor_type": "school",
     "priority_tier": "CRITICAL",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKC-013_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:49:05.074779+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:49:05",
+  "audit_timestamp": "2026-10-18T14:15:16.763293+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:16",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,16 +3,16 @@
   "kiln_id": "BK-GZK-009",
   "region": "Gazipur",
   "coordinates": {
-    "latitude": 24.082653,
-    "longitude": 90.199987
+    "latitude": 24.082616,
+    "longitude": 90.200001
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.4,
-    "width_m": 94.3,
-    "aspect_ratio": 1.12,
-    "area_sqm": 9939.2,
-    "estimated_capacity": 218662
+    "length_m": 104.6,
+    "width_m": 75.0,
+    "aspect_ratio": 1.39,
+    "area_sqm": 7845.0,
+    "estimated_capacity": 172590
   },
   "audit_metrics": {
-    "confidence": 0.641,
-    "estimated_length_m": 105.4,
-    "estimated_width_m": 94.3,
-    "distance_to_receptor_m": 676.7,
+    "confidence": 0.801,
+    "estimated_length_m": 104.6,
+    "estimated_width_m": 75.0,
+    "distance_to_receptor_m": 673.0,
     "nearest_receptor": "Saleha Memorial School, Primary school",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GZK-009_patch.jpg",
-  "audit_timestamp": "2026-10-17T16:01:26.008633+00:00",
-  "audit_date_formatted": "17 Oct 2026, 22:01:26",
+  "audit_timestamp": "2026-10-18T14:09:03.053530+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:03",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

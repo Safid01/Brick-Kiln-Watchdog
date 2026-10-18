@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-012",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.942458,
-    "longitude": 90.193406
+    "latitude": 23.942437,
+    "longitude": 90.193387
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 108.7,
-    "width_m": 92.2,
-    "aspect_ratio": 1.18,
-    "area_sqm": 10022.1,
-    "estimated_capacity": 220486
+    "length_m": 102.5,
+    "width_m": 75.0,
+    "aspect_ratio": 1.37,
+    "area_sqm": 7687.5,
+    "estimated_capacity": 169125
   },
   "audit_metrics": {
-    "confidence": 0.683,
-    "estimated_length_m": 108.7,
-    "estimated_width_m": 92.2,
-    "distance_to_receptor_m": 3307.3,
+    "confidence": 0.778,
+    "estimated_length_m": 102.5,
+    "estimated_width_m": 75.0,
+    "distance_to_receptor_m": 3309.0,
     "nearest_receptor": "\u09a6\u09c0\u0998\u09b2\u0997\u09cd\u09b0\u09be\u09ae \u0997\u09ad\u09b0\u09cd\u09a8\u09ae\u09c7\u09a8\u09cd\u099f \u09aa\u09cd\u09b0\u09be\u0987\u09ae\u09be\u09b0\u09c0 \u09b8\u09cd\u0995\u09c1\u09b2",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-012_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:14.242809+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:14",
+  "audit_timestamp": "2026-10-18T14:08:18.194497+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

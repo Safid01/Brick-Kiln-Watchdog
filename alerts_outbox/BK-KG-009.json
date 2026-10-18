@@ -3,8 +3,8 @@
   "kiln_id": "BK-KG-009",
   "region": "Keraniganj",
   "coordinates": {
-    "latitude": 23.633212,
-    "longitude": 90.414744
+    "latitude": 23.633205,
+    "longitude": 90.414763
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 107.9,
-    "width_m": 96.8,
+    "length_m": 109.6,
+    "width_m": 98.5,
     "aspect_ratio": 1.11,
-    "area_sqm": 10444.7,
-    "estimated_capacity": 229783
+    "area_sqm": 10795.6,
+    "estimated_capacity": 237503
   },
   "audit_metrics": {
-    "confidence": 0.798,
-    "estimated_length_m": 107.9,
-    "estimated_width_m": 96.8,
-    "distance_to_receptor_m": 2539.5,
+    "confidence": 0.84,
+    "estimated_length_m": 109.6,
+    "estimated_width_m": 98.5,
+    "distance_to_receptor_m": 2537.6,
     "nearest_receptor": "Zazira High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KG-009_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:00.596592+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:00",
+  "audit_timestamp": "2026-10-18T14:07:09.948540+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:09",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

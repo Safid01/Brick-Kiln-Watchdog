@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVN-003",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.821554,
-    "longitude": 90.273529
+    "latitude": 23.821599,
+    "longitude": 90.273458
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 88.5,
-    "width_m": 85.8,
-    "aspect_ratio": 1.03,
-    "area_sqm": 7593.3,
-    "estimated_capacity": 167052
+    "length_m": 100.8,
+    "width_m": 86.8,
+    "aspect_ratio": 1.16,
+    "area_sqm": 8749.4,
+    "estimated_capacity": 192486
   },
   "audit_metrics": {
-    "confidence": 0.632,
-    "estimated_length_m": 88.5,
-    "estimated_width_m": 85.8,
-    "distance_to_receptor_m": 1475.5,
+    "confidence": 0.654,
+    "estimated_length_m": 100.8,
+    "estimated_width_m": 86.8,
+    "distance_to_receptor_m": 1468.8,
     "nearest_receptor": "Banktown Agrani High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVN-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:44.790722+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:44",
+  "audit_timestamp": "2026-10-18T14:06:53.906073+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:53",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

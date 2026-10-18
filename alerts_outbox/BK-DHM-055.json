@@ -3,16 +3,16 @@
   "kiln_id": "BK-DHM-055",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.909007,
-    "longitude": 90.146534
+    "latitude": 23.909059,
+    "longitude": 90.146501
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.8,
-    "width_m": 75.6,
-    "aspect_ratio": 1.27,
-    "area_sqm": 7242.5,
-    "estimated_capacity": 159335
+    "length_m": 91.3,
+    "width_m": 66.8,
+    "aspect_ratio": 1.37,
+    "area_sqm": 6098.8,
+    "estimated_capacity": 134173
   },
   "audit_metrics": {
-    "confidence": 0.572,
-    "estimated_length_m": 95.8,
-    "estimated_width_m": 75.6,
-    "distance_to_receptor_m": 1157.3,
+    "confidence": 0.735,
+    "estimated_length_m": 91.3,
+    "estimated_width_m": 66.8,
+    "distance_to_receptor_m": 1150.7,
     "nearest_receptor": "Sutipara Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-055_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:17.103032+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:17",
+  "audit_timestamp": "2026-10-18T14:08:18.997570+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

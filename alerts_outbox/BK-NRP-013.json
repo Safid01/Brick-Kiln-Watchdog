@@ -3,8 +3,8 @@
   "kiln_id": "BK-NRP-013",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.924922,
-    "longitude": 90.66301
+    "latitude": 23.924929,
+    "longitude": 90.663015
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 100.0,
-    "width_m": 82.2,
-    "aspect_ratio": 1.22,
-    "area_sqm": 8220.0,
-    "estimated_capacity": 180840
+    "length_m": 100.3,
+    "width_m": 76.7,
+    "aspect_ratio": 1.31,
+    "area_sqm": 7693.0,
+    "estimated_capacity": 169246
   },
   "audit_metrics": {
-    "confidence": 0.64,
-    "estimated_length_m": 100.0,
-    "estimated_width_m": 82.2,
-    "distance_to_receptor_m": 1482.5,
+    "confidence": 0.653,
+    "estimated_length_m": 100.3,
+    "estimated_width_m": 76.7,
+    "distance_to_receptor_m": 1483.2,
     "nearest_receptor": "BHATPARA N.C.GUPTA HIGH SCHOOL",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRP-013_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:46:46.014496+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:46:46",
+  "audit_timestamp": "2026-10-18T14:12:51.339285+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:51",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

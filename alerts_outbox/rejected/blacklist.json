@@ -2,8 +2,8 @@
   "version": 1,
   "description": "Permanent spatial exclusion registry for rejected false alarms. Candidates within exclusion_radius_m are skipped during scans.",
   "exclusion_radius_m": 65.0,
-  "total_excluded_sites": 9,
-  "updated_at": "2026-10-17T15:02:41.045110+00:00",
+  "total_excluded_sites": 10,
+  "updated_at": "2026-10-18T13:24:56.175315+00:00",
   "sites": [
     {
       "kiln_id": "BK-NW-010",
@@ -84,6 +84,15 @@
       "flagged_at": "2026-10-17T15:02:41.045110+00:00",
       "flagged_by": "DoE_Inspector",
       "source_file": "BK-NW-038.json",
+      "reason": "Inspector marked False Positive"
+    },
+    {
+      "kiln_id": "BK-MDS-016",
+      "latitude": 23.413346,
+      "longitude": 90.136371,
+      "flagged_at": "2026-10-18T13:24:56.170316+00:00",
+      "flagged_by": "DoE_Inspector",
+      "source_file": "BK-MDS-016.json",
       "reason": "Inspector marked False Positive"
     }
   ]

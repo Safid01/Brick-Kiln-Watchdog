@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKW-012",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.855622,
-    "longitude": 89.787171
+    "latitude": 23.85563,
+    "longitude": 89.787164
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 75.7,
-    "width_m": 51.2,
-    "aspect_ratio": 1.48,
-    "area_sqm": 3875.8,
-    "estimated_capacity": 85267
+    "length_m": 76.7,
+    "width_m": 52.8,
+    "aspect_ratio": 1.45,
+    "area_sqm": 4049.8,
+    "estimated_capacity": 89095
   },
   "audit_metrics": {
-    "confidence": 0.521,
-    "estimated_length_m": 75.7,
-    "estimated_width_m": 51.2,
-    "distance_to_receptor_m": 21710.2,
+    "confidence": 0.614,
+    "estimated_length_m": 76.7,
+    "estimated_width_m": 52.8,
+    "distance_to_receptor_m": 21710.9,
     "nearest_receptor": "Holy Flower Cadet Academy, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKW-012_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:49:43.718115+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:49:43",
+  "audit_timestamp": "2026-10-18T14:15:59.157330+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:59",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,17 +3,17 @@
   "kiln_id": "BK-DHM-146",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.94745,
-    "longitude": 90.152249
+    "latitude": 23.947425,
+    "longitude": 90.152269
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
@@ -21,16 +21,16 @@
   },
   "dimensions": {
     "length_m": 97.5,
-    "width_m": 87.3,
-    "aspect_ratio": 1.12,
-    "area_sqm": 8511.8,
-    "estimated_capacity": 187259
+    "width_m": 73.7,
+    "aspect_ratio": 1.32,
+    "area_sqm": 7185.8,
+    "estimated_capacity": 158087
   },
   "audit_metrics": {
-    "confidence": 0.217,
+    "confidence": 0.624,
     "estimated_length_m": 97.5,
-    "estimated_width_m": 87.3,
-    "distance_to_receptor_m": 3361.3,
+    "estimated_width_m": 73.7,
+    "distance_to_receptor_m": 3359.8,
     "nearest_receptor": "Talimul Quran Balika Madrasha, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-146_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:41:58.585793+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:41:58",
+  "audit_timestamp": "2026-10-18T14:08:20.882209+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:20",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

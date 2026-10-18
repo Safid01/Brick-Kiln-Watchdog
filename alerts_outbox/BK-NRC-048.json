@@ -3,8 +3,8 @@
   "kiln_id": "BK-NRC-048",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.915695,
-    "longitude": 90.744431
+    "latitude": 23.915697,
+    "longitude": 90.744436
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 112.4,
-    "width_m": 98.5,
-    "aspect_ratio": 1.14,
-    "area_sqm": 11071.4,
-    "estimated_capacity": 243570
+    "length_m": 105.4,
+    "width_m": 84.0,
+    "aspect_ratio": 1.25,
+    "area_sqm": 8853.6,
+    "estimated_capacity": 194779
   },
   "audit_metrics": {
-    "confidence": 0.454,
-    "estimated_length_m": 112.4,
-    "estimated_width_m": 98.5,
-    "distance_to_receptor_m": 4684.7,
+    "confidence": 0.722,
+    "estimated_length_m": 105.4,
+    "estimated_width_m": 84.0,
+    "distance_to_receptor_m": 4685.2,
     "nearest_receptor": "Abdul Kadir Mollah City College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRC-048_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:47:15.015384+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:47:15",
+  "audit_timestamp": "2026-10-18T14:13:21.703288+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

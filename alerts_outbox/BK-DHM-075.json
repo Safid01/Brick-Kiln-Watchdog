@@ -3,16 +3,16 @@
   "kiln_id": "BK-DHM-075",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.878769,
-    "longitude": 90.159143
+    "latitude": 23.878827,
+    "longitude": 90.158969
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 109.0,
-    "width_m": 91.9,
-    "aspect_ratio": 1.19,
-    "area_sqm": 10017.1,
-    "estimated_capacity": 220376
+    "length_m": 84.3,
+    "width_m": 67.8,
+    "aspect_ratio": 1.24,
+    "area_sqm": 5715.5,
+    "estimated_capacity": 125741
   },
   "audit_metrics": {
-    "confidence": 0.476,
-    "estimated_length_m": 109.0,
-    "estimated_width_m": 91.9,
-    "distance_to_receptor_m": 4162.6,
+    "confidence": 0.695,
+    "estimated_length_m": 84.3,
+    "estimated_width_m": 67.8,
+    "distance_to_receptor_m": 4167.1,
     "nearest_receptor": "Joypura Government Primary School, Primary school",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-075_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:18.416864+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:18",
+  "audit_timestamp": "2026-10-18T14:08:19.703894+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:19",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

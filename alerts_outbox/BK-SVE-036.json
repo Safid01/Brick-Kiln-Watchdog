@@ -3,8 +3,8 @@
   "kiln_id": "BK-SVE-036",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.768966,
-    "longitude": 90.319913
+    "latitude": 23.769005,
+    "longitude": 90.319931
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 100.0,
-    "width_m": 91.0,
-    "aspect_ratio": 1.1,
-    "area_sqm": 9100.0,
-    "estimated_capacity": 200200
+    "length_m": 114.8,
+    "width_m": 80.9,
+    "aspect_ratio": 1.42,
+    "area_sqm": 9287.3,
+    "estimated_capacity": 204320
   },
   "audit_metrics": {
-    "confidence": 0.609,
-    "estimated_length_m": 100.0,
-    "estimated_width_m": 91.0,
-    "distance_to_receptor_m": 1567.2,
+    "confidence": 0.712,
+    "estimated_length_m": 114.8,
+    "estimated_width_m": 80.9,
+    "distance_to_receptor_m": 1563.2,
     "nearest_receptor": "Tejgaon Nurani Mardasah, Amin Bazar Branch \u09a4\u09c7\u099c\u0997\u09be\u0981\u0993 \u09a8\u09c2\u09b0\u09be\u09a8\u09c0 \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-036_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.926309+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:36.195010+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

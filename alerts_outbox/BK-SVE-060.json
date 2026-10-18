@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-060",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.778206,
+    "longitude": 90.338325
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 106.4,
+    "width_m": 90.3,
+    "aspect_ratio": 1.18,
+    "area_sqm": 9607.9,
+    "estimated_capacity": 211373
+  },
+  "audit_metrics": {
+    "confidence": 0.445,
+    "estimated_length_m": 106.4,
+    "estimated_width_m": 90.3,
+    "distance_to_receptor_m": 687.3,
+    "nearest_receptor": "Birshrestho Hamidur Rahman School and College, High school",
+    "receptor_type": "school",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.784387,
+      "longitude": 90.338887
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-060_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:06:37.225157+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

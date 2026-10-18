@@ -3,34 +3,34 @@
   "kiln_id": "BK-DHM-047",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.924199,
-    "longitude": 90.166484
+    "latitude": 23.924189,
+    "longitude": 90.166494
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 99.0,
-    "width_m": 87.4,
-    "aspect_ratio": 1.13,
-    "area_sqm": 8652.6,
-    "estimated_capacity": 190357
+    "length_m": 97.4,
+    "width_m": 59.6,
+    "aspect_ratio": 1.63,
+    "area_sqm": 5805.0,
+    "estimated_capacity": 127710
   },
   "audit_metrics": {
-    "confidence": 0.597,
-    "estimated_length_m": 99.0,
-    "estimated_width_m": 87.4,
-    "distance_to_receptor_m": 2207.6,
+    "confidence": 0.576,
+    "estimated_length_m": 97.4,
+    "estimated_width_m": 59.6,
+    "distance_to_receptor_m": 2206.1,
     "nearest_receptor": "Joypura Government Primary School, Primary school",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-047_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:16.698232+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:16",
+  "audit_timestamp": "2026-10-18T14:08:21.098322+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

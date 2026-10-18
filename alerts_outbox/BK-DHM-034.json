@@ -3,34 +3,34 @@
   "kiln_id": "BK-DHM-034",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.879056,
-    "longitude": 90.206062
+    "latitude": 23.879079,
+    "longitude": 90.206075
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.5,
-    "width_m": 87.3,
-    "aspect_ratio": 1.17,
-    "area_sqm": 8948.2,
-    "estimated_capacity": 196860
+    "length_m": 95.6,
+    "width_m": 69.8,
+    "aspect_ratio": 1.37,
+    "area_sqm": 6672.9,
+    "estimated_capacity": 146803
   },
   "audit_metrics": {
-    "confidence": 0.645,
-    "estimated_length_m": 102.5,
-    "estimated_width_m": 87.3,
-    "distance_to_receptor_m": 2580.0,
+    "confidence": 0.683,
+    "estimated_length_m": 95.6,
+    "estimated_width_m": 69.8,
+    "distance_to_receptor_m": 2577.5,
     "nearest_receptor": "Khatra Government Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-034_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:15.872491+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:15",
+  "audit_timestamp": "2026-10-18T14:08:19.906580+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:19",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,16 +3,16 @@
   "kiln_id": "BK-DHM-011",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.897178,
-    "longitude": 90.14419
+    "latitude": 23.897169,
+    "longitude": 90.144227
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 108.1,
-    "width_m": 87.8,
-    "aspect_ratio": 1.23,
-    "area_sqm": 9491.2,
-    "estimated_capacity": 208806
+    "length_m": 104.6,
+    "width_m": 73.6,
+    "aspect_ratio": 1.42,
+    "area_sqm": 7698.6,
+    "estimated_capacity": 169369
   },
   "audit_metrics": {
-    "confidence": 0.685,
-    "estimated_length_m": 108.1,
-    "estimated_width_m": 87.8,
-    "distance_to_receptor_m": 2237.4,
+    "confidence": 0.741,
+    "estimated_length_m": 104.6,
+    "estimated_width_m": 73.6,
+    "distance_to_receptor_m": 2239.3,
     "nearest_receptor": "Sutipara Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-011_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:14.173903+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:14",
+  "audit_timestamp": "2026-10-18T14:08:18.849461+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:18",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

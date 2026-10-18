@@ -18,7 +18,7 @@ const NO_STORE = { "Cache-Control": "no-store" };
 
 type Route =
   | { kind: "alerts" | "system-status" | "scanner-status" | "receptors" | "districts" }
-  | { kind: "trigger-scan" | "auto-sweep" | "add-kiln" | "purge-bogus" }
+  | { kind: "trigger-scan" | "stop-scan" | "add-kiln" | "purge-bogus" }
   | { kind: "confirm" | "reject"; id: string }
   | { kind: "update-tech"; id: string };
 
@@ -34,7 +34,7 @@ function match(method: "GET" | "POST", segs: string[]): Route | null {
     return null;
   }
   if (p === "trigger-scan") return { kind: "trigger-scan" };
-  if (p === "auto-sweep/toggle") return { kind: "auto-sweep" };
+  if (p === "stop-scan") return { kind: "stop-scan" };
   if (p === "kilns/add") return { kind: "add-kiln" };
   if (p === "purge-bogus") return { kind: "purge-bogus" };
   const mTech = /^kilns\/([^/]+)\/technology$/.exec(p);
@@ -48,8 +48,8 @@ function backendPath(r: Route): string {
   switch (r.kind) {
     case "trigger-scan":
       return "/api/v1/trigger-scan";
-    case "auto-sweep":
-      return "/api/v1/auto-sweep/toggle";
+    case "stop-scan":
+      return "/api/v1/stop-scan";
     case "add-kiln":
       return "/api/v1/kilns/add";
     case "purge-bogus":
@@ -143,6 +143,9 @@ async function demoPost(r: Route, body?: unknown) {
     const ok = await demoUpdateTech(r.id, payload.technology_type || "FCBTK");
     if (!ok) return NextResponse.json({ status: "ERROR", message: "Kiln not found" }, { status: 404 });
     return NextResponse.json({ status: "SUCCESS", message: `Kiln ${r.id} technology updated.` }, { headers: NO_STORE });
+  }
+  if (r.kind === "stop-scan") {
+    return NextResponse.json({ status: "SUCCESS", message: "Scan stopped." }, { headers: NO_STORE });
   }
   return NextResponse.json(
     { status: "DEMO_MODE", message: "Live scans need the Python backend. Set BACKEND_URL." },

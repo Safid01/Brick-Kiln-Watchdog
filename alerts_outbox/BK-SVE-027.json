@@ -3,16 +3,16 @@
   "kiln_id": "BK-SVE-027",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.802922,
-    "longitude": 90.308499
+    "latitude": 23.802738,
+    "longitude": 90.308507
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 104.2,
-    "width_m": 100.0,
-    "aspect_ratio": 1.04,
-    "area_sqm": 10420.0,
-    "estimated_capacity": 229240
+    "length_m": 66.2,
+    "width_m": 43.5,
+    "aspect_ratio": 1.52,
+    "area_sqm": 2879.7,
+    "estimated_capacity": 63353
   },
   "audit_metrics": {
-    "confidence": 0.641,
-    "estimated_length_m": 104.2,
-    "estimated_width_m": 100.0,
-    "distance_to_receptor_m": 1780.5,
+    "confidence": 0.554,
+    "estimated_length_m": 66.2,
+    "estimated_width_m": 43.5,
+    "distance_to_receptor_m": 1781.1,
     "nearest_receptor": "Konda High School Play Ground",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-027_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.529440+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:36.839552+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

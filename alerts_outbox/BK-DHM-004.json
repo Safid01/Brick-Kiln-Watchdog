@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-004",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.93705,
-    "longitude": 90.20751
+    "latitude": 23.937046,
+    "longitude": 90.207532
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.7,
-    "width_m": 90.6,
-    "aspect_ratio": 1.13,
-    "area_sqm": 9304.6,
-    "estimated_capacity": 204701
+    "length_m": 97.4,
+    "width_m": 83.2,
+    "aspect_ratio": 1.17,
+    "area_sqm": 8103.7,
+    "estimated_capacity": 178281
   },
   "audit_metrics": {
-    "confidence": 0.741,
-    "estimated_length_m": 102.7,
-    "estimated_width_m": 90.6,
-    "distance_to_receptor_m": 2192.2,
+    "confidence": 0.711,
+    "estimated_length_m": 97.4,
+    "estimated_width_m": 83.2,
+    "distance_to_receptor_m": 2190.9,
     "nearest_receptor": "Dhamrai Girls High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-004_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:13.619242+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:13",
+  "audit_timestamp": "2026-10-18T14:08:19.348522+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:19",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

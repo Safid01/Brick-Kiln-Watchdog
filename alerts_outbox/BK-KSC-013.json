@@ -3,8 +3,8 @@
   "kiln_id": "BK-KSC-013",
   "region": "Kishoreganj",
   "coordinates": {
-    "latitude": 24.443129,
-    "longitude": 90.825564
+    "latitude": 24.44314,
+    "longitude": 90.825568
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 90.2,
-    "width_m": 60.1,
-    "aspect_ratio": 1.5,
-    "area_sqm": 5421.0,
-    "estimated_capacity": 119262
+    "length_m": 93.7,
+    "width_m": 63.2,
+    "aspect_ratio": 1.48,
+    "area_sqm": 5921.8,
+    "estimated_capacity": 130279
   },
   "audit_metrics": {
-    "confidence": 0.66,
-    "estimated_length_m": 90.2,
-    "estimated_width_m": 60.1,
-    "distance_to_receptor_m": 34454.5,
+    "confidence": 0.785,
+    "estimated_length_m": 93.7,
+    "estimated_width_m": 63.2,
+    "distance_to_receptor_m": 34455.7,
     "nearest_receptor": "Noruttampur Community Clinic Road",
     "receptor_type": "clinic",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSC-013_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:54:27.752417+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:54:27",
+  "audit_timestamp": "2026-10-18T14:20:42.636661+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:20:42",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

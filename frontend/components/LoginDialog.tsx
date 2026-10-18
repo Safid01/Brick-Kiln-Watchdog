@@ -49,7 +49,7 @@ export default function LoginDialog({ onClose, onSuccess }: Props) {
           <button type="button" className="btn-ghost" onClick={onClose}>
             Cancel
           </button>
-          <button type="submit" className="btn-scan" disabled={busy || !password}>
+          <button type="submit" className="btn-primary" disabled={busy || !password}>
             {busy ? "Signing in…" : "Sign in"}
           </button>
         </div>

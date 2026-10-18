@@ -3,16 +3,16 @@
   "kiln_id": "BK-KG-051",
   "region": "Keraniganj",
   "coordinates": {
-    "latitude": 23.659633,
-    "longitude": 90.391664
+    "latitude": 23.659412,
+    "longitude": 90.391641
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 111.8,
-    "width_m": 89.0,
-    "aspect_ratio": 1.26,
-    "area_sqm": 9950.2,
-    "estimated_capacity": 218904
+    "length_m": 64.5,
+    "width_m": 45.2,
+    "aspect_ratio": 1.43,
+    "area_sqm": 2915.4,
+    "estimated_capacity": 64138
   },
   "audit_metrics": {
-    "confidence": 0.571,
-    "estimated_length_m": 111.8,
-    "estimated_width_m": 89.0,
-    "distance_to_receptor_m": 640.4,
+    "confidence": 0.511,
+    "estimated_length_m": 64.5,
+    "estimated_width_m": 45.2,
+    "distance_to_receptor_m": 658.7,
     "nearest_receptor": "Baghoir janata pharmacy, Baghoir, high, School Rd, Dhaka",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KG-051_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:01.830820+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "audit_timestamp": "2026-10-18T14:07:11.782372+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:11",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

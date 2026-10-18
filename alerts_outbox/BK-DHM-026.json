@@ -3,8 +3,8 @@
   "kiln_id": "BK-DHM-026",
   "region": "Dhaka",
   "coordinates": {
-    "latitude": 23.894549,
-    "longitude": 90.139142
+    "latitude": 23.894571,
+    "longitude": 90.139159
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 106.1,
-    "width_m": 88.9,
-    "aspect_ratio": 1.19,
-    "area_sqm": 9432.3,
-    "estimated_capacity": 207510
+    "length_m": 109.1,
+    "width_m": 69.4,
+    "aspect_ratio": 1.57,
+    "area_sqm": 7571.5,
+    "estimated_capacity": 166573
   },
   "audit_metrics": {
-    "confidence": 0.659,
-    "estimated_length_m": 106.1,
-    "estimated_width_m": 88.9,
-    "distance_to_receptor_m": 2464.3,
+    "confidence": 0.713,
+    "estimated_length_m": 109.1,
+    "estimated_width_m": 69.4,
+    "distance_to_receptor_m": 2461.9,
     "nearest_receptor": "Sutipara Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-DHM-026_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:42:15.258224+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:42:15",
+  "audit_timestamp": "2026-10-18T14:08:19.273720+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:19",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-045",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.908564,
+    "longitude": 90.231831
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 45.1,
+    "width_m": 29.1,
+    "aspect_ratio": 1.55,
+    "area_sqm": 1312.4,
+    "estimated_capacity": 28872
+  },
+  "audit_metrics": {
+    "confidence": 0.448,
+    "estimated_length_m": 45.1,
+    "estimated_width_m": 29.1,
+    "distance_to_receptor_m": 35.9,
+    "nearest_receptor": "Chakal Gram Government Primary School, Primary school",
+    "receptor_type": "school",
+    "priority_tier": "CRITICAL",
+    "nearest_receptor_coords": {
+      "latitude": 23.90861,
+      "longitude": 90.232181
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-045_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:08:22.140573+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:22",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

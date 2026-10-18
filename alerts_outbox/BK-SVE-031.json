@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVE-031",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.775614,
-    "longitude": 90.293619
+    "latitude": 23.775598,
+    "longitude": 90.293581
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 79.6,
-    "width_m": 72.3,
-    "aspect_ratio": 1.1,
-    "area_sqm": 5755.1,
-    "estimated_capacity": 126612
+    "length_m": 83.5,
+    "width_m": 68.6,
+    "aspect_ratio": 1.22,
+    "area_sqm": 5728.1,
+    "estimated_capacity": 126018
   },
   "audit_metrics": {
-    "confidence": 0.628,
-    "estimated_length_m": 79.6,
-    "estimated_width_m": 72.3,
-    "distance_to_receptor_m": 2337.2,
+    "confidence": 0.786,
+    "estimated_length_m": 83.5,
+    "estimated_width_m": 68.6,
+    "distance_to_receptor_m": 2337.8,
     "nearest_receptor": "Bangabandhu Homoeopathy University",
     "receptor_type": "university",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-031_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:26.705802+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:26",
+  "audit_timestamp": "2026-10-18T14:06:35.360075+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJ-016",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.624321,
-    "longitude": 90.554325
+    "latitude": 23.624284,
+    "longitude": 90.55433
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 93.5,
-    "width_m": 88.6,
-    "aspect_ratio": 1.06,
-    "area_sqm": 8284.1,
-    "estimated_capacity": 182250
+    "length_m": 95.4,
+    "width_m": 86.6,
+    "aspect_ratio": 1.1,
+    "area_sqm": 8261.6,
+    "estimated_capacity": 181755
   },
   "audit_metrics": {
-    "confidence": 0.624,
-    "estimated_length_m": 93.5,
-    "estimated_width_m": 88.6,
-    "distance_to_receptor_m": 1420.3,
+    "confidence": 0.593,
+    "estimated_length_m": 95.4,
+    "estimated_width_m": 86.6,
+    "distance_to_receptor_m": 1416.5,
     "nearest_receptor": "HOSSAINPUR S P UNION HIGH SCHOOL",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJ-016_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:43:44.992197+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:43:44",
+  "audit_timestamp": "2026-10-18T14:09:46.561261+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -1,10 +1,10 @@
 {
   "event": "POTENTIAL_KILN_VIOLATION",
-  "kiln_id": "BK-MDS-016",
-  "region": "Madaripur",
+  "kiln_id": "BK-NJ-020",
+  "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.413346,
-    "longitude": 90.136371
+    "latitude": 23.62542,
+    "longitude": 90.517391
   },
   "technology": {
     "type": "FCBTK",
@@ -20,28 +20,28 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.1,
-    "width_m": 89.2,
-    "aspect_ratio": 1.1,
-    "area_sqm": 8750.5,
-    "estimated_capacity": 192511
+    "length_m": 72.0,
+    "width_m": 59.9,
+    "aspect_ratio": 1.2,
+    "area_sqm": 4312.8,
+    "estimated_capacity": 94881
   },
   "audit_metrics": {
-    "confidence": 0.45,
-    "estimated_length_m": 98.1,
-    "estimated_width_m": 89.2,
-    "distance_to_receptor_m": 14481.9,
-    "nearest_receptor": "Padma Govt. University College",
+    "confidence": 0.379,
+    "estimated_length_m": 72.0,
+    "estimated_width_m": 59.9,
+    "distance_to_receptor_m": 184.4,
+    "nearest_receptor": "Kadam Rasul degree College",
     "receptor_type": "college",
-    "priority_tier": "COMPLIANT",
+    "priority_tier": "CRITICAL",
     "nearest_receptor_coords": {
-      "latitude": 23.540107,
-      "longitude": 90.170791
+      "latitude": 23.623835,
+      "longitude": 90.51794
     }
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
-  "evidence_image": "evidence/BK-MDS-016_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:56:10.008335+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:56:10",
+  "evidence_image": "evidence/BK-NJ-020_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:09:46.597141+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,34 +3,34 @@
   "kiln_id": "BK-TGM-029",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.092808,
-    "longitude": 90.141062
+    "latitude": 24.092827,
+    "longitude": 90.141102
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 101.6,
-    "width_m": 100.2,
-    "aspect_ratio": 1.01,
-    "area_sqm": 10180.3,
-    "estimated_capacity": 223966
+    "length_m": 104.0,
+    "width_m": 64.6,
+    "aspect_ratio": 1.61,
+    "area_sqm": 6718.4,
+    "estimated_capacity": 147804
   },
   "audit_metrics": {
-    "confidence": 0.586,
-    "estimated_length_m": 101.6,
-    "estimated_width_m": 100.2,
-    "distance_to_receptor_m": 1212.3,
+    "confidence": 0.618,
+    "estimated_length_m": 104.0,
+    "estimated_width_m": 64.6,
+    "distance_to_receptor_m": 1207.8,
     "nearest_receptor": "Gorai High School \u0997\u09cb\u09a1\u09bc\u09be\u0987 \u0989\u099a\u09cd\u099a \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-029_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:08.241976+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:08",
+  "audit_timestamp": "2026-10-18T14:11:08.742398+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:08",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

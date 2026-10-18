@@ -3,8 +3,8 @@
   "kiln_id": "BK-RBG-006",
   "region": "Rajbari",
   "coordinates": {
-    "latitude": 23.697866,
-    "longitude": 89.722978
+    "latitude": 23.69788,
+    "longitude": 89.722966
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 99.4,
-    "width_m": 78.9,
-    "aspect_ratio": 1.26,
-    "area_sqm": 7842.7,
-    "estimated_capacity": 172539
+    "length_m": 95.7,
+    "width_m": 74.6,
+    "aspect_ratio": 1.28,
+    "area_sqm": 7139.2,
+    "estimated_capacity": 157062
   },
   "audit_metrics": {
-    "confidence": 0.723,
-    "estimated_length_m": 99.4,
-    "estimated_width_m": 78.9,
-    "distance_to_receptor_m": 28861.8,
+    "confidence": 0.755,
+    "estimated_length_m": 95.7,
+    "estimated_width_m": 74.6,
+    "distance_to_receptor_m": 28862.7,
     "nearest_receptor": "Dakshin Chandpur High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-RBG-006_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:57:20.538836+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:57:20",
+  "audit_timestamp": "2026-10-18T13:47:02.194124+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:47:02",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

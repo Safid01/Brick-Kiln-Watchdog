@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNS-034",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.633263,
-    "longitude": 90.368905
+    "latitude": 23.633286,
+    "longitude": 90.36893
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 103.3,
-    "width_m": 84.5,
-    "aspect_ratio": 1.22,
-    "area_sqm": 8728.9,
-    "estimated_capacity": 192035
+    "length_m": 96.6,
+    "width_m": 73.8,
+    "aspect_ratio": 1.31,
+    "area_sqm": 7129.1,
+    "estimated_capacity": 156840
   },
   "audit_metrics": {
-    "confidence": 0.7,
-    "estimated_length_m": 103.3,
-    "estimated_width_m": 84.5,
-    "distance_to_receptor_m": 2296.2,
+    "confidence": 0.629,
+    "estimated_length_m": 96.6,
+    "estimated_width_m": 73.8,
+    "distance_to_receptor_m": 2297.7,
     "nearest_receptor": "Char Kundlia Government Primary School, Dhaka - Barisal High",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-034_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:51.630759+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:51",
+  "audit_timestamp": "2026-10-18T14:17:09.848312+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:09",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

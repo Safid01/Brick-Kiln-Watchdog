@@ -458,7 +458,7 @@ def generate_seamless_grid_sectors(bbox, region_name, prefix, step_lat=0.06, ste
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", None)
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", None)
 
-def run(selected_sectors=None, custom_bbox=None, full_grid=False, conf_threshold=0.35, max_sectors=None):
+def run(selected_sectors=None, custom_bbox=None, full_grid=False, conf_threshold=0.35, max_sectors=None, progress_callback=None, cancel_check=None):
     """
     Surveillance Pipeline across Greater Dhaka Division:
     - selected_sectors: List of district names or sector prefixes (e.g. ['Tangail', 'Narsingdi'] or ['ALL'])
@@ -540,6 +540,14 @@ def run(selected_sectors=None, custom_bbox=None, full_grid=False, conf_threshold
     districts_covered = set()
 
     for idx, sector in enumerate(sectors_to_run, 1):
+        if cancel_check and cancel_check():
+            print("⚠️ Surveillance scan cancelled by user request.")
+            break
+        if progress_callback:
+            try:
+                progress_callback(idx, len(sectors_to_run), sector)
+            except Exception:
+                pass
         reg = sector["region"]
         district = sector.get("district", reg)
         districts_covered.add(district)

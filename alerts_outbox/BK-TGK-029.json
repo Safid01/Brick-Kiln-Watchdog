@@ -3,34 +3,34 @@
   "kiln_id": "BK-TGK-029",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.37989,
-    "longitude": 90.000829
+    "latitude": 24.379874,
+    "longitude": 90.000817
   },
   "technology": {
-    "type": "ZIGZAG",
-    "label": "Improved Zigzag Kiln",
-    "badge": "Zigzag",
-    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
-    "compliance_status": "CONDITIONAL_PERMIT",
-    "emission_tier": "Controlled Emission (Permitted)",
-    "banned": false
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 90.8,
-    "width_m": 66.9,
-    "aspect_ratio": 1.36,
-    "area_sqm": 6074.5,
-    "estimated_capacity": 133639
+    "length_m": 61.1,
+    "width_m": 56.3,
+    "aspect_ratio": 1.09,
+    "area_sqm": 3439.9,
+    "estimated_capacity": 75677
   },
   "audit_metrics": {
-    "confidence": 0.336,
-    "estimated_length_m": 90.8,
-    "estimated_width_m": 66.9,
-    "distance_to_receptor_m": 25721.8,
+    "confidence": 0.413,
+    "estimated_length_m": 61.1,
+    "estimated_width_m": 56.3,
+    "distance_to_receptor_m": 25720.2,
     "nearest_receptor": "Jamurki N.S.A.G High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGK-029_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:46:54.887311+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:46:54",
+  "audit_timestamp": "2026-10-18T14:12:22.263801+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:22",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

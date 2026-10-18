@@ -3,16 +3,16 @@
   "kiln_id": "BK-NRC-025",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.917948,
-    "longitude": 90.742991
+    "latitude": 23.917928,
+    "longitude": 90.743008
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 94.9,
-    "width_m": 76.6,
-    "aspect_ratio": 1.24,
-    "area_sqm": 7269.3,
-    "estimated_capacity": 159924
+    "length_m": 93.7,
+    "width_m": 62.1,
+    "aspect_ratio": 1.51,
+    "area_sqm": 5818.8,
+    "estimated_capacity": 128013
   },
   "audit_metrics": {
-    "confidence": 0.578,
-    "estimated_length_m": 94.9,
-    "estimated_width_m": 76.6,
-    "distance_to_receptor_m": 4488.8,
+    "confidence": 0.611,
+    "estimated_length_m": 93.7,
+    "estimated_width_m": 62.1,
+    "distance_to_receptor_m": 4490.9,
     "nearest_receptor": "Abdul Kadir Mollah City College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRC-025_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:47:14.780726+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:47:14",
+  "audit_timestamp": "2026-10-18T14:13:22.019596+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:22",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,8 +3,8 @@
   "kiln_id": "BK-SPN-001",
   "region": "Shariatpur",
   "coordinates": {
-    "latitude": 23.278838,
-    "longitude": 90.389112
+    "latitude": 23.278839,
+    "longitude": 90.389128
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 99.2,
-    "width_m": 81.4,
-    "aspect_ratio": 1.22,
-    "area_sqm": 8074.9,
-    "estimated_capacity": 177647
+    "length_m": 95.1,
+    "width_m": 72.9,
+    "aspect_ratio": 1.3,
+    "area_sqm": 6932.8,
+    "estimated_capacity": 152521
   },
   "audit_metrics": {
-    "confidence": 0.7,
-    "estimated_length_m": 99.2,
-    "estimated_width_m": 81.4,
-    "distance_to_receptor_m": 26868.7,
+    "confidence": 0.441,
+    "estimated_length_m": 95.1,
+    "estimated_width_m": 72.9,
+    "distance_to_receptor_m": 26868.1,
     "nearest_receptor": "Tongibari govt. primary school",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SPN-001_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:58:59.819486+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:58:59",
+  "audit_timestamp": "2026-10-18T13:48:42.992633+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:48:42",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

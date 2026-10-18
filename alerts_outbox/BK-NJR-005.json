@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NJR-005",
+  "region": "Narayanganj",
+  "coordinates": {
+    "latitude": 23.788411,
+    "longitude": 90.512694
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 160.9,
+    "width_m": 136.8,
+    "aspect_ratio": 1.18,
+    "area_sqm": 22011.1,
+    "estimated_capacity": 484244
+  },
+  "audit_metrics": {
+    "confidence": 0.659,
+    "estimated_length_m": 160.9,
+    "estimated_width_m": 136.8,
+    "distance_to_receptor_m": 2249.9,
+    "nearest_receptor": "\u0997\u0999\u09cd\u0997\u09be\u09a8\u0997\u09b0 \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.768406,
+      "longitude": 90.51648
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NJR-005_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:10:38.170051+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:10:38",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

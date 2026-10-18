@@ -3,8 +3,8 @@
   "kiln_id": "BK-KG-053",
   "region": "Keraniganj",
   "coordinates": {
-    "latitude": 23.666777,
-    "longitude": 90.380128
+    "latitude": 23.666793,
+    "longitude": 90.380115
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.0,
-    "width_m": 86.5,
-    "aspect_ratio": 1.1,
-    "area_sqm": 8217.5,
-    "estimated_capacity": 180785
+    "length_m": 82.3,
+    "width_m": 71.0,
+    "aspect_ratio": 1.16,
+    "area_sqm": 5843.3,
+    "estimated_capacity": 128552
   },
   "audit_metrics": {
-    "confidence": 0.58,
-    "estimated_length_m": 95.0,
-    "estimated_width_m": 86.5,
-    "distance_to_receptor_m": 616.4,
+    "confidence": 0.66,
+    "estimated_length_m": 82.3,
+    "estimated_width_m": 71.0,
+    "distance_to_receptor_m": 617.4,
     "nearest_receptor": "T.K. SCHOOL OF INTELLIGENCE, Dhaka - Mawa Hwy, Dhaka",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KG-053_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:01.797380+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:01",
+  "audit_timestamp": "2026-10-18T14:07:11.582893+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:11",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

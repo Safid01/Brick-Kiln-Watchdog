@@ -3,8 +3,8 @@
   "kiln_id": "BK-SV-007",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.775799,
-    "longitude": 90.262747
+    "latitude": 23.775805,
+    "longitude": 90.262773
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,16 +20,16 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 89.7,
-    "width_m": 72.7,
-    "aspect_ratio": 1.23,
-    "area_sqm": 6521.2,
-    "estimated_capacity": 143466
+    "length_m": 86.5,
+    "width_m": 60.5,
+    "aspect_ratio": 1.43,
+    "area_sqm": 5233.2,
+    "estimated_capacity": 115130
   },
   "audit_metrics": {
-    "confidence": 0.573,
-    "estimated_length_m": 89.7,
-    "estimated_width_m": 72.7,
+    "confidence": 0.492,
+    "estimated_length_m": 86.5,
+    "estimated_width_m": 60.5,
     "distance_to_receptor_m": 1870.9,
     "nearest_receptor": "Hemayetpur General Hospital, Hospital",
     "receptor_type": "hospital",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SV-007_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:39:58.671533+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:39:58",
+  "audit_timestamp": "2026-10-18T14:06:17.789212+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:17",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

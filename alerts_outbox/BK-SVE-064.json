@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-064",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.820978,
+    "longitude": 90.316043
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 112.8,
+    "width_m": 37.8,
+    "aspect_ratio": 2.98,
+    "area_sqm": 4263.8,
+    "estimated_capacity": 93803
+  },
+  "audit_metrics": {
+    "confidence": 0.382,
+    "estimated_length_m": 112.8,
+    "estimated_width_m": 37.8,
+    "distance_to_receptor_m": 2886.2,
+    "nearest_receptor": "ALPHA BANGLA HIGH SCHOOL, Middle school",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.809544,
+      "longitude": 90.341479
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-064_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:06:37.433687+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

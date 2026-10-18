@@ -3,16 +3,16 @@
   "kiln_id": "BK-MKC-003",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.898821,
-    "longitude": 90.081942
+    "latitude": 23.898881,
+    "longitude": 90.081972
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.6,
-    "width_m": 91.1,
-    "aspect_ratio": 1.16,
-    "area_sqm": 9620.2,
-    "estimated_capacity": 211644
+    "length_m": 97.0,
+    "width_m": 68.4,
+    "aspect_ratio": 1.42,
+    "area_sqm": 6634.8,
+    "estimated_capacity": 145965
   },
   "audit_metrics": {
-    "confidence": 0.697,
-    "estimated_length_m": 105.6,
-    "estimated_width_m": 91.1,
-    "distance_to_receptor_m": 2030.2,
+    "confidence": 0.587,
+    "estimated_length_m": 97.0,
+    "estimated_width_m": 68.4,
+    "distance_to_receptor_m": 2028.0,
     "nearest_receptor": "Barobaria Gonoshasthaya Kendro, Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKC-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:49:04.856227+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:49:04",
+  "audit_timestamp": "2026-10-18T14:15:16.028458+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:16",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

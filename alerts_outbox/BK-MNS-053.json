@@ -3,34 +3,34 @@
   "kiln_id": "BK-MNS-053",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.634225,
-    "longitude": 90.350629
+    "latitude": 23.634252,
+    "longitude": 90.350658
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 91.5,
-    "width_m": 87.9,
-    "aspect_ratio": 1.04,
-    "area_sqm": 8042.9,
-    "estimated_capacity": 176943
+    "length_m": 86.9,
+    "width_m": 69.1,
+    "aspect_ratio": 1.26,
+    "area_sqm": 6004.8,
+    "estimated_capacity": 132105
   },
   "audit_metrics": {
-    "confidence": 0.501,
-    "estimated_length_m": 91.5,
-    "estimated_width_m": 87.9,
-    "distance_to_receptor_m": 526.7,
+    "confidence": 0.72,
+    "estimated_length_m": 86.9,
+    "estimated_width_m": 69.1,
+    "distance_to_receptor_m": 530.8,
     "nearest_receptor": "Bikrampur Adarsha College, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
     "receptor_type": "college",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-053_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:52.371895+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:52",
+  "audit_timestamp": "2026-10-18T14:17:09.534756+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:09",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

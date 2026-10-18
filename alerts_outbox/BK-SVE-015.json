@@ -3,34 +3,34 @@
   "kiln_id": "BK-SVE-015",
   "region": "Savar",
   "coordinates": {
-    "latitude": 23.80495,
-    "longitude": 90.312933
+    "latitude": 23.804941,
+    "longitude": 90.312832
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 88.1,
-    "width_m": 82.8,
-    "aspect_ratio": 1.06,
-    "area_sqm": 7294.7,
-    "estimated_capacity": 160483
+    "length_m": 74.0,
+    "width_m": 56.6,
+    "aspect_ratio": 1.31,
+    "area_sqm": 4188.4,
+    "estimated_capacity": 92144
   },
   "audit_metrics": {
-    "confidence": 0.703,
-    "estimated_length_m": 88.1,
-    "estimated_width_m": 82.8,
-    "distance_to_receptor_m": 2132.0,
+    "confidence": 0.748,
+    "estimated_length_m": 74.0,
+    "estimated_width_m": 56.6,
+    "distance_to_receptor_m": 2136.9,
     "nearest_receptor": "Kasemul Uloom Al Islamia Dhaka Bangladesh, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVE-015_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:25.922788+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:25",
+  "audit_timestamp": "2026-10-18T14:06:35.874775+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:35",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

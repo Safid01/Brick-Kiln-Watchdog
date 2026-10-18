@@ -3,8 +3,8 @@
   "kiln_id": "BK-NW-005",
   "region": "Nawabganj",
   "coordinates": {
-    "latitude": 23.736596,
-    "longitude": 90.21956
+    "latitude": 23.736603,
+    "longitude": 90.219538
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 89.3,
-    "width_m": 63.3,
-    "aspect_ratio": 1.41,
-    "area_sqm": 5652.7,
-    "estimated_capacity": 124359
+    "length_m": 86.7,
+    "width_m": 59.1,
+    "aspect_ratio": 1.47,
+    "area_sqm": 5124.0,
+    "estimated_capacity": 112728
   },
   "audit_metrics": {
-    "confidence": 0.651,
-    "estimated_length_m": 89.3,
-    "estimated_width_m": 63.3,
-    "distance_to_receptor_m": 5952.6,
+    "confidence": 0.652,
+    "estimated_length_m": 86.7,
+    "estimated_width_m": 59.1,
+    "distance_to_receptor_m": 5952.2,
     "nearest_receptor": "Govt. Primary School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NW-005_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:41:36.988935+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:41:36",
+  "audit_timestamp": "2026-10-18T14:07:46.715473+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

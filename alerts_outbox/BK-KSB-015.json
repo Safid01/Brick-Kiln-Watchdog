@@ -3,8 +3,8 @@
   "kiln_id": "BK-KSB-015",
   "region": "Kishoreganj",
   "coordinates": {
-    "latitude": 24.061492,
-    "longitude": 90.976579
+    "latitude": 24.061488,
+    "longitude": 90.976568
   },
   "technology": {
     "type": "FCBTK",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 45.9,
-    "width_m": 45.0,
-    "aspect_ratio": 1.02,
-    "area_sqm": 2065.5,
-    "estimated_capacity": 45441
+    "length_m": 46.1,
+    "width_m": 44.0,
+    "aspect_ratio": 1.05,
+    "area_sqm": 2028.4,
+    "estimated_capacity": 44624
   },
   "audit_metrics": {
-    "confidence": 0.68,
-    "estimated_length_m": 45.9,
-    "estimated_width_m": 45.0,
-    "distance_to_receptor_m": 30025.6,
+    "confidence": 0.479,
+    "estimated_length_m": 46.1,
+    "estimated_width_m": 44.0,
+    "distance_to_receptor_m": 30024.8,
     "nearest_receptor": "Monohardi Pailot High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSB-015_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:53:32.908508+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:53:32",
+  "audit_timestamp": "2026-10-18T14:19:48.675339+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:19:48",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

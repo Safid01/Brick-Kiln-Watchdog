@@ -3,34 +3,34 @@
   "kiln_id": "BK-SPJ-004",
   "region": "Shariatpur",
   "coordinates": {
-    "latitude": 23.328627,
-    "longitude": 90.348328
+    "latitude": 23.328626,
+    "longitude": 90.348321
   },
   "technology": {
-    "type": "ZIGZAG",
-    "label": "Improved Zigzag Kiln",
-    "badge": "Zigzag",
-    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
-    "compliance_status": "CONDITIONAL_PERMIT",
-    "emission_tier": "Controlled Emission (Permitted)",
-    "banned": false
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 49.7,
-    "width_m": 39.1,
-    "aspect_ratio": 1.27,
-    "area_sqm": 1943.3,
-    "estimated_capacity": 42752
+    "length_m": 49.5,
+    "width_m": 41.0,
+    "aspect_ratio": 1.21,
+    "area_sqm": 2029.5,
+    "estimated_capacity": 44649
   },
   "audit_metrics": {
-    "confidence": 0.582,
-    "estimated_length_m": 49.7,
-    "estimated_width_m": 39.1,
-    "distance_to_receptor_m": 20913.4,
+    "confidence": 0.395,
+    "estimated_length_m": 49.5,
+    "estimated_width_m": 41.0,
+    "distance_to_receptor_m": 20913.3,
     "nearest_receptor": "Shamaspur High School & College, Dhaka-Mawa Highway, Mawa",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SPJ-004_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:58:33.185811+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:58:33",
+  "audit_timestamp": "2026-10-18T13:48:14.714349+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:48:14",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

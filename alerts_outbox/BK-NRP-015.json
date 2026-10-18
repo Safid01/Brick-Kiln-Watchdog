@@ -3,16 +3,16 @@
   "kiln_id": "BK-NRP-015",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.989371,
-    "longitude": 90.602884
+    "latitude": 23.989406,
+    "longitude": 90.602919
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.2,
-    "width_m": 76.4,
-    "aspect_ratio": 1.25,
-    "area_sqm": 7273.3,
-    "estimated_capacity": 160012
+    "length_m": 101.4,
+    "width_m": 69.5,
+    "aspect_ratio": 1.46,
+    "area_sqm": 7047.3,
+    "estimated_capacity": 155040
   },
   "audit_metrics": {
-    "confidence": 0.635,
-    "estimated_length_m": 95.2,
-    "estimated_width_m": 76.4,
-    "distance_to_receptor_m": 3096.4,
+    "confidence": 0.669,
+    "estimated_length_m": 101.4,
+    "estimated_width_m": 69.5,
+    "distance_to_receptor_m": 3097.2,
     "nearest_receptor": "Janata Adarsha Bidyapith",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRP-015_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:46:46.073380+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:46:46",
+  "audit_timestamp": "2026-10-18T14:12:51.270598+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:51",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

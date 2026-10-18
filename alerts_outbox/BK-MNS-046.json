@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNS-046",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.638503,
-    "longitude": 90.352443
+    "latitude": 23.638521,
+    "longitude": 90.352474
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 96.4,
-    "width_m": 78.1,
-    "aspect_ratio": 1.23,
-    "area_sqm": 7528.8,
-    "estimated_capacity": 165633
+    "length_m": 95.1,
+    "width_m": 67.8,
+    "aspect_ratio": 1.4,
+    "area_sqm": 6447.8,
+    "estimated_capacity": 141851
   },
   "audit_metrics": {
-    "confidence": 0.625,
-    "estimated_length_m": 96.4,
-    "estimated_width_m": 78.1,
-    "distance_to_receptor_m": 529.0,
+    "confidence": 0.73,
+    "estimated_length_m": 95.1,
+    "estimated_width_m": 67.8,
+    "distance_to_receptor_m": 530.6,
     "nearest_receptor": "Char Kundlia Government Primary School, Dhaka - Barisal High",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-046_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:52.202507+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:52",
+  "audit_timestamp": "2026-10-18T14:17:09.412735+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:09",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

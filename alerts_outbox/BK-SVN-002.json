@@ -4,15 +4,15 @@
   "region": "Savar",
   "coordinates": {
     "latitude": 23.819552,
-    "longitude": 90.246055
+    "longitude": 90.246027
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.9,
-    "width_m": 87.0,
-    "aspect_ratio": 1.14,
-    "area_sqm": 8604.3,
-    "estimated_capacity": 189294
+    "length_m": 95.3,
+    "width_m": 73.0,
+    "aspect_ratio": 1.31,
+    "area_sqm": 6956.9,
+    "estimated_capacity": 153051
   },
   "audit_metrics": {
-    "confidence": 0.669,
-    "estimated_length_m": 98.9,
-    "estimated_width_m": 87.0,
-    "distance_to_receptor_m": 1202.2,
+    "confidence": 0.743,
+    "estimated_length_m": 95.3,
+    "estimated_width_m": 73.0,
+    "distance_to_receptor_m": 1204.4,
     "nearest_receptor": "Rodela Model High School, School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SVN-002_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:40:44.755666+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:40:44",
+  "audit_timestamp": "2026-10-18T14:06:53.867001+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:53",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

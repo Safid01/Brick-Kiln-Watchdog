@@ -3,16 +3,16 @@
   "kiln_id": "BK-TGK-014",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.369405,
-    "longitude": 90.010049
+    "latitude": 24.369335,
+    "longitude": 90.010076
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 107.8,
-    "width_m": 89.7,
-    "aspect_ratio": 1.2,
-    "area_sqm": 9669.7,
-    "estimated_capacity": 212733
+    "length_m": 102.4,
+    "width_m": 61.5,
+    "aspect_ratio": 1.67,
+    "area_sqm": 6297.6,
+    "estimated_capacity": 138547
   },
   "audit_metrics": {
-    "confidence": 0.477,
-    "estimated_length_m": 107.8,
-    "estimated_width_m": 89.7,
-    "distance_to_receptor_m": 24502.4,
+    "confidence": 0.729,
+    "estimated_length_m": 102.4,
+    "estimated_width_m": 61.5,
+    "distance_to_receptor_m": 24494.4,
     "nearest_receptor": "Jamurki N.S.A.G High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGK-014_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:46:16.861400+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:46:16",
+  "audit_timestamp": "2026-10-18T14:12:21.706486+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

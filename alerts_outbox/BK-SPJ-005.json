@@ -3,8 +3,8 @@
   "kiln_id": "BK-SPJ-005",
   "region": "Shariatpur",
   "coordinates": {
-    "latitude": 23.32777,
-    "longitude": 90.28522
+    "latitude": 23.32778,
+    "longitude": 90.285214
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 92.7,
-    "width_m": 69.8,
-    "aspect_ratio": 1.33,
-    "area_sqm": 6470.5,
-    "estimated_capacity": 142351
+    "length_m": 94.8,
+    "width_m": 71.7,
+    "aspect_ratio": 1.32,
+    "area_sqm": 6797.2,
+    "estimated_capacity": 149538
   },
   "audit_metrics": {
-    "confidence": 0.578,
-    "estimated_length_m": 92.7,
-    "estimated_width_m": 69.8,
-    "distance_to_receptor_m": 19540.8,
+    "confidence": 0.748,
+    "estimated_length_m": 94.8,
+    "estimated_width_m": 71.7,
+    "distance_to_receptor_m": 19539.6,
     "nearest_receptor": "Shamaspur High School & College, Dhaka-Mawa Highway, Mawa",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-SPJ-005_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:58:33.260298+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:58:33",
+  "audit_timestamp": "2026-10-18T13:48:14.477730+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:48:14",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

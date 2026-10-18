@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-NRP-007",
+  "region": "Narsingdi",
+  "coordinates": {
+    "latitude": 23.9908,
+    "longitude": 90.647894
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 122.4,
+    "width_m": 100.3,
+    "aspect_ratio": 1.22,
+    "area_sqm": 12276.7,
+    "estimated_capacity": 270087
+  },
+  "audit_metrics": {
+    "confidence": 0.555,
+    "estimated_length_m": 122.4,
+    "estimated_width_m": 100.3,
+    "distance_to_receptor_m": 2099.9,
+    "nearest_receptor": "Power Develoupment Board High School",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.975605,
+      "longitude": 90.635562
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-NRP-007_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:12:51.498685+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:51",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

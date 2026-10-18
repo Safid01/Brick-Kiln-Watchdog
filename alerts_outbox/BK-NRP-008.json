@@ -3,8 +3,8 @@
   "kiln_id": "BK-NRP-008",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 23.983246,
-    "longitude": 90.674989
+    "latitude": 23.983271,
+    "longitude": 90.675038
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 98.4,
-    "width_m": 72.3,
-    "aspect_ratio": 1.36,
-    "area_sqm": 7114.3,
-    "estimated_capacity": 156514
+    "length_m": 99.8,
+    "width_m": 70.0,
+    "aspect_ratio": 1.43,
+    "area_sqm": 6986.0,
+    "estimated_capacity": 153692
   },
   "audit_metrics": {
-    "confidence": 0.67,
-    "estimated_length_m": 98.4,
-    "estimated_width_m": 72.3,
-    "distance_to_receptor_m": 2108.6,
+    "confidence": 0.78,
+    "estimated_length_m": 99.8,
+    "estimated_width_m": 70.0,
+    "distance_to_receptor_m": 2113.5,
     "nearest_receptor": "Unnamed Facility",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRP-008_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:46:45.891999+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:46:45",
+  "audit_timestamp": "2026-10-18T14:12:50.979928+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:50",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SVE-065",
+  "region": "Savar",
+  "coordinates": {
+    "latitude": 23.791265,
+    "longitude": 90.333048
+  },
+  "technology": {
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 73.6,
+    "width_m": 60.0,
+    "aspect_ratio": 1.23,
+    "area_sqm": 4416.0,
+    "estimated_capacity": 97152
+  },
+  "audit_metrics": {
+    "confidence": 0.381,
+    "estimated_length_m": 73.6,
+    "estimated_width_m": 60.0,
+    "distance_to_receptor_m": 578.5,
+    "nearest_receptor": "Allahar Dan Phermacy, Hospital",
+    "receptor_type": "hospital",
+    "priority_tier": "HIGH",
+    "nearest_receptor_coords": {
+      "latitude": 23.787118,
+      "longitude": 90.329603
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SVE-065_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:06:37.474769+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:06:37",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

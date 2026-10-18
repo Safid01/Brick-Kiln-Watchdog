@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNS-041",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.637691,
-    "longitude": 90.335016
+    "latitude": 23.637701,
+    "longitude": 90.334992
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.5,
-    "width_m": 86.8,
-    "aspect_ratio": 1.18,
-    "area_sqm": 8897.0,
-    "estimated_capacity": 195734
+    "length_m": 101.9,
+    "width_m": 67.6,
+    "aspect_ratio": 1.51,
+    "area_sqm": 6888.4,
+    "estimated_capacity": 151544
   },
   "audit_metrics": {
-    "confidence": 0.668,
-    "estimated_length_m": 102.5,
-    "estimated_width_m": 86.8,
-    "distance_to_receptor_m": 1243.1,
+    "confidence": 0.741,
+    "estimated_length_m": 101.9,
+    "estimated_width_m": 67.6,
+    "distance_to_receptor_m": 1245.8,
     "nearest_receptor": "Baroborta Government Primary School, Baroborta Road, Sirajdikhan Sirajdikhan, Kuchiamora",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-041_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:52.032143+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:52",
+  "audit_timestamp": "2026-10-18T14:17:09.288408+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:09",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

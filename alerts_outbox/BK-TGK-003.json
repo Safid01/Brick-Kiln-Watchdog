@@ -3,8 +3,8 @@
   "kiln_id": "BK-TGK-003",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.35608,
-    "longitude": 90.002802
+    "latitude": 24.356081,
+    "longitude": 90.002838
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 91.9,
-    "width_m": 70.0,
-    "aspect_ratio": 1.31,
-    "area_sqm": 6433.0,
-    "estimated_capacity": 141526
+    "length_m": 94.0,
+    "width_m": 68.2,
+    "aspect_ratio": 1.38,
+    "area_sqm": 6410.8,
+    "estimated_capacity": 141037
   },
   "audit_metrics": {
-    "confidence": 0.683,
-    "estimated_length_m": 91.9,
-    "estimated_width_m": 70.0,
-    "distance_to_receptor_m": 23075.1,
+    "confidence": 0.767,
+    "estimated_length_m": 94.0,
+    "estimated_width_m": 68.2,
+    "distance_to_receptor_m": 23074.8,
     "nearest_receptor": "Jamurki N.S.A.G High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGK-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:46:16.734151+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:46:16",
+  "audit_timestamp": "2026-10-18T14:12:21.527720+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:12:21",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNS-035",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.63538,
-    "longitude": 90.35034
+    "latitude": 23.635362,
+    "longitude": 90.350369
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 106.9,
-    "width_m": 104.7,
-    "aspect_ratio": 1.02,
-    "area_sqm": 11192.4,
-    "estimated_capacity": 246232
+    "length_m": 93.3,
+    "width_m": 71.2,
+    "aspect_ratio": 1.31,
+    "area_sqm": 6643.0,
+    "estimated_capacity": 146146
   },
   "audit_metrics": {
-    "confidence": 0.695,
-    "estimated_length_m": 106.9,
-    "estimated_width_m": 104.7,
-    "distance_to_receptor_m": 582.7,
+    "confidence": 0.753,
+    "estimated_length_m": 93.3,
+    "estimated_width_m": 71.2,
+    "distance_to_receptor_m": 583.4,
     "nearest_receptor": "Bikrampur Adarsha College, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
     "receptor_type": "college",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNS-035_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:50:51.687708+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:50:51",
+  "audit_timestamp": "2026-10-18T14:17:09.039171+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:17:09",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

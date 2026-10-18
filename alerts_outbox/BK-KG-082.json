@@ -3,8 +3,8 @@
   "kiln_id": "BK-KG-082",
   "region": "Keraniganj",
   "coordinates": {
-    "latitude": 23.643607,
-    "longitude": 90.36184
+    "latitude": 23.643651,
+    "longitude": 90.361776
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 136.3,
-    "width_m": 45.6,
-    "aspect_ratio": 2.99,
-    "area_sqm": 6215.3,
-    "estimated_capacity": 136736
+    "length_m": 147.5,
+    "width_m": 134.2,
+    "aspect_ratio": 1.1,
+    "area_sqm": 19794.5,
+    "estimated_capacity": 435479
   },
   "audit_metrics": {
-    "confidence": 0.204,
-    "estimated_length_m": 136.3,
-    "estimated_width_m": 45.6,
-    "distance_to_receptor_m": 1435.0,
+    "confidence": 0.691,
+    "estimated_length_m": 147.5,
+    "estimated_width_m": 134.2,
+    "distance_to_receptor_m": 1429.5,
     "nearest_receptor": "Char Kundlia Government Primary School, Dhaka - Barisal High",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KG-082_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:40:32.943142+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:40:32",
+  "audit_timestamp": "2026-10-18T14:07:11.374123+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:07:11",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

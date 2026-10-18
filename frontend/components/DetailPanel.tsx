@@ -1,7 +1,9 @@
 "use client";
 
+import { useState } from "react";
 import type { Alert } from "@/lib/types";
-import { TIER_LABEL, bufferPct, evidenceUrl, fmtDistance, techClass } from "@/lib/ui";
+import { TIER_LABEL, bufferPct, evidenceUrl, fmtDistance } from "@/lib/ui";
+import { IconCheck, IconClose } from "./icons";
 
 interface Props {
   alert: Alert;
@@ -21,9 +23,11 @@ export default function DetailPanel({
   const tier = a.audit_metrics.priority_tier;
   const img = evidenceUrl(a);
   const hv = a.human_verification;
+  const [brokenFor, setBrokenFor] = useState<string | null>(null);
+  const imgBroken = brokenFor === a.kiln_id;
 
   return (
-    <div className="detail-panel">
+    <aside className={`detail-panel status-${tier}`} aria-label={`Details for ${a.kiln_id}`}>
       <div className="detail-head">
         <div>
           <div className="card-id">{a.kiln_id}</div>
@@ -34,31 +38,22 @@ export default function DetailPanel({
         <div className="detail-head-right">
           <span className={`badge badge-${tier}`}>{TIER_LABEL[tier]}</span>
           <button className="icon-btn" onClick={onClose} aria-label="Close details">
-            ✕
+            <IconClose width={16} height={16} />
           </button>
         </div>
       </div>
 
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      {img && <img className="detail-img" src={img} alt={`Evidence crop for ${a.kiln_id}`} />}
-
-      <div className="detail-meta-box">
-        <label className="meta-label">Technology Specification</label>
-        <select
-          className="detail-tech-select"
-          value={a.technology.type || "FCBTK"}
-          onChange={(e) => onUpdateTechnology?.(a.kiln_id, e.target.value)}
-        >
-          <option value="FCBTK">FCBTK (Fixed Chimney - Banned)</option>
-          <option value="ZIGZAG">Improved Zigzag (Transitional)</option>
-          <option value="HOFFMAN_TUNNEL">Hoffman / Hybrid Tunnel (Approved)</option>
-        </select>
-      </div>
-
-      <div className="stat-grid">
-        <Stat label="Model confidence" value={`${(a.audit_metrics.confidence * 100).toFixed(1)}%`} />
-        <Stat label="Facility status" value={a.operational_status.state || "OPERATIONAL"} />
-      </div>
+      {img && !imgBroken ? (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          className="detail-img"
+          src={img}
+          alt={`Evidence crop for ${a.kiln_id}`}
+          onError={() => setBrokenFor(a.kiln_id)}
+        />
+      ) : (
+        <div className="detail-img thumb-missing">No evidence image for this kiln yet</div>
+      )}
 
       <div className="detail-receptor">
         <div className="muted small">Nearest protected facility</div>
@@ -69,9 +64,30 @@ export default function DetailPanel({
             {fmtDistance(a.audit_metrics.distance_to_receptor_m)}
           </span>
         </div>
-        <div className={`buffer-progress card status-${tier}`} style={{ padding: 0, border: 0, background: "#1e293b" }}>
+        <div className={`buffer-progress status-${tier}`}>
           <div className="buffer-bar" style={{ width: `${bufferPct(a.audit_metrics.distance_to_receptor_m)}%` }} />
         </div>
+      </div>
+
+      <div className="stat-grid">
+        <Stat label="Model confidence" value={`${(a.audit_metrics.confidence * 100).toFixed(1)}%`} />
+        <Stat label="Facility status" value={a.operational_status.state || "OPERATIONAL"} />
+      </div>
+
+      <div className="detail-meta-box">
+        <label className="meta-label" htmlFor="tech-select">
+          Kiln technology
+        </label>
+        <select
+          id="tech-select"
+          className="detail-tech-select"
+          value={a.technology.type || "FCBTK"}
+          onChange={(e) => onUpdateTechnology?.(a.kiln_id, e.target.value)}
+        >
+          <option value="FCBTK">FCBTK (Fixed Chimney - Banned)</option>
+          <option value="ZIGZAG">Improved Zigzag (Transitional)</option>
+          <option value="HOFFMAN_TUNNEL">Hoffman / Hybrid Tunnel (Approved)</option>
+        </select>
       </div>
 
       <div className="muted small">
@@ -87,13 +103,13 @@ export default function DetailPanel({
 
       <div className="detail-actions">
         <button className="btn-sm-action btn-confirm big" onClick={onConfirm}>
-          ✅ Confirm kiln
+          <IconCheck width={14} height={14} /> Confirm kiln
         </button>
         <button className="btn-sm-action btn-reject big" onClick={onReject}>
-          ❌ False alarm
+          <IconClose width={14} height={14} /> False alarm
         </button>
       </div>
-    </div>
+    </aside>
   );
 }
 

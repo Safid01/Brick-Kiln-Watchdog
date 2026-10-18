@@ -3,34 +3,34 @@
   "kiln_id": "BK-FPC-053",
   "region": "Faridpur",
   "coordinates": {
-    "latitude": 23.643472,
-    "longitude": 89.810937
+    "latitude": 23.643435,
+    "longitude": 89.810913
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 89.1,
-    "width_m": 79.1,
-    "aspect_ratio": 1.13,
-    "area_sqm": 7047.8,
-    "estimated_capacity": 155051
+    "length_m": 92.1,
+    "width_m": 64.3,
+    "aspect_ratio": 1.43,
+    "area_sqm": 5922.0,
+    "estimated_capacity": 130284
   },
   "audit_metrics": {
-    "confidence": 0.515,
-    "estimated_length_m": 89.1,
-    "estimated_width_m": 79.1,
-    "distance_to_receptor_m": 21504.4,
+    "confidence": 0.662,
+    "estimated_length_m": 92.1,
+    "estimated_width_m": 64.3,
+    "distance_to_receptor_m": 21505.0,
     "nearest_receptor": "Char Bhadrasan Government College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-FPC-053_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:51:53.904253+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:51:53",
+  "audit_timestamp": "2026-10-18T14:18:13.817739+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:18:13",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

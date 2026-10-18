@@ -3,33 +3,33 @@
   "kiln_id": "BK-NRR-002",
   "region": "Narsingdi",
   "coordinates": {
-    "latitude": 24.007457,
-    "longitude": 90.864758
+    "latitude": 24.007444,
+    "longitude": 90.864766
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 84.5,
-    "width_m": 73.4,
-    "aspect_ratio": 1.15,
-    "area_sqm": 6202.3,
-    "estimated_capacity": 136450
+    "length_m": 82.7,
+    "width_m": 67.3,
+    "aspect_ratio": 1.23,
+    "area_sqm": 5565.7,
+    "estimated_capacity": 122445
   },
   "audit_metrics": {
-    "confidence": 0.686,
-    "estimated_length_m": 84.5,
-    "estimated_width_m": 73.4,
+    "confidence": 0.785,
+    "estimated_length_m": 82.7,
+    "estimated_width_m": 67.3,
     "distance_to_receptor_m": 19097.7,
     "nearest_receptor": "Abdul Kadir Mollah City College",
     "receptor_type": "college",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NRR-002_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:47:48.742769+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:47:48",
+  "audit_timestamp": "2026-10-18T14:13:56.006736+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:13:56",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 89.8,
-    "width_m": 72.1,
-    "aspect_ratio": 1.25,
-    "area_sqm": 6474.6,
-    "estimated_capacity": 142441
+    "length_m": 84.9,
+    "width_m": 63.5,
+    "aspect_ratio": 1.34,
+    "area_sqm": 5391.2,
+    "estimated_capacity": 118606
   },
   "audit_metrics": {
-    "confidence": 0.643,
-    "estimated_length_m": 89.8,
-    "estimated_width_m": 72.1,
-    "distance_to_receptor_m": 26372.7,
+    "confidence": 0.665,
+    "estimated_length_m": 84.9,
+    "estimated_width_m": 63.5,
+    "distance_to_receptor_m": 26372.6,
     "nearest_receptor": "Monohardi Pailot High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-KSB-032_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:53:33.141687+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:53:33",
+  "audit_timestamp": "2026-10-18T14:19:48.273947+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:19:48",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

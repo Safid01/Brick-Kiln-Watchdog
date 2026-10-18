@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-DHM-044",
+  "region": "Dhaka",
+  "coordinates": {
+    "latitude": 23.886115,
+    "longitude": 90.181198
+  },
+  "technology": {
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 67.5,
+    "width_m": 62.0,
+    "aspect_ratio": 1.09,
+    "area_sqm": 4185.0,
+    "estimated_capacity": 92070
+  },
+  "audit_metrics": {
+    "confidence": 0.521,
+    "estimated_length_m": 67.5,
+    "estimated_width_m": 62.0,
+    "distance_to_receptor_m": 2522.5,
+    "nearest_receptor": "Uttor dhamura primary school",
+    "receptor_type": "school",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.904753,
+      "longitude": 90.195409
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-DHM-044_patch.jpg",
+  "audit_timestamp": "2026-10-18T14:08:21.647834+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:08:21",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

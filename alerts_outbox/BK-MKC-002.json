@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKC-002",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.894465,
-    "longitude": 90.054792
+    "latitude": 23.894463,
+    "longitude": 90.054798
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 94.5,
-    "width_m": 76.7,
-    "aspect_ratio": 1.23,
-    "area_sqm": 7248.2,
-    "estimated_capacity": 159460
+    "length_m": 94.7,
+    "width_m": 71.8,
+    "aspect_ratio": 1.32,
+    "area_sqm": 6799.5,
+    "estimated_capacity": 149589
   },
   "audit_metrics": {
-    "confidence": 0.702,
-    "estimated_length_m": 94.5,
-    "estimated_width_m": 76.7,
-    "distance_to_receptor_m": 1396.4,
+    "confidence": 0.809,
+    "estimated_length_m": 94.7,
+    "estimated_width_m": 71.8,
+    "distance_to_receptor_m": 1396.7,
     "nearest_receptor": "\u09b0\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u098f\u09a8\u09cd\u09a1 \u09a1\u09be\u09af\u09bc\u09be\u0997\u09a8\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKC-002_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:49:04.783077+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:49:04",
+  "audit_timestamp": "2026-10-18T14:15:15.082685+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:15:15",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

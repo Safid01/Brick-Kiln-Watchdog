@@ -3,34 +3,34 @@
   "kiln_id": "BK-TGM-021",
   "region": "Tangail",
   "coordinates": {
-    "latitude": 24.08415,
-    "longitude": 90.124739
+    "latitude": 24.084155,
+    "longitude": 90.124759
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.1,
-    "width_m": 87.2,
-    "aspect_ratio": 1.17,
-    "area_sqm": 8903.1,
-    "estimated_capacity": 195868
+    "length_m": 101.7,
+    "width_m": 73.1,
+    "aspect_ratio": 1.39,
+    "area_sqm": 7434.3,
+    "estimated_capacity": 163554
   },
   "audit_metrics": {
-    "confidence": 0.668,
-    "estimated_length_m": 102.1,
-    "estimated_width_m": 87.2,
-    "distance_to_receptor_m": 1505.8,
+    "confidence": 0.742,
+    "estimated_length_m": 101.7,
+    "estimated_width_m": 73.1,
+    "distance_to_receptor_m": 1506.1,
     "nearest_receptor": "Labcare Diagnostic And Hospital, Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-TGM-021_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:45:07.888768+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:45:07",
+  "audit_timestamp": "2026-10-18T14:11:08.349562+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:11:08",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

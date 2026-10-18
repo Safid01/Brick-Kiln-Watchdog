@@ -3,33 +3,33 @@
   "kiln_id": "BK-MDC-030",
   "region": "Madaripur",
   "coordinates": {
-    "latitude": 23.201743,
-    "longitude": 90.21354
+    "latitude": 23.201747,
+    "longitude": 90.213518
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 102.8,
-    "width_m": 92.0,
-    "aspect_ratio": 1.12,
-    "area_sqm": 9457.6,
-    "estimated_capacity": 208067
+    "length_m": 98.7,
+    "width_m": 80.6,
+    "aspect_ratio": 1.22,
+    "area_sqm": 7955.2,
+    "estimated_capacity": 175014
   },
   "audit_metrics": {
-    "confidence": 0.634,
-    "estimated_length_m": 102.8,
-    "estimated_width_m": 92.0,
+    "confidence": 0.637,
+    "estimated_length_m": 98.7,
+    "estimated_width_m": 80.6,
     "distance_to_receptor_m": 33987.5,
     "nearest_receptor": "Shamaspur High School & College, Dhaka-Mawa Highway, Mawa",
     "receptor_type": "college",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MDC-030_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:56:45.996193+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:56:45",
+  "audit_timestamp": "2026-10-18T13:46:27.162496+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:46:27",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

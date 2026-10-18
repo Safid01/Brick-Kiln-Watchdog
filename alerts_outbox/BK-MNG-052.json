@@ -3,16 +3,16 @@
   "kiln_id": "BK-MNG-052",
   "region": "Munshiganj",
   "coordinates": {
-    "latitude": 23.543579,
-    "longitude": 90.662736
+    "latitude": 23.543527,
+    "longitude": 90.662792
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
     "banned": false
   },
   "operational_status": {
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 97.6,
-    "width_m": 90.6,
-    "aspect_ratio": 1.08,
-    "area_sqm": 8842.6,
-    "estimated_capacity": 194537
+    "length_m": 100.2,
+    "width_m": 69.6,
+    "aspect_ratio": 1.44,
+    "area_sqm": 6973.9,
+    "estimated_capacity": 153425
   },
   "audit_metrics": {
-    "confidence": 0.267,
-    "estimated_length_m": 97.6,
-    "estimated_width_m": 90.6,
-    "distance_to_receptor_m": 991.3,
+    "confidence": 0.458,
+    "estimated_length_m": 100.2,
+    "estimated_width_m": 69.6,
+    "distance_to_receptor_m": 987.0,
     "nearest_receptor": "Bokterkandi Primary School",
     "receptor_type": "school",
     "priority_tier": "HIGH",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MNG-052_patch.jpg",
-  "audit_timestamp": "2026-10-17T11:52:16.125523+00:00",
-  "audit_date_formatted": "17 Oct 2026, 17:52:16",
+  "audit_timestamp": "2026-10-18T14:16:38.468208+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:16:38",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

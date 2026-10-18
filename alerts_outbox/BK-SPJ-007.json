@@ -1,0 +1,47 @@
+{
+  "event": "POTENTIAL_KILN_VIOLATION",
+  "kiln_id": "BK-SPJ-007",
+  "region": "Shariatpur",
+  "coordinates": {
+    "latitude": 23.371515,
+    "longitude": 90.320179
+  },
+  "technology": {
+    "type": "HOFFMAN_TUNNEL",
+    "label": "Hoffman / Hybrid Tunnel Kiln",
+    "badge": "Hoffman/Tunnel",
+    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
+    "compliance_status": "APPROVED_TECH",
+    "emission_tier": "Low Particulate (Eco-Approved)",
+    "banned": false
+  },
+  "operational_status": {
+    "state": "OPERATIONAL",
+    "label": "Kiln Facility"
+  },
+  "dimensions": {
+    "length_m": 105.9,
+    "width_m": 92.6,
+    "aspect_ratio": 1.14,
+    "area_sqm": 9806.3,
+    "estimated_capacity": 215738
+  },
+  "audit_metrics": {
+    "confidence": 0.567,
+    "estimated_length_m": 105.9,
+    "estimated_width_m": 92.6,
+    "distance_to_receptor_m": 15455.4,
+    "nearest_receptor": "Shamaspur High School & College, Dhaka-Mawa Highway, Mawa",
+    "receptor_type": "college",
+    "priority_tier": "COMPLIANT",
+    "nearest_receptor_coords": {
+      "latitude": 23.503683,
+      "longitude": 90.271892
+    }
+  },
+  "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
+  "evidence_image": "evidence/BK-SPJ-007_patch.jpg",
+  "audit_timestamp": "2026-10-18T13:48:14.635663+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:48:14",
+  "status": "REQUIRES_HUMAN_VERIFICATION"
+}

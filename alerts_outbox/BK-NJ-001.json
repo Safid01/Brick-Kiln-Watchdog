@@ -3,8 +3,8 @@
   "kiln_id": "BK-NJ-001",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.649203,
-    "longitude": 90.545603
+    "latitude": 23.649196,
+    "longitude": 90.545606
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 100.1,
-    "width_m": 97.7,
-    "aspect_ratio": 1.02,
-    "area_sqm": 9779.8,
-    "estimated_capacity": 215155
+    "length_m": 96.1,
+    "width_m": 86.1,
+    "aspect_ratio": 1.12,
+    "area_sqm": 8274.2,
+    "estimated_capacity": 182032
   },
   "audit_metrics": {
-    "confidence": 0.781,
-    "estimated_length_m": 100.1,
-    "estimated_width_m": 97.7,
-    "distance_to_receptor_m": 3030.0,
+    "confidence": 0.797,
+    "estimated_length_m": 96.1,
+    "estimated_width_m": 86.1,
+    "distance_to_receptor_m": 3029.6,
     "nearest_receptor": "Bandar Upazila Health Complex",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJ-001_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:43:44.534876+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:43:44",
+  "audit_timestamp": "2026-10-18T14:09:45.908961+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:45",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

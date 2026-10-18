@@ -3,8 +3,8 @@
   "kiln_id": "BK-MKS-008",
   "region": "Manikganj",
   "coordinates": {
-    "latitude": 23.789047,
-    "longitude": 90.121049
+    "latitude": 23.789074,
+    "longitude": 90.121027
   },
   "technology": {
     "type": "HOFFMAN_TUNNEL",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 134.2,
-    "width_m": 128.1,
-    "aspect_ratio": 1.05,
-    "area_sqm": 17191.0,
-    "estimated_capacity": 378202
+    "length_m": 114.3,
+    "width_m": 73.1,
+    "aspect_ratio": 1.56,
+    "area_sqm": 8355.3,
+    "estimated_capacity": 183816
   },
   "audit_metrics": {
-    "confidence": 0.685,
-    "estimated_length_m": 134.2,
-    "estimated_width_m": 128.1,
-    "distance_to_receptor_m": 2444.6,
+    "confidence": 0.783,
+    "estimated_length_m": 114.3,
+    "estimated_width_m": 73.1,
+    "distance_to_receptor_m": 2441.6,
     "nearest_receptor": "Matrchaya Kinder Garden, Kindergarten",
     "receptor_type": "kindergarten",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-MKS-008_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:48:29.062341+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:48:29",
+  "audit_timestamp": "2026-10-18T14:14:36.438525+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:14:36",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

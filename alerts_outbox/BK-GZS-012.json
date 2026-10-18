@@ -3,8 +3,8 @@
   "kiln_id": "BK-GZS-012",
   "region": "Gazipur",
   "coordinates": {
-    "latitude": 24.183734,
-    "longitude": 90.437357
+    "latitude": 24.183755,
+    "longitude": 90.437344
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 95.2,
-    "width_m": 72.4,
-    "aspect_ratio": 1.31,
-    "area_sqm": 6892.5,
-    "estimated_capacity": 151635
+    "length_m": 94.1,
+    "width_m": 67.2,
+    "aspect_ratio": 1.4,
+    "area_sqm": 6323.5,
+    "estimated_capacity": 139117
   },
   "audit_metrics": {
-    "confidence": 0.546,
-    "estimated_length_m": 95.2,
-    "estimated_width_m": 72.4,
-    "distance_to_receptor_m": 4828.3,
+    "confidence": 0.351,
+    "estimated_length_m": 94.1,
+    "estimated_width_m": 67.2,
+    "distance_to_receptor_m": 4829.8,
     "nearest_receptor": "Muktijoddha Degree College",
     "receptor_type": "college",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GZS-012_patch.jpg",
-  "audit_timestamp": "2026-10-17T16:01:52.200638+00:00",
-  "audit_date_formatted": "17 Oct 2026, 22:01:52",
+  "audit_timestamp": "2026-10-18T14:09:29.846797+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:29",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

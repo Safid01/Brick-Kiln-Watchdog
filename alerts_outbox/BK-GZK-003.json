@@ -3,8 +3,8 @@
   "kiln_id": "BK-GZK-003",
   "region": "Gazipur",
   "coordinates": {
-    "latitude": 24.034741,
-    "longitude": 90.193648
+    "latitude": 24.034734,
+    "longitude": 90.193644
   },
   "technology": {
     "type": "ZIGZAG",
@@ -20,17 +20,17 @@
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 96.6,
-    "width_m": 69.3,
-    "aspect_ratio": 1.39,
-    "area_sqm": 6694.4,
-    "estimated_capacity": 147276
+    "length_m": 96.8,
+    "width_m": 59.7,
+    "aspect_ratio": 1.62,
+    "area_sqm": 5779.0,
+    "estimated_capacity": 127138
   },
   "audit_metrics": {
-    "confidence": 0.695,
-    "estimated_length_m": 96.6,
-    "estimated_width_m": 69.3,
-    "distance_to_receptor_m": 3855.1,
+    "confidence": 0.79,
+    "estimated_length_m": 96.8,
+    "estimated_width_m": 59.7,
+    "distance_to_receptor_m": 3856.0,
     "nearest_receptor": "Sreefaltoli Hospital",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-GZK-003_patch.jpg",
-  "audit_timestamp": "2026-10-17T16:01:25.846107+00:00",
-  "audit_date_formatted": "17 Oct 2026, 22:01:25",
+  "audit_timestamp": "2026-10-18T14:09:03.112849+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:03",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

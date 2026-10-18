@@ -3,34 +3,34 @@
   "kiln_id": "BK-RBG-009",
   "region": "Rajbari",
   "coordinates": {
-    "latitude": 23.708589,
-    "longitude": 89.726143
+    "latitude": 23.708593,
+    "longitude": 89.726169
   },
   "technology": {
-    "type": "HOFFMAN_TUNNEL",
-    "label": "Hoffman / Hybrid Tunnel Kiln",
-    "badge": "Hoffman/Tunnel",
-    "description": "Large-scale continuous hybrid tunnel kiln with permanent shed structure.",
-    "compliance_status": "APPROVED_TECH",
-    "emission_tier": "Low Particulate (Eco-Approved)",
-    "banned": false
+    "type": "FCBTK",
+    "label": "FCBTK (Fixed Chimney Bull's Trench)",
+    "badge": "FCBTK (Banned)",
+    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
+    "compliance_status": "BANNED_ILLEGAL",
+    "emission_tier": "Severe Polluter (Banned)",
+    "banned": true
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 105.4,
-    "width_m": 97.1,
+    "length_m": 100.0,
+    "width_m": 92.0,
     "aspect_ratio": 1.09,
-    "area_sqm": 10234.3,
-    "estimated_capacity": 225154
+    "area_sqm": 9200.0,
+    "estimated_capacity": 202400
   },
   "audit_metrics": {
-    "confidence": 0.697,
-    "estimated_length_m": 105.4,
-    "estimated_width_m": 97.1,
-    "distance_to_receptor_m": 28377.7,
+    "confidence": 0.745,
+    "estimated_length_m": 100.0,
+    "estimated_width_m": 92.0,
+    "distance_to_receptor_m": 28375.0,
     "nearest_receptor": "Dakshin Chandpur High School",
     "receptor_type": "school",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-RBG-009_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:57:20.734223+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:57:20",
+  "audit_timestamp": "2026-10-18T13:47:02.395381+00:00",
+  "audit_date_formatted": "18 Oct 2026, 19:47:02",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }

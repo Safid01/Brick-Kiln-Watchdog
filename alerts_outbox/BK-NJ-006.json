@@ -3,34 +3,34 @@
   "kiln_id": "BK-NJ-006",
   "region": "Narayanganj",
   "coordinates": {
-    "latitude": 23.644956,
-    "longitude": 90.549671
+    "latitude": 23.64497,
+    "longitude": 90.549488
   },
   "technology": {
-    "type": "FCBTK",
-    "label": "FCBTK (Fixed Chimney Bull's Trench)",
-    "badge": "FCBTK (Banned)",
-    "description": "Traditional open-trench kiln with high black carbon emissions. Strictly prohibited by DoE.",
-    "compliance_status": "BANNED_ILLEGAL",
-    "emission_tier": "Severe Polluter (Banned)",
-    "banned": true
+    "type": "ZIGZAG",
+    "label": "Improved Zigzag Kiln",
+    "badge": "Zigzag",
+    "description": "Forced/induced draft zigzag chamber design with enhanced fuel combustion.",
+    "compliance_status": "CONDITIONAL_PERMIT",
+    "emission_tier": "Controlled Emission (Permitted)",
+    "banned": false
   },
   "operational_status": {
     "state": "OPERATIONAL",
     "label": "Kiln Facility"
   },
   "dimensions": {
-    "length_m": 83.1,
-    "width_m": 72.2,
-    "aspect_ratio": 1.15,
-    "area_sqm": 5999.8,
-    "estimated_capacity": 131995
+    "length_m": 92.6,
+    "width_m": 62.3,
+    "aspect_ratio": 1.49,
+    "area_sqm": 5769.0,
+    "estimated_capacity": 126918
   },
   "audit_metrics": {
-    "confidence": 0.698,
-    "estimated_length_m": 83.1,
-    "estimated_width_m": 72.2,
-    "distance_to_receptor_m": 3040.7,
+    "confidence": 0.762,
+    "estimated_length_m": 92.6,
+    "estimated_width_m": 62.3,
+    "distance_to_receptor_m": 3026.1,
     "nearest_receptor": "Bandar Upazila Health Complex",
     "receptor_type": "hospital",
     "priority_tier": "COMPLIANT",
@@ -41,7 +41,7 @@
   },
   "statutory_basis": "Brick Manufacturing and Kiln Construction (Control) Act - 1,000m Buffer Mandate",
   "evidence_image": "evidence/BK-NJ-006_patch.jpg",
-  "audit_timestamp": "2026-10-17T15:43:44.724659+00:00",
-  "audit_date_formatted": "17 Oct 2026, 21:43:44",
+  "audit_timestamp": "2026-10-18T14:09:46.132435+00:00",
+  "audit_date_formatted": "18 Oct 2026, 20:09:46",
   "status": "REQUIRES_HUMAN_VERIFICATION"
 }
